@@ -1,0 +1,26 @@
+<div class="sidebar sticky-top">   
+
+	{% if page.path contains '_posts' %}
+	<div class="sidebar-section">
+        <h5><span>Latest posts</span></h5>
+		{% for post in site.posts limit:5 %}
+		<a href="{{ post.url }}">{{ post.title }}</a><br/>
+		{% endfor %}
+    </div>
+    {% endif %}
+
+    {% if {{site.newsletter_section}} == true %}
+    <div class="sidebar-section">
+        <h5><span>Newsletter</span></h5>
+        {% include newsletter.html %}
+    </div>
+    {% endif %}
+
+    {% if {{site.sidebar_ad}} == true %}
+    <div class="sidebar-section">
+        <h5><span>ADS</span></h5>
+        <img class="mx-auto d-block" src="{{site.baseurl}}/assets/images/ad_sidebar.png">
+    </div>
+    {% endif %}
+
+</div>
