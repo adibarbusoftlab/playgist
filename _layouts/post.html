@@ -90,8 +90,10 @@ post_class: post-template
             <!-- Begin Comments
             ================================================== -->
             <section>
-            <div id="comments">                          
+            <div id="comments">   
+           {% if page.disqus_section == true %}                       
                 {% include disqus.html %} 
+                {% endif %}   
             </div>
             </section>
             <!--End Comments
