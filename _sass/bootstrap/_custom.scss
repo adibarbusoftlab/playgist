@@ -1,0 +1,68 @@
+
+
+#eucookies {
+	display: none;
+	text-align: center;
+	position: fixed;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background: #000;
+	color: #fff;
+	padding: 5px;
+	z-index: 999999;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	opacity: .97
+}
+
+#eucookies p {
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 30px;
+	font-size: 12pt;
+	margin: 0 10px;
+	display: inline-block;
+	max-width: 1000px
+}
+
+#eucookies button {
+	border: 0;
+	outline: 0;
+	background-color: rgb(74, 144, 226);
+	color: #111!important;
+	border-radius: 2px;
+	cursor: pointer;
+	padding: 3px 20px;
+	margin-top: 5px
+}
+
+#eucookies button a:hover {
+	background-color: #fff
+}
+
+#eucookies a,
+#eucookies a:visited {
+	text-decoration: none;
+	color: #31a8f0
+}
+
+#eucookies a:hover,
+#eucookies a:active {
+	color: #b2f7ff;
+	font-weight: 400
+}
+
+
+
+
+.entry-meta {
+    margin: 10px 0;
+    color: #999;
+    padding-bottom: 15px;
+    border-bottom: 1px dashed #e1e1e1;
+    padding-top: 15px;
+    border-top: 1px dashed #e1e1e1;
+}
+
+
+
