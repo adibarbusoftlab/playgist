@@ -1,1 +1,1 @@
-# mydoctheme
+# Jekyll Theme
