@@ -1,7 +1,7 @@
 title: "Domain | Play Store tutorials and tops of apps"
 email: contact@domain.com
 timezone: UTC
-baseurl: "https://adibarbusoftlab.github.io/gplaysite/"
+baseurl: "gplaysite/"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
