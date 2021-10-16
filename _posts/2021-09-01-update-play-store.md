@@ -4,6 +4,7 @@ title:  "Google Play Store Update - how to do it?"
 author: adrian
 categories: [ Play Store]
 image: assets/images/play-store.png
+permalink: /update-play-store/
 ---
 Generally, the Google Play Store app is set to update itself automatically when new versions of the application are released. However, depending on the settings and the Internet connection type (via 3G/4G or Wi-Fi), sometimes updating can be done only manually.
 

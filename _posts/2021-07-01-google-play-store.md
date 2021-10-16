@@ -4,6 +4,7 @@ title:  "What is Google Play, where to find it and how to use it"
 author: adrian
 categories: [ Play Store]
 image: assets/images/play-store.png
+permalink: /google-play-store/
 ---
 Google Play is, in many ways, the most important Android app. The user can utilize it to install a vast collection of Android apps. The user can also access and/or download various digital content such as music, movies, books, electronic magazines, etc., both for a fee and free of charge, depending on the license type under which the content is offered.
 

@@ -4,6 +4,7 @@ title:  "Downloading and installing/updating Google Play | Tutorial"
 author: adrian
 categories: [ Play Store]
 image: assets/images/play-store.png
+permalink: /download-play-store/
 ---
 
 The Google Play app is a center where to customize Android devices, being a default app on most phones or tablets. With this app, you can access, download, install, update and/or use varied content types, for e.g., applications, games, music, movies or TV shows, e-Books, etc.
