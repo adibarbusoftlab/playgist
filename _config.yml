@@ -43,6 +43,7 @@ sidebar_ad: false
 header_ad: false
 index_intro: true
 newsletter_section: true
+disqus_section: false
 
 #language
 
