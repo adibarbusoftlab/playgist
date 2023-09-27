@@ -102,7 +102,7 @@ t:
     BelongsToCategory: "În"
     tags: "Etichete"
 
-ad_post_first: "<img alt=\"Ads section\" class=\"mx-auto d-block\" src=\"{{ site.baseurl }}/assets/images/ad_header2.png\">"
+ad_post_first_temp: "<img alt=\"Ads section\" class=\"mx-auto d-block\" src=\"/assets/images/ad_header2.png\">"
 
 # Plugins
 plugins: 
