@@ -110,8 +110,10 @@ small, .small {
 	z-index: 9999;
 	-webkit-transition : all 0.3s ease-out;
 	transition : all 0.3s ease-out;
-    position:fixed;
-    background:#fff;
+    /*  position:fixed; */
+    position:absolute;
+    background:#f5f5f5;
+    border-bottom: 1px dashed #e1e1e1;
 }
 .social-icon {
     display: inline-block !important;
@@ -123,7 +125,8 @@ small, .small {
 /* Sidebar
 ================================================== */
 .sidebar.sticky-top {
-    top:96px;
+/*  top:96px; */
+   top:15px;
     .dropdown-item {
         opacity:.6;
     }
@@ -254,6 +257,13 @@ small, .small {
 	margin-top:10px;
 	font-size:0.95rem;
 }
+
+.post-bottom-stars {
+    text-align: center;
+    color: #274e13;
+    font-weight: bold;
+}
+
 .author-meta {
 	flex:1 1 auto;
 	white-space:nowrap!important;
@@ -294,6 +304,36 @@ span.post-name a,span.post-read-more a:hover {
 .article-post>*{
     margin-bottom:1.5rem;
 }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+
+  .article-image-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    max-height: 400px;
+  }
+
+  .article-image-left {
+    display: block;
+    text-align: center;
+    max-height: 300px;
+  }
+
+  .article-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
 .article-post {
     font-size: 1.18em;
     line-height: 1.64;
@@ -326,6 +366,7 @@ blockquote {
 .featured-image {
     display: block;
     margin-bottom: 2rem;
+    margin: 0 auto;
 }
 
 .full-width {
@@ -356,6 +397,79 @@ blockquote {
 	border-top-right-radius:4px;
 	border-top-left-radius:4px;
 }
+
+/* Custom css for postbox */
+/* Add this CSS to your stylesheet */
+.post {
+    display: flex;
+    background: #f5f5f5;
+    border-bottom: 1px dashed #e1e1e1;
+}
+
+.post-content {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    width: 100%;
+    overflow: hidden; /* Ensure content doesn't overflow on mobile devices */
+}
+
+.post-image {
+    flex: 1;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 10px; /* Add padding to the image */
+    display: block;
+    max-width: 100%;
+    height: auto;
+    max-height: 300px;
+    margin: 0 auto;
+    
+}
+
+.post-details {
+    flex: 2;
+    padding: 10px; /* Add padding to the article details */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.post-title {
+    margin-top: 0;
+}
+
+.post-description {
+    margin-bottom: 10px;
+    flex-grow: 1;
+}
+
+.read-article {
+    text-decoration: none;
+    color: #007bff;
+}
+
+.post-info {
+margin: 1em 0;
+font-size: 95%;
+}
+
+@media (max-width: 768px) {
+    /* Disable fixed height for mobile devices and tablets */
+    .post {
+        height: auto;
+        flex-direction: column; /* Stack content vertically on mobile devices */
+    }
+
+    .post-image {
+        flex: auto; /* Image takes full width on mobile */
+
+    }
+}
+
+/* End custom css for postbox */
+
 ul.tags {
 	list-style:none;
 	padding-left:0;
@@ -492,6 +606,8 @@ background-color: #fff;
     font-size: 14px;
     text-transform: uppercase;
     letter-spacing: 1px;
+    color: #ca2129;
+    
 }
 .sidebar h5:before {
     margin-bottom: 0;
@@ -506,14 +622,14 @@ background-color: #fff;
 }
 .sidebar ul {list-style:none;padding-left:0;}
 .sidebar ul li a {
-    color: #999;
+    color: black;
     border-bottom: 1px solid #f6f6f6;
     display: block;
     padding-bottom: 7px;
     padding-top: 7px;
 }
 .sidebar-section {     
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
     box-shadow:0 0px 1px 0 rgba(0, 0, 0, 0.44);
     padding: 30px;
 }
@@ -601,15 +717,39 @@ span.navigation:before {
 }
 
 .footer {
-    margin-top:4rem;
+    margin-top:2rem;
     padding:30px 0;
     ul li {
         display: inline-block;
         padding:10px;
     }
+    border-top: 2px ridge #ca2129;
 }
 
 .hover-opacity:hover {
-    transition: all.3s;
+    transition: all 0.3s;
     opacity:.8;
 }
+
+.post-meta {
+    margin: 10px 0;
+    color: #999;
+    padding-bottom: 15px;
+    border-bottom: 1px dashed #e1e1e1;
+    padding-top: 15px;
+    border-top: 1px dashed #e1e1e1;
+}
+
+.post-list {
+    list-style: none;
+    padding: 0;
+
+}
+
+.sidebar-section .post-list li a {
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    
+}
+

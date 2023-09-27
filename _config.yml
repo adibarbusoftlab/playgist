@@ -1,3 +1,4 @@
+include: ['.htaccess']
 title: "Domain | Play Store tutorials and tops of apps"
 email: contact@domain.com
 timezone: UTC
@@ -6,12 +7,11 @@ permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Adrian
-paginate: 10
-disqus: 'demowebsite'
+paginate: 3
 locale: en_us
 lang: en_us
 feed_items: 3
-feed_update_period: daily
+feed_update_period: weekly
 feed_update_frequency: 1
 markdown: kramdown
 kramdown:
@@ -28,9 +28,7 @@ authors:
     name: Adrian
     display_name: Adrian
     avatar: 'assets/images/adrian.png'
-    email: contact@domain.com
-    web: https://domain.com/
-    description: "Author of Domain.com, he’s very enthusiastic about the Android platform, staying tuned to everything new about it. He's a master of Google Play Store, knowing the right apps to use depending on the needs of use."
+    description: "A passionate Android enthusiast with extensive knowledge of Google Play Store."
 
 # Social
 social:
@@ -38,20 +36,73 @@ social:
   facebook: https://www.facebook.com/
   twitter: https://twitter.com/
 
-  #Ads
+#Ads
 sidebar_ad: false
 header_ad: false
 index_intro: true
-newsletter_section: true
-disqus_section: false
 
-#language
+# Translations
+t:
+  en:
+    latestPosts: "LATEST POSTS"
+    adsTitle: "Sponsored ads"
+    siteCopyright: "All rights reserved."
+    siteDescription: "Play Store tutorials and tops of apps"
+    cookieMessage: "By continuing to use this site you consent to the use of cookies on your device as described in the <a href=\"/en/cookie-policy/\" rel=\"nofollow\">cookie policy</a> unless you have disabled them. You can change your cookie settings at any time but parts of this site will not function correctly without them."
+    cookieBotton: "Agree and proceed"
+    homePage:
+      name: "Home"
+      url: "/"
+    aboutPage:
+      name: "About"
+      url: "/en/about/"
+    contactPage:
+      name: "Contact"
+      url: "/en/contact/"
+    privacyPolicyPage:
+      name: "Privacy Policy"
+      url: "/en/privacy-policy/"
+    cookiePolicyPage:
+      name: "Cookie Policy"
+      url: "/en/cookie-policy/"
+    relatedPosts: "Related Posts"
+    differentLanguages: "Read this page in a different language"
+    language:
+      en: "English"
+      ro: "Romanian"
+    BelongsToCategory: "In"
+    tags: "Tags"
+  ro:
+    latestPosts: "ULTIMELE POSTĂRI"
+    adsTitle: "Anunțuri sponsorizate"
+    siteCopyright: "Toate drepturile rezervate."
+    siteDescription: "Tutoriale Magazin Play și topuri cu aplicații"
+    cookieMessage: "Prin navigarea pe acest site ești de acord cu folosirea cookie-urilor în modul descris în pagina cu <a href=\"/ro/politica-cookie/\" rel=\"nofollow\">politica cookies</a>. Poți schimba oricând setările cookie ale navigatorului web, însă secțiuni din site nu vor funcționa corect."
+    cookieBotton: "Accept și continui"
+    homePage:
+      name: "Acasă"
+      url: "/"
+    aboutPage:
+      name: "Despre"
+      url: "/ro/about/"
+    contactPage:
+      name: "Contact"
+      url: "/ro/contact/"
+    privacyPolicyPage:
+      name: "Politică confidențialitate"
+      url: "/ro/politica-confidentialitate/"
+    cookiePolicyPage:
+      name: "Politica Cookies"
+      url: "/ro/politica-cookie/"
+    relatedPosts: "Postări asemănătoare"
+    differentLanguages: "Citește articolul în altă limbă"
+    language:
+      en: "Engleză"
+      ro: "Română"
+    BelongsToCategory: "În"
+    tags: "Etichete"
 
-
-
-
-
-
+ad_post_first: "<img alt=\"Ads section\" class=\"mx-auto d-block\" src=\"/assets/images/ad_header2.png\">"
 
 # Plugins
 plugins: 

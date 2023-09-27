@@ -1,120 +1,138 @@
 ---
 layout: default
-disqus: false
 archive: false
 post_class: post-template
 ---
 
 <!-- Begin Article
-================================================== -->
+  ================================================== -->
 
-	<div class="row">
-		
-
-		<!-- Post -->        
-        {% assign author = site.authors[page.author] %}
-        
-		<div class="col-md-8">
-            <!-- Post Featured Image -->
-			{% if page.image %}<img class="featured-image img-fluid rounded" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
-			<!-- End Featured Image -->
-			<div class="mainheading">             
-                   <!-- Post Date -->
-          
-            
-                <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
-                {% if page.last_modified_at %}
-                (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
-                {% endif %}
-             
-
-                <!-- Post Categories -->
-                <div class="after-post-tags">
-                    <ul class="tags">
-                        {% assign sortedCategories = page.categories | sort %}
-                        {% for category in sortedCategories %}
-                        <li>
-                         <a href="{{ site.baseurl }}/categories#{{ category | slugify }}">{{ category }}</a>
-                        </li>
-                        {% endfor %}
-                    </ul>
-                </div>
-                <!-- End Categories -->
-                
-                <!-- Post Title -->
-				<h1 class="posttitle">{{ page.title }}</h1> 
-                
-			</div>
-
-			
-
-			<!-- Post Content -->
-			<div class="article-post serif-font">
-				{{content}}
-                <div class="clearfix"></div>
-			</div>
-
-         
-			
-            
-            <!-- Prev/Next -->
-            <div class="row PageNavigation mt-4 prevnextlinks d-flex justify-content-between">
-              {% if page.previous.url %}
-                <div class="col-md-6 rightborder pl-0">
-                    <a class="thepostlink" href="{{page.previous.url | absolute_url}}">&laquo; {{page.previous.title}}</a>
-                </div>
-              {% endif %}
-              {% if page.next.url %}
-                <div class="col-md-6 text-right pr-0">
-                    <a class="thepostlink" href="{{page.next.url | absolute_url}}">{{page.next.title}} &raquo;</a>
-                </div>
-              {% endif %}
-            </div>
-            <!-- End Prev/Next -->
-            
-            
-             <!-- Author Box -->
-                {% if page.author %}				
-				<div class="row post-top-meta">
-					<div class="col-md-2">
-						<img class="author-thumb" src="{{site.baseurl}}/{{author.avatar}}" alt="{{ author.display_name }}">
-					</div>
-					<div class="col-md-10">
-						<a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a>
-						<span class="author-description">{{ author.description }}</span>						
-					</div>
-				</div>				
-                {% endif %}
-            
-            
-            <!-- Begin Comments
-            ================================================== -->
-            <section>
-            <div id="comments">   
-           {% if page.disqus_section == true %}                       
-                {% include disqus.html %} 
-                {% endif %}   
-            </div>
-            </section>
-            <!--End Comments
-            ================================================== -->
-            
-            
-
-		</div>
-		<!-- End Post -->
+  <article class="row" itemscope itemtype="https://schema.org/Article">
+    <!-- Post -->        
+    {% assign author = site.authors[page.author] %}
+    <div class="col-md-8">
 
 
-        
+      <div class="mainheading">
 
-		<!-- Sidebar -->
-        <div class="col-md-4">
+       <!-- Post Title -->
+       <h1 itemprop="headline" class="posttitle">{{ page.title }}</h1>
+       <!-- END Post Title -->
+
+       <!-- Post Meta-->
+       <div class="post-meta">
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person" viewBox="0 0 16 16">
+          <path d="M8 8a3 3 0 1 0 0-6 3 3 0 0 0 0 6zm2-3a2 2 0 1 1-4 0 2 2 0 0 1 4 0zm4 8c0 1-1 1-1 1H3s-1 0-1-1 1-4 6-4 6 3 6 4zm-1-.004c-.001-.246-.154-.986-.832-1.664C11.516 10.68 10.289 10 8 10c-2.29 0-3.516.68-4.168 1.332-.678.678-.83 1.418-.832 1.664h10z"/>
+        </svg>
+
+        <span itemprop="name">{{ author.display_name }}</span>
+
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-dot" viewBox="0 0 16 16">
+          <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3z"/>
+        </svg>
+        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-calendar4" viewBox="0 0 16 16">
+          <path d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5zM2 2a1 1 0 0 0-1 1v1h14V3a1 1 0 0 0-1-1H2zm13 3H1v9a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V5z"/>
+        </svg>
+
+        <!-- Post Date -->
+        {% if page.lang == 'en' %}
+        {% assign postDate = page.date | date_to_string %}
+        {% endif %}
+        {% if page.lang == 'ro' %}
+        {% assign postDate = page.date | date: "%d.%m.%Y" %}
+        {% endif %}
+        <time itemprop="datePublished" class="post-date" datetime="{{ postDate | date_to_xmlschema }}">{{ postDate }}</time>           
+      </div> <!-- END Post Meta-->
+
+    </div> <!-- END mainheading -->
+
+    <!-- Post Content -->
+    <div class="article-post serif-font">
+
+    {{ content | replace: '<!--ADSPACE_ID:2x2-->', site.ad_post_first | replace: '<!--Featured_Image_ID:1x101010-->', postImage }}
+
+
+      <!--  Display alternate translation options for each post -->
+      {% if page.layout != 'index' %}
+      {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+      {% if posts.size == 0 %}
+      {% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+      {% endif %}
+      {% if posts.size > 1 %}
+
+      {% comment %} TODO: improve logic !!! {% endcomment %}
+
+      <div class="lang-options">
+
+        <em>{{ site.t[page.lang].differentLanguages }}:</em>
+        <ul>
+          {% for post in posts %}
+          {% if post.lang != page.lang %}
+          {% if page.lang == 'en' %}
+          <li><a href="{{ site.base-url }}{{ post.url }}" class="{{ post.lang }}">{{ site.t[page.lang].language[post.lang] }}</a></li>
+          {% elsif page.lang  == 'ro' %}
+          <li><a href="{{ site.base-url }}{{ post.url }}" class="{{ post.lang }}">{{ site.t[page.lang].language[post.lang] }}</a></li>
+          {% endif %}
+
+
+          {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+      {% endif %}
+
+      <div class="clearfix"></div>
+      <!-- Post Categories -->
+      <div class="after-post-tags" itemprop="about" itemscope itemtype="https://schema.org/URL">
+        {{site.t[page.lang].tags}}:
+        <ul class="tags">
+          {% assign sortedCategories = page.categories | sort %}
+          {% for category in sortedCategories %}
+          <li>
+           <a href="{{ site.baseurl }}/{{page.lang}}/categories#{{ category | slugify }}">{{ category }}</a>
+           <link itemprop="url" href="{{ site.baseurl }}/{{page.lang}}/categories#{{ category | slugify }}">
+         </li>
+         {% endfor %}
+       </ul>
+     </div>
+     <!-- End Categories -->
+
+   </div>
+
+   <!-- Prev/Next -->
+   <div class="row PageNavigation mt-4 prevnextlinks d-flex justify-content-between">
+    {% for post in site.posts %} {% if post.lang == page.lang %}{% if prev %}
+    <div class="col-md-6 rightborder pl-0">
+      <a class="thepostlink" href="{{post.url}}">&laquo; {{post.title}}</a>
+    </div>{% break %}
+    {% endif %}
+    {% assign prev = false %}
+    {% if post.id == page.id %}
+    {% assign prev = true %}
+    {% endif %}{% endif %}{% endfor %}
+    {% for post in site.posts reversed %}{% if post.lang == page.lang %}{% if next %}
+    <div class="col-md-6 text-right pr-0">
+      <a class="thepostlink" href="{{post.url}}">{{post.title}} &raquo;</a>
+    </div>{% break %}
+    {% endif %}
+    {% assign next = false %}
+    {% if post.id == page.id %}
+    {% assign next = true %}
+    {% endif %}{% endif %}{% endfor %}
+  </div>
+  <!-- End Prev/Next -->
+
+
+          </div>
+          <!-- End Post -->
+
+          <!-- Sidebar -->
+          <div class="col-md-4">
             {% include sidebar.html %}
-            </div>
-        
-        
+          </div>
 
-	</div>
+        </article>
 
 <!-- End Article
 ================================================== -->

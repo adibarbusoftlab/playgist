@@ -1,26 +1,31 @@
-<div class="sidebar sticky-top">   
-
-	{% if page.path contains '_posts' %}
-	<div class="sidebar-section">
-        <h5><span>Latest posts</span></h5>
-		{% for post in site.posts limit:5 %}
-		<a href="{{ post.url }}">{{ post.title }}</a><br/>
-		{% endfor %}
-    </div>
-    {% endif %}
-
-    {% if {{site.newsletter_section}} == true %}
+<div class="sidebar sticky-top">
+    {% if page.path contains '_posts' %}
     <div class="sidebar-section">
-        <h5><span>Newsletter</span></h5>
-        {% include newsletter.html %}
+        <h5><span>{{site.t[page.lang].latestPosts}}</span></h5>
+        <ul class="post-list">
+            {% assign posts = site.posts | where:"lang", page.lang %}
+            {% for post in posts limit:5 %}
+            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
+        </ul>
     </div>
     {% endif %}
+
+    <div class="sidebar-section">
+        <h5><span>{{site.t[page.lang].tags}}</span></h5>
+        <ul class="tags">
+          {% for category in site.categories %}
+            <li>
+              <a href="{{ site.baseurl }}/{{ page.lang }}/categories#{{ category[0] | slugify }}">{{ category[0] }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
 
     {% if {{site.sidebar_ad}} == true %}
     <div class="sidebar-section">
-        <h5><span>ADS</span></h5>
+        <h5><span>{{site.t[page.lang].adsTitle}}</span></h5>
         <img class="mx-auto d-block" src="{{site.baseurl}}/assets/images/ad_sidebar.png">
     </div>
     {% endif %}
-
 </div>
