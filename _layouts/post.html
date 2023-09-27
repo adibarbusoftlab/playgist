@@ -69,9 +69,9 @@ post_class: post-template
           {% for post in posts %}
           {% if post.lang != page.lang %}
           {% if page.lang == 'en' %}
-          <li><a href="{{ site.base-url }}{{ post.url }}" class="{{ post.lang }}">{{ site.t[page.lang].language[post.lang] }}</a></li>
+          <li><a href="{{site.baseurl}}{{ post.url }}" class="{{ post.lang }}">{{ site.t[page.lang].language[post.lang] }}</a></li>
           {% elsif page.lang  == 'ro' %}
-          <li><a href="{{ site.base-url }}{{ post.url }}" class="{{ post.lang }}">{{ site.t[page.lang].language[post.lang] }}</a></li>
+          <li><a href="{{site.baseurl}}{{ post.url }}" class="{{ post.lang }}">{{ site.t[page.lang].language[post.lang] }}</a></li>
           {% endif %}
 
 

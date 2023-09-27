@@ -38,17 +38,17 @@ Before detailing the update process, it's important to understand the difference
 The easiest way to update Play Store is directly through the application. Here are the steps:
 
 1. Open Play Store app and access the menu with account's options. (On older devices, access is via the button represented by three horizontal lines placed in the upper left corner of the screen.)
-<img alt="Access Play Store settings for update" title="Access Play Store settings for update" class="article-image" src="/assets/images/posts/{{ page.lang }}/play-store-update/access-play-store-settings.jpg">
+<img alt="Access Play Store settings for update" title="Access Play Store settings for update" class="article-image" src="{{ site.baseurl }}/assets/images/posts/{{ page.lang }}/play-store-update/access-play-store-settings.jpg">
 
 2. Scroll down to the "About" section, where you'll find information about the current Google Play Store version.
-<img alt="Guide to update Play Store" title="Guide to update Play Store" class="article-image" src="/assets/images/posts/{{ page.lang }}/play-store-update/update-play-store.jpg">
+<img alt="Guide to update Play Store" title="Guide to update Play Store" class="article-image" src="{{ site.baseurl }}/assets/images/posts/{{ page.lang }}/play-store-update/update-play-store.jpg">
 
 3. Tap “Update Play Store” to start searching for new available versions.
 
 4. If a newer version is available, a notification will appear and you need to press “Install” to start the update.
 
 5. If you already have the latest version, you'll receive a notification indicating that no updates are available.
-<img alt="Notification about Play Store update: no new version is available" title="Notification about Play Store update" class="article-image" src="/assets/images/posts/{{ page.lang }}/play-store-update/play-store-app-is-updated.jpg">
+<img alt="Notification about Play Store update: no new version is available" title="Notification about Play Store update" class="article-image" src="{{ site.baseurl }}/assets/images/posts/{{ page.lang }}/play-store-update/play-store-app-is-updated.jpg">
 
 It's important to have a stable internet connection, preferably via Wi-Fi, for a smooth update process.
 

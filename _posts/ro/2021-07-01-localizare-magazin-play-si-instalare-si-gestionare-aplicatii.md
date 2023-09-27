@@ -26,21 +26,21 @@ Deși Magazin Play este preinstalat implicit pe majoritatea dispozitivelor Andro
 
 De obicei, poți găsi un shortcut către Magazin Play pe ecranul principal al dispozitivului tău. Pentru a-l identifica, caută logo-ul Google Play, așa cum este prezentat în imaginea de mai jos.
 
-<img alt="Localizare Magazin Play Store pe ecranul principal" title="Localizare Magazin Play Store pe ecranul principal" class="article-image" src="/assets/images/posts/{{ page.lang }}/magazin-play/pictograma-magazin-play-ecran-principal.jpg">
+<img alt="Localizare Magazin Play Store pe ecranul principal" title="Localizare Magazin Play Store pe ecranul principal" class="article-image" src="{{ site.baseurl }}/assets/images/posts/{{ page.lang }}/magazin-play/pictograma-magazin-play-ecran-principal.jpg">
 
 Dacă nu poți localiza Magazin Play pe ecranul pricipal, poți încerca să-l cauți printre aplicațiile instalate.
 
-<img alt="Cautare Magazin Play Store" title="Cautare Magazin Play Store" class="article-image" src="/assets/images/posts/{{ page.lang }}/magazin-play/cautare-magazin-play.jpg">
+<img alt="Cautare Magazin Play Store" title="Cautare Magazin Play Store" class="article-image" src="{{ site.baseurl }}/assets/images/posts/{{ page.lang }}/magazin-play/cautare-magazin-play.jpg">
 
 ### Ce poți face dacă nu găsești Magazinul Google Play pe telefonul / tableta ta
 
 1. ***Repornește dispozitivul***: se poate ca ultimele operații care au fost efectuate în sistemul Android să necesite repornirea dispozitivului, motiv pentru care, temporar, Magazin Play și Serviciile Google să nu funcționeze corespunzător.
 
 2. ***Verifică dacă Magazin Play apare în lista cu aplicații instalate pe dispozitiv***: mergi la **Setări** → **Aplicații**, apoi caută "Magazin Google Play" sau "Magazin Play" în listă.
-<img alt="Magazin Play Store in lista cu aplicatii" title="Magazin Play Store in lista cu aplicatii" class="article-image" src="/assets/images/posts/{{ page.lang }}/magazin-play/localizare-magazin-play-in-lista-cu-aplicatii.png">
+<img alt="Magazin Play Store in lista cu aplicatii" title="Magazin Play Store in lista cu aplicatii" class="article-image" src="{{ site.baseurl }}/assets/images/posts/{{ page.lang }}/magazin-play/localizare-magazin-play-in-lista-cu-aplicatii.png">
 
 3. ***Activează / reactivează aplicația***: alege "Magazin Google Play" din listă și apasă "Dezactivare" apoi "Activare"
-<img alt="Activate Magazin Play Store" title="Activate Magazin Play Store" class="article-image" src="/assets/images/posts/{{ page.lang }}/magazin-play/informatii-despre-aplicatia-magazin-play.jpg">
+<img alt="Activate Magazin Play Store" title="Activate Magazin Play Store" class="article-image" src="{{ site.baseurl }}/assets/images/posts/{{ page.lang }}/magazin-play/informatii-despre-aplicatia-magazin-play.jpg">
 
 Dacă aplicația nu există în listă, singura opțiune pe care o ai este să descarci și să instalezi manual Magazin Play (vezi mai jos ce trebuie să faci în acest caz).
 
@@ -56,7 +56,7 @@ Toate aceste etape sunt detaliate aici: ***Cum se descarcă și instalează Maga
 
 Pentru a folosi Google Play, vei avea nevoie de un cont Google. Odată autentificat, poți instala aplicații, jocuri și poți accesa / descărca conținut digital, cum ar fi muzică, filme, cărți și multe altele - vezi în imaginea de mai jos cum arată ecranul principal al aplicației.
 
-<img alt="Ecran pricipal Magazin Play Store" title="Ecran pricipal Magazin Play Store" class="article-image" src="/assets/images/posts/{{ page.lang }}/magazin-play/ecran-principal-magazin-google-play.jpg">
+<img alt="Ecran pricipal Magazin Play Store" title="Ecran pricipal Magazin Play Store" class="article-image" src="{{ site.baseurl }}/assets/images/posts/{{ page.lang }}/magazin-play/ecran-principal-magazin-google-play.jpg">
 
 În plus, Magazin Play îți permite să gestionezi aplicațiile, jocurile și conținutul digital pe toate dispozitivele tale legate de contul Google, fie că este vorba de un telefon, tabletă sau PC.
 
