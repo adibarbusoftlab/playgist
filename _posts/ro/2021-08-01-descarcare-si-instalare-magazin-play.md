@@ -18,7 +18,7 @@ Aplicația Magazin Play este nucleul de personalizare a dispozitivelor Android �
 
 <!--ADSPACE_ID:2x2-->
 
-### 1. Activează instalarea de aplicații (apk) din surse necunoscute
+## 1. Activează instalarea de aplicații (apk) din surse necunoscute
 
 În mod implicit, setările de securitate ale Android împiedică instalarea aplicațiilor sau jocurilor din surse necunoscute sau neautorizate. Vei primi un mesaj precum cel de mai jos.
 
@@ -32,7 +32,7 @@ Mergi la **Setări** → **Aplicații** → **Acces special**.
 Selectează opțiunea **„Instalare aplicații necunoscute”** și activează opțiunea pentru aplicația **Fișierele mele**, apoi confirmă operația.
 <img alt="Activare instalare aplicatii din surse necunoscute pentru apk" title="Activare instalare aplicatii din surse necunoscute" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/descarcare-instalare-magazin-play/activare-instalare-din-surse-necunoscute.jpg">
 
-### 2. Descarcă Magazinul Google Play
+## 2. Descarcă Magazinul Google Play
 
 Pe apkmirror.com, vei găsi o colecție vastă de aplicații Android care pot fi instalate manual, inclusiv Magazinul Play, denumit în limba engleză Google Play Store.
 
@@ -44,7 +44,7 @@ Confirmă apoi descărcarea fișierului:
 
 Dacă nu este disponibilă nicio versiune compatibilă pentru dispozitivul tău, poți instala direct Serviciile Google Play, care includ și Magazinul Google Play.
 
-### 3. Instalează Magazinul Google Play
+## 3. Instalează Magazinul Google Play
 
 Pentru a instala aplicația, navighează la folderul Descărcări de pe dispozitivul Android. Deschide fișierul care conține Magazinul Google Play (cu extensia .apk). Va apărea o fereastră de instalare - apasă butonul Instalează sau Actualizează, în funcție de caz.
 <img alt="Pași instalare Magazin Play după download" title="Executare instalare Magazin Play" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/descarcare-instalare-magazin-play/accesare-apk-magazin-play.jpg">

@@ -6,23 +6,28 @@ lang: ro
 lang-ref: about
 ---
 
-Acest site web este dedicat explorării și partajării informațiilor referitoare la două teme principale care ne pasionează.
+Acest site web este dedicat explorării și împărtășirii informațiilor despre trei subiecte principale care ne pasionează.
 
-### 1. Tutoriale despre cum să folosiți Magazinul Google Play
+## 1. Tutoriale și informații utile despre Android
+
+- Cum actualizati sistemul de operare Android
+- Cum faceți resetarea la setările din fabrică a dispozitivului
+- Cum instalați și gestionati aplicațiile pe dispozitivul dvs.
+
+## 2. Tutoriale și informații utile despre Magazinul Google Play
 
 - Unde găsiți Magazinul Google Play
 - Cum să descărcați și să instalați Magazinul Google Play
 - Cum să actualizați Magazinul Google Play
 - Cum să instalați o aplicație care nu este disponibilă în Magazinul Google Play
 - Alternative la Magazinul Google Play pentru dispozitive non-Android
-- Cum să instalați și să gestionați aplicații Android
 
-### 2. Topuri cu aplicații Android
+## 3. Topuri cu aplicații Android
 
-- Cele mai populare și tendințe aplicații Google Play
 - Aplicații esențiale pentru dispozitivul dvs.
-- Recenzii ale aplicațiilor și jocurilor Android
+- Cele mai populare și în tendință aplicații și jocuri
+- Recenzii pentru aplicații și jocuri
 
 Acest site folosește module cookie. Puteți citi Politica de Cookie [aici]({{site.baseurl}}{{site.t[page.lang].cookiePolicyPage.url}}).
 
-Toate informațiile personale sunt supuse regulilor de protecție specificate [aici]({{site.baseurl}}{{site.t[page.lang].privacyPolicyPage.url}}).
+Toate informațiile personale colectate sunt supuse regulilor de protecție prezentate [aici]({{site.baseurl}}{{site.t[page.lang].privacyPolicyPage.url}}).

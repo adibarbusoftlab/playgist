@@ -21,7 +21,7 @@ Find out everything you need to know about Google Play Store: how to find the ap
 
 <!--ADSPACE_ID:2x2-->
 
-### Where to find the Play Store app
+## Where to find the Play Store app
 
 Mention: The application has several names, depending on the device manufacturer, the system language, and the Android version. If the system language is English, the usual names are Google Play, Play Store, and Google Play Store.
 
@@ -37,7 +37,7 @@ In case Google Play does not appear on the main screen, the user has to search f
 
 Haven't you found Google Play? Here's what you can do about it:
 
-### What can you do when you don't find Google Play Store on your device?
+## What can you do when you don't find Google Play Store on your device?
 
 If you do not find the application, the first thing you need to do is to **restart the device**, then check if it's installed and turned on.
 
@@ -51,7 +51,7 @@ However, if the application appears in the list, then you have to make sure that
 
 Restart the device and see if the application appear in the menu with Android apps.
 
-### Download Play Store and install/update it manually
+## Download Play Store and install/update it manually
 
 There are rare cases when the Play Store app is not installed by default on your phone/ tablet but fortunately, there is an option to install the app manually. The process consists in setting the device to support installing apps from external sources, downloading the Play Store app in an installable format (apk), and initiating the setting of the app on the device.
 
@@ -59,7 +59,7 @@ All these steps are presented in the article on ***How to download and install P
 
 If the application appears to be installed but it cannot be found, manually installing the application will result in updating Play Store to a newer version or a particular version, which might fix the issue.
 
-### How to use Google Play
+## How to use Google Play
 
 To use the application, you need a Google Account. Once accessed, this allows you to install apps and games, and also to access and download digital content - see in the image below what the main screen of the application looks like.
 <img alt="Main screen of Play Store" title="Main screen of Play Store" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-resources/play-store-main-screen.jpg">
@@ -70,7 +70,7 @@ Moreover, this app allows the management of applications, games, and digital con
 
 ***The guiding principle is simple***: open Play Store, browse for the desired application, initiate the download, confirm the access rights to Android features, and wait for the install process to finish.
 
-### How to Install, Uninstall, and Disable Apps:
+## How to Install, Uninstall, and Disable Apps:
 
 To Install an App:
 - Open Google Play.

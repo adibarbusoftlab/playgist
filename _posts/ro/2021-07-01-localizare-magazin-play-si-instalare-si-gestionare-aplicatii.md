@@ -18,7 +18,7 @@ Descoperă tot ce trebuie să știi despre Magazin Google Play: cum găsești ap
 
 <!--ADSPACE_ID:2x2-->
 
-### Unde găsești aplicația Magazin Play
+## Unde găsești aplicația Magazin Play
 
 Mențiune: Magazin Play poate avea diferite denumiri în funcție de producătorul dispozitivului, limba sistemului și versiunea Android. Denumiri comune în limba română includ "Magazin Play", "Magazin Google Play" și "Google Play Magazin", în timp ce în limba engleză este cunoscut sub numele de "Google Play Store", "Play Store" sau "Google Play".
 
@@ -32,7 +32,7 @@ Dacă nu poți localiza Magazin Play pe ecranul pricipal, poți încerca să-l c
 
 <img alt="Cautare Magazin Play Store" title="Cautare Magazin Play Store" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/magazin-play/cautare-magazin-play.jpg">
 
-### Ce poți face dacă nu găsești Magazinul Google Play pe telefonul / tableta ta
+## Ce poți face dacă nu găsești Magazinul Google Play pe telefonul / tableta ta
 
 1. ***Repornește dispozitivul***: se poate ca ultimele operații care au fost efectuate în sistemul Android să necesite repornirea dispozitivului, motiv pentru care, temporar, Magazin Play și Serviciile Google să nu funcționeze corespunzător.
 
@@ -46,13 +46,13 @@ Dacă aplicația nu există în listă, singura opțiune pe care o ai este să d
 
 De asemenea, dacă aplicația este instalată, însă nu o poți accesa, instalarea manuală va actualiza Magazin Play la o versiune mai nouă sau la versiunea pe care ai downloadat-o, ceea ce poate rezolva problemele curente ale aplicației.
 
-### Cum descarci și instalezi manual Magazin Play
+## Cum descarci și instalezi manual Magazin Play
 
 Procesul implică activarea opțiunii de instalare a aplicațiilor din surse necunoscute, descărcarea aplicației Magazin Play în format APK și instalarea aplicației pe dispozitivul tău.
 
 Toate aceste etape sunt detaliate aici: ***Cum se descarcă și instalează Magazin Play***.
 
-### Cum folosești Google Play
+## Cum folosești Google Play
 
 Pentru a folosi Google Play, vei avea nevoie de un cont Google. Odată autentificat, poți instala aplicații, jocuri și poți accesa / descărca conținut digital, cum ar fi muzică, filme, cărți și multe altele - vezi în imaginea de mai jos cum arată ecranul principal al aplicației.
 
@@ -62,7 +62,7 @@ Pentru a folosi Google Play, vei avea nevoie de un cont Google. Odată autentifi
 
 Modul de întrebuințare este simplu: deschide Magazin Play, caută aplicația dorită, inițiază descărcarea, acordă permisiunile necesare și așteaptă finalizarea instalării, apoi rulează aplicația Android instalată.
 
-### Cum instalezi, dezinstalezi și dezactivezi aplicații, inclusiv jocuri
+## Cum instalezi, dezinstalezi și dezactivezi aplicații, inclusiv jocuri
 
 Pentru a instala o aplicație:
 - Deschide Magazin Play

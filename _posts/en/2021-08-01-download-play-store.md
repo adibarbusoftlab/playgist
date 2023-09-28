@@ -20,7 +20,7 @@ In this tutorial, you'll learn how to download and install the app, which is use
 
 <!--ADSPACE_ID:2x2-->
 
-### 1. Enable installation of apps from Unknown Sources
+## 1. Enable installation of apps from Unknown Sources
 
 By default, Android's security settings prevent the installation of apps or games from unknown or unauthorized sources. You will receive a message like the one below.
 
@@ -34,7 +34,7 @@ Go to ***Settings → Apps → Special access***.
 Navigate to ***"Install unknown apps"*** and enable the option for the ***"My Files"*** app.
 <img alt="Activare instalare aplicatii din surse necunoscute pentru apk" title="Activare instalare aplicatii din surse necunoscute" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/download-play-store-install/enable-installing-apk-from-unknown-sources.jpg">
 
-### 2. Download Google Play Store app file
+## 2. Download Google Play Store app file
 
 At apkmirror.com, you'll find a vast collection of Android apps that can be manually installed, including the Google Play app, known as Google Play Store.
 
@@ -49,7 +49,7 @@ Then confirm the file download:
 
 If no compatible version is available for your device, you can opt to install Google Play services, which also includes Google Play Store.
 
-### 3. Install Google Play Store
+## 3. Install Google Play Store
 
 To install the application, navigate to the Downloads folder on your Android device. Open the file containing the Google Play Store app (with the .apk extension). An installation window will appear — press the Install or Update button as applicable.
 
