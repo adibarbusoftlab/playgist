@@ -11,7 +11,7 @@ lang: en
 lang-ref: google-play-store
 ---
 
-Play Store is the most important Android application: you can use it to install a vast collection of Android apps / games and access and/or download various digital content such as music, movies, books, electronic magazines, etc.
+Play Store app is the most important Android application: you can use it to install a vast collection of Android apps / games and access and/or download various digital content such as music, movies, books, electronic magazines, etc.
 
 Find out everything you need to know about Play Store: how to find the app, how to locate it if it's not on your home screen, how to manually install it on your device, how to use it effectively, and how to install apps and games.
 
