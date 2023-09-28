@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Cum se face actualizarea Magazinului Play – două modalități utile"
-description: ""
+title:  "Cum se actualizează Magazinul Play – două modalități utile"
+description: "Folosiți ultima versiune de Magazin Play pentru a avea accesibilitate deplină la conținutul existent. Află două modalități de actualizare: automată și manuală."
 author: adrian
 categories: [Play Store]
 image: assets/images/posts/ro/update-magazin-play/magazin-google-play-cum-se-actualizeaza.png
@@ -10,43 +10,43 @@ lang: ro
 lang-ref: update-play-store
 ---
 
-Magazinul Google Play oferă acces la o vastă bibliotecă de aplicații, jocuri și conținut digital, însă pentru a vă asigura o experiență fluentă și sigură, este important să mențineți actualizată versiunea de Magazin Play.
+Pentru a avea acces integral la Magazinul Play, este posibil să fie necesar să dispuneți de cea mai recentă versiune a acestuia, iar deși actualizarea se realizează automat, pot apărea probleme care necesită o actualizare manuală.
 
-În acest tutorial vă vom ghida prin pașii necesari pentru a actualiza Magazinul Play și vom trata problemele frecvente care pot apărea.
+Aflați în acest tutorial de ce este esențial să mențineți Magazinul Play actualizat și cum puteți efectua cu succes o actualizare la cea mai recentă versiune sau la o anumită.
 
-{% if page.image %}<img class="featured-image img-fluid rounded" title="Magazin Play Store" src="{{site.baseurl}}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
+<!-- Post Featured Image -->
+{% if page.image %}<img class="featured-image img-fluid rounded" alt="{{ page.title }} | Tutorial" src="{{site.baseurl}}/{{ page.image }}" title="{{ page.title }} | Tutorial">{% endif %}
+<!-- End Featured Image -->
 
 <!--ADSPACE_ID:2x2-->
 
-## De ce este important să actualizați și să mențineți actualizat Magazin Google Play
+## De ce este important să actualizați și să mențineți actualizat Magazinul Play
 
-Motivele pentru care este important ca Magazin Google Play să rămână constant actualizat sunt numeroase. Cele mai importante de menționat sunt:
+Motivele pentru care este important ca Magazin Play să rămână constant actualizat sunt numeroase. Cele mai importante de menționat sunt:
 - ***Compatibilitate extinsă la o gamă largă de aplicații***: uneori, pentru a putea descărca, instala și rula cele mai noi aplicații și jocuri, respectiv pentru a le putea actualiza, poate fi necesar și ca Magazin Play, împreună cu servicile Google adiționale, să aibă cele mai recente versiuni posibile.
-- ***Securitate sporită***: sunt eliberate în mod regulat actualizări pentru a aborda potențialele vulnerabilități și amenințări de securitate, iar menținând actualizat Magazin Play, vă întăriți securitatea dispozitivului Android, protejând datele și confidențialitatea personală.
+- ***Securitate sporită***: sunt eliberate în mod regulat actualizări pentru a aborda potențialele vulnerabilități și amenințări de securitate, iar menținând actualizat Magazin Play, vă întăriți securitatea dispozitivului Android, protejându-vă datele și confidențialitatea.
 - ***Rezolvarea defectelor software***: actualizările includ adesea remedieri pentru defecțiunile și problemele de performanță care pot împiedica funcționarea Magazinului Play sau a aplicațiilor pe care le descărcați, instalați și rulați.
 
 ## Actualizări automate vs. Actualizări manuale
 
 Înainte de a detalia procesul de actualizare, este important să înțelegeți diferența dintre actualizările automate și cele manuale:
 - ***Actualizări automate***: în mod implicit, Magazinul Play se actualizează automat, având întotdeauna cea mai recentă versiune fără efort din partea dvs.
-- ***Actualizări manuale***: vă oferă control asupra procesului de actualizare, putând iniția actualizări doar atunci când aveți nevoie, de exemplu, atunci când actualizările automate nu funcționează corespunzător sau pentru a vă asigura fie că aveți cea mai recentă versiune, fie că aveți o versiune specifică.
+- ***Actualizări manuale***: vă oferă control asupra procesului de actualizare, putând iniția actualizări doar atunci când aveți nevoie, de exemplu, atunci când actualizările automate nu funcționează corespunzător sau pentru a vă asigura fie că aveți cea mai recentă versiune, fie că aveți o anumită versiune.
 
-## Metoda 1: Actualizarea din aplicația Magazin Google Play
+## Metoda 1: Actualizarea din aplicația Magazin Play
 
 Cea mai simplă metodă pentru a actualiza Magazinul Play este direct prin aplicație. Urmează pașii:
 
 1. Deschide aplicația Magazin Play și accesează meniul cu opțiunile contului. (Pe dispozitivele mai vechi, accesul se face prin intermediul butonului reprezentat prin trei linii orizontale plasat în colțul din stânga sus al ecranului.)
-<img alt="Accesare setări Magazin Play pentru actualizare" title="Accesare setări Magazin Play pentru actualizare" class="article-image" max-width="350" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/update-magazin-play/setari-magazin-play.jpg">
+<img alt="Accesare setări pentru actualizare Magazin Play" title="Accesare setări pentru actualizare Magazin Play" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/update-magazin-play/setari-magazin-play.jpg">
 
-2. Derulați în jos și găsiți secțiunea ***"Despre"***, unde veți găsi informații legate de versiunea curentă a Magazinului Play.
-<img alt="Vizualizarea versiunii curente a Magazinului Google Play" title="Versiunea currenta a Magazinului Play" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/update-magazin-play/actualizare-magazin-play.jpg">
+2. Derulați în jos la secțiunea ***"Despre"***, unde veți găsi informații legate de versiunea curentă a Magazinului Play. Atingeți ***"Actualizează Magazin Play"*** pentru a iniția căutarea de noi versiuni disponibile.
+<img alt="Efectuare actualizare folosind aplicația Magazin Play" title="Efectuare actualizare folosind aplicația Magazin Play" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/update-magazin-play/actualizare-magazin-play.jpg">
 
-3. Atingeți ***"Actualizează Magazin Play"*** pentru a iniția căutarea de noi versiuni disponibile.
+3. Dacă este disponibilă o versiune mai nouă, va apărea o notificare de actualizare, iar dvs. trebuie să apăsați "Instalează" pentru a începe actualizarea. Este important să aveți o conexiune la internet stabilă, preferabil prin Wi-Fi, pentru un proces de actualizare fără probleme.
 
-4. Dacă este disponibilă o versiune mai nouă, va apărea o notificare de actualizare, iar dvs. trebuie să apăsați "Instalează" pentru a începe actualizarea. Este important să aveți o conexiune la internet stabilă, preferabil prin Wi-Fi, pentru un proces de actualizare fără probleme.
-
-5. Dacă aveți deja cea mai recentă versiune, veți primi o notificare privind lipsa unor versiuni mai noi de Magazin Play.
-<img alt="Notificare privind actualizarea Magazin Play: nu exista versiuni mai noi" title="Notificare privind actualizarea Magazin Play" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/update-magazin-play/aplicatia-magazin-play-este-actualizata.jpg">
+4. Dacă aveți deja cea mai recentă versiune, veți primi o notificare privind lipsa unor versiuni mai noi de Magazin Play.
+<img alt="Aplicatia Magazin Google Play este este actualizata" title="Aplicatia Magazin Google Play este este actualizata" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/update-magazin-play/aplicatia-magazin-play-este-actualizata.jpg">
 
 ## Metoda 2: Actualizarea manuală a Magazinului Play folosind un fișier APK
 
@@ -59,7 +59,7 @@ Cea mai simplă metodă pentru a actualiza Magazinul Play este direct prin aplic
 
 Această metodă vă permite nu numai să actualizați la cea mai recentă versiune, ci și să instalați versiuni specifice ale Magazinului Play, dacă este necesar.
 
-Pașii pe care trebuie să-i urmezi sunt prezentați aici: ***Cum instalezi Magzin Play pe telefon***
+Ghidul complet cu instrucțiuni și ilustrații îl găsiți aici: ***Cum instalezi Magzin Play pe telefon***
 
 ## Mențiuni finale
 
