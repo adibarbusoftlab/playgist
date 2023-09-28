@@ -4,7 +4,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <link rel="icon" href="{{ site.baseurl }}/{{site.favicon}}">
+  <link rel="icon" href="{{site.baseurl}}/{{site.favicon}}">
   <meta name="description" content="{{ page.description }}">
   {% seo %}
 
@@ -18,7 +18,7 @@
   {% if posts.size > 1 %}
   {% for post in posts %}
     {% if post.lang != page.lang %}
-      <link rel="alternate" hreflang="{{ post.lang }}" href="{{ site.base-url }}{{ post.url }}" />
+      <link rel="alternate" hreflang="{{ post.lang }}" href="{{ site.base-url }}{{post.url}}" />
     {% endif %}
   {% endfor %}
 {% endif %}
@@ -28,7 +28,7 @@
   {% if page.url == "/en/index.html" %}<link rel="canonical" href="/" />
   {% endif %}
 
-  <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
+  <link href="{{site.baseurl}}/assets/css/theme.css" rel="stylesheet">
 
   {% if jekyll.environment == "production" %}
   <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -161,9 +161,9 @@
 
   <!-- JavaScript
   ================================================== -->
-  <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
-  <script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>
-  <script src="{{ site.baseurl }}/assets/js/theme.js"></script>
+  <script src="{{site.baseurl}}/assets/js/jquery.min.js"></script>
+  <script src="{{site.baseurl}}/assets/js/bootstrap.min.js"></script>
+  <script src="{{site.baseurl}}/assets/js/theme.js"></script>
 
 </body>
 

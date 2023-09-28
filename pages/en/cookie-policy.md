@@ -46,7 +46,7 @@ You have the option to decline cookies by adjusting your browser settings. Howev
 
 There may be changes to the approach and placement of cookies on this site. Therefore, we recommend checking this website periodically for updates to these policies and practices.
 
-You can also review how other data are collected and used on this site at this [link](/{{page.lang}}/privacy-policy).
+You can also review how other data are collected and used on this site at this [link]({{site.baseurl}}/{{page.lang}}/privacy-policy).
 
 ### Contact
 

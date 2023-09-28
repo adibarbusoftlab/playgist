@@ -16,7 +16,7 @@ Google Play is, in many ways, the most important Android application. You can us
 Find out everything you need to know about Google Play Store: how to find the app, how to locate it if it's not on your home screen, how to manually download and install it on your device, how to use it effectively, and how to solve issues regarding accessing or downloading content.
 
 <!-- Post Featured Image -->
-{% if page.image %}<img class="featured-image img-fluid rounded" title="Google Play Store" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
+{% if page.image %}<img class="featured-image img-fluid rounded" title="Google Play Store" src="{{site.baseurl}}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
 <!-- End Featured Image -->
 
 <!--ADSPACE_ID:2x2-->
@@ -30,10 +30,10 @@ The application is preinstalled on most Android phones and tablets, apart from s
 For instance, the phones and tablets developed by Asian producers (Meizu, Xiaomi, etc.), provide a separate application from Google Play for users in the region. In this case, Google Play will not be installed on the device by default and, in some cases, it will not be even possible to install the application manually.
 
 Usually, a shortcut to Google Play Store is located on the main screen.
-<img alt="Locate Play Store on the main screen in Adroid" title="Locate Play Store on the main screen in Adroid" class="article-image" src="{{ site.baseurl }}/assets/images/posts/{{ page.lang }}/play-store-resources/play-store-app-location-in-Android.jpg">
+<img alt="Locate Play Store on the main screen in Adroid" title="Locate Play Store on the main screen in Adroid" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-resources/play-store-app-location-in-Android.jpg">
 
 In case Google Play does not appear on the main screen, the user has to search for it. From the Apps screen, go to the Search icon and enter Play Store. If the application exists, it will appear in the search results.
-<img alt="Search for Google Play Store" title="Search for Google Play Store" class="article-image" src="{{ site.baseurl }}/assets/images/posts/{{ page.lang }}/play-store-resources/search-play-store.jpg">
+<img alt="Search for Google Play Store" title="Search for Google Play Store" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-resources/search-play-store.jpg">
 
 Haven't you found Google Play? Here's what you can do about it:
 
@@ -42,12 +42,12 @@ Haven't you found Google Play? Here's what you can do about it:
 If you do not find the application, the first thing you need to do is to **restart the device**, then check if it's installed and turned on.
 
 Go to ***Settings → Apps*** and search for Google Play Store in the list with apps
-<img alt="Play Store in the list with apps" title="Play Store in the list with apps" class="article-image" src="{{ site.baseurl }}/assets/images/posts/{{ page.lang }}/play-store-resources/play-store-in-apps-list.jpg">
+<img alt="Play Store in the list with apps" title="Play Store in the list with apps" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-resources/play-store-in-apps-list.jpg">
 
 If there is not any application with this name, then you will have to download and install Google Play Store manually - see below.
 
 However, if the application appears in the list, then you have to make sure that it's also enabled. Access the application, and if disabled, activate it by pressing the Enable button.
-<img alt="Activate Play Store" title="Activate Play Store" class="article-image" src="{{ site.baseurl }}/assets/images/posts/{{ page.lang }}/play-store-resources/play-store-app-info.jpg">
+<img alt="Activate Play Store" title="Activate Play Store" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-resources/play-store-app-info.jpg">
 
 Restart the device and see if the application appear in the menu with Android apps.
 
@@ -62,7 +62,7 @@ If the application appears to be installed but it cannot be found, manually inst
 ### How to use Google Play
 
 To use the application, you need a Google Account. Once accessed, this allows you to install apps and games, and also to access and download digital content - see in the image below what the main screen of the application looks like.
-<img alt="Main screen of Play Store" title="Main screen of Play Store" class="article-image" src="{{ site.baseurl }}/assets/images/posts/{{ page.lang }}/play-store-resources/play-store-main-screen.jpg">
+<img alt="Main screen of Play Store" title="Main screen of Play Store" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-resources/play-store-main-screen.jpg">
 
 Regarding the apps and games for Android, there is a high level of confidence about content security, which is tested against viruses and malicious actions. This aspect is not valid when downloading them from the Internet, from sources that are not as secure as Google.
 

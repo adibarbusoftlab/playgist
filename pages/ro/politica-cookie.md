@@ -48,7 +48,7 @@ Ai opțiunea de a refuza modulele cookie prin ajustarea setărilor browserului t
 
 Este posibil să apară modificări în ceea ce privește abordarea și plasarea modulelor cookie pe acest site. Prin urmare, recomandăm să verifici periodic site-ul pentru actualizări ale acestor politici și practici.
 
-Poți, de asemenea, să vezi cum sunt colectate și utilizate datele cu caracter personal pe acest site la acest [link](/{{page.lang}}/politica-confidentialitate).
+Poți, de asemenea, să vezi cum sunt colectate și utilizate datele cu caracter personal pe acest site la acest [link]({{site.baseurl}}/{{page.lang}}/politica-confidentialitate).
 
 ### Contact
 

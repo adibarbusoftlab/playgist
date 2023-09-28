@@ -14,7 +14,7 @@ var message_content = "";
 if(pathParts[1] == "ro")
 {
 message_intro = "Conținut inexistent!";
-message_content = 'Conținutul accesat nu există. Revino la <u><a href="{{ site.baseurl }}/">pagina principală</a></u>!';
+message_content = 'Conținutul accesat nu există. Revino la <u><a href="{{site.baseurl}}/ro/">pagina principală</a></u>!';
 }
 else
 {
@@ -26,8 +26,8 @@ message_content = 'The accessed content does not exist. Return to the <u><a href
 <div class="text-center">
 
 <h1 class="display-4 mt-4 mb-4"><script> document.write(message_intro)</script><noscript>Page not found!</noscript></h1>
-<img src="{{ site.baseurl }}/assets/images/404-not-found-error.png">
-<p><script> document.write(message_content)</script><noscript> Return to the <a href="{{site.baseurl}}/">homepage</a>!</noscript></p>
+<img src="{{site.baseurl}}/assets/images/404-not-found-error.png">
+<p><script> document.write(message_content)</script><noscript> Return to the <a href="{{site.baseurl}}">homepage</a>!</noscript></p>
 </div>
 
 

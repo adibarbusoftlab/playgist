@@ -23,6 +23,6 @@ Acest site web este dedicat explorării și partajării informațiilor referitoa
 - Aplicații esențiale pentru dispozitivul dvs.
 - Recenzii ale aplicațiilor și jocurilor Android
 
-Acest site folosește module cookie. Puteți citi Politica de Cookie [aici]({{site.t[page.lang].cookiePolicyPage.url}}).
+Acest site folosește module cookie. Puteți citi Politica de Cookie [aici]({{site.baseurl}}{{site.t[page.lang].cookiePolicyPage.url}}).
 
-Toate informațiile personale sunt supuse regulilor de protecție specificate [aici]({{site.t[page.lang].privacyPolicyPage.url}}).
+Toate informațiile personale sunt supuse regulilor de protecție specificate [aici]({{site.baseurl}}{{site.t[page.lang].privacyPolicyPage.url}}).

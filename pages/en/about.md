@@ -23,6 +23,6 @@ This website is dedicated to exploring and sharing insights on two main topics t
 - Essential apps for your device
 - Reviews of Android apps and games
 
-This site uses cookies. You can read the Cookie Policy [here]({{site.t[page.lang].cookiePolicyPage.url}}).
+This site uses cookies. You can read the Cookie Policy [here]({{site.baseurl}}{{site.t[page.lang].cookiePolicyPage.url}}).
 
-All personal information is subject to the protection rules outlined [here]({{site.t[page.lang].privacyPolicyPage.url}}).
+All personal information is subject to the protection rules outlined [here]({{site.baseurl}}{{site.t[page.lang].privacyPolicyPage.url}}).
