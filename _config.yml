@@ -20,7 +20,7 @@ kramdown:
 sass:
   sass_dir: _sass
   style: :compressed
-ganalytics: 
+ganalytics: G-701YYY9FC4
 
 # Authors
 authors:
