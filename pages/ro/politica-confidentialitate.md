@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Politica de Confidențialitate
+description: "Informații privind politica de confidențialitate a datelor cu caracter personal colectate."
 permalink: /ro/politica-confidentialitate/
 lang: ro
 lang-ref: privacy-policy

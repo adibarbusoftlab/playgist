@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
+description: "Information on the privacy policy of the personal data collected."
 permalink: /en/privacy-policy/
 lang: en
 lang-ref: privacy-policy

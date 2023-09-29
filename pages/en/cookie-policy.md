@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Cookie Policy
+description: "Information on the policy of using cookies on the website."
 permalink: /en/cookie-policy/
 lang: en
 lang-ref: cookie-policy

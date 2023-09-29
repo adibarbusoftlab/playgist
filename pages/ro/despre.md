@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Despre
-permalink: "/ro/about/"
+description: "Despre playgist.com: site-ul tratează subiecte legate de Android, furnizând tutoriale, articole și topuri cu aplicații de interes pentru vizitatori."
+permalink: "/ro/despre/"
 lang: ro
 lang-ref: about
 ---

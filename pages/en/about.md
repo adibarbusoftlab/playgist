@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: "About playgist.com: The website covers Android-related topics, offering tutorials, articles, and tops with apps of interest to visitors."
 permalink: "/en/about/"
 lang: en
 lang-ref: about
@@ -14,7 +15,7 @@ This website is dedicated to exploring and sharing information about three main 
 - How to factory reset your device
 - How to install and manage apps on your device
 
-## 2. Tutorials on How to use Google Play Store
+## 2. Tutorials and useful information about the Google Play Store app
 
 - Where to find Google Play Store
 - How to download and install Google Play Store

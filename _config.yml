@@ -84,7 +84,7 @@ t:
       url: "/"
     aboutPage:
       name: "Despre"
-      url: "/ro/about/"
+      url: "/ro/despre/"
     contactPage:
       name: "Contact"
       url: "/ro/contact/"

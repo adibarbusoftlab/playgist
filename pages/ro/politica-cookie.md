@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Politica privind modulele cookie
+description: "Informații privind politica de utilizare a modulelor cookie pe site."
 permalink: /ro/politica-cookie/
 lang: ro
 lang-ref: cookie-policy
