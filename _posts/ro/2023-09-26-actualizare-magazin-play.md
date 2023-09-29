@@ -3,7 +3,7 @@ layout: post
 title:  "Cum se actualizează Magazinul Play – două modalități utile"
 description: "Folosiți ultima versiune de Magazin Play pentru a avea accesibilitate deplină la conținutul existent. Află două modalități de actualizare: automată și manuală."
 author: adrian
-categories: [Play Store]
+categories: [Magazin Play]
 image: assets/images/posts/ro/actualizare-magazin-play/actualizare-magazin-play_prezentare.png
 permalink: /ro/actualizare-magazin-play/
 lang: ro

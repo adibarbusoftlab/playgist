@@ -3,7 +3,7 @@ layout: post
 title:  "Magazin Play: localizare, accesare și instalare aplicații"
 description: "Magazin Play apare de obicei pe ecranul principal Android. Află cum o localizezi dacă nu o găsești, cum o folosești și cum instalezi aplicații și jocuri"
 author: adrian
-categories: [Play Store]
+categories: [Magazin Play, Android]
 image: "assets/images/posts/ro/aplicatia-magazin-play/aplicatie-magazin-play_prezentare.png"
 permalink: /ro/localizare-magazin-play-pentru-instalare-aplicatii/
 lang: ro
