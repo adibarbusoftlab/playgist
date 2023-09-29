@@ -1,5 +1,5 @@
 include: ['.htaccess']
-title: "Domain | Play Store tutorials and tops of apps"
+title: "gistplay.com"
 email: contact@domain.com
 timezone: UTC
 baseurl: "/"
@@ -21,6 +21,8 @@ sass:
   sass_dir: _sass
   style: :compressed
 ganalytics: G-701YYY9FC4
+copyright_year: 2023
+domain: "gistplay.com"
 
 # Authors
 authors:

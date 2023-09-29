@@ -4,7 +4,7 @@ title: "Cum se descarcă și se instalează Magazin Play pe telefon - este gratu
 description: "Descărcarea și instalarea Magazinului Play se poate face atunci cand aplicația nu mai funcționează sau nu există pe dispozitivul Android. Iata ce trebuie sa faci!"
 author: adrian
 categories: [Play Store]
-image: assets/images/posts/ro/descarcare-instalare-magazin-play/magazin-play.png
+image: assets/images/posts/ro/descarcare-instalare-magazin-play/descarcare-si-instalare-magazin-play_prezentare.png
 permalink: /ro/descarcare-si-instalare-magazin-play/
 lang: ro
 lang-ref: download-play-store
@@ -13,12 +13,6 @@ lang-ref: download-play-store
 Uzual, Magazin Play vine preinstalat pe majoritatea telefoanelor și tabletelor cu Android. Cu toate acestea, sunt și cazuri când trebuie sa instalezi manual ultima versiune disponibilă, o anumită versiune de care ai nevoie sau pur si simplu sa reinstalezi manual aplicația din cauza problemelor de funcționare.
 
 În acest tutorial vei afla de unde să descarci Magazin Play și ce trebuie să faci pentru a efectua instalarea pe dispozitivul tău, fiindu-ți necesar atunci când fie configurezi un dispozitiv nou, fie ai probleme cu Magazinul Play.
-
-<!-- Post Featured Image -->
-{% if page.image %}<img class="featured-image img-fluid rounded" alt="{{ page.title }} | Tutorial" src="{{site.baseurl}}/{{ page.image }}" title="{{ page.title }} | Tutorial">{% endif %}
-<!-- End Featured Image -->
-
-<!--ADSPACE_ID:2x2-->
 
 ## 1. Activează instalarea de aplicații (apk) din surse necunoscute
 

@@ -4,7 +4,7 @@ title:  "Cum se actualizează Magazinul Play – două modalități utile"
 description: "Folosiți ultima versiune de Magazin Play pentru a avea accesibilitate deplină la conținutul existent. Află două modalități de actualizare: automată și manuală."
 author: adrian
 categories: [Play Store]
-image: assets/images/posts/ro/update-magazin-play/magazin-google-play-cum-se-actualizeaza.png
+image: assets/images/posts/ro/actualizare-magazin-play/actualizare-magazin-play_prezentare.png
 permalink: /ro/actualizare-magazin-play/
 lang: ro
 lang-ref: update-play-store
@@ -13,12 +13,6 @@ lang-ref: update-play-store
 Pentru a avea acces integral la Magazinul Play, este posibil să fie necesar să dispuneți de cea mai recentă versiune a acestuia, iar deși actualizarea se realizează automat, pot apărea probleme care necesită o actualizare manuală.
 
 Aflați în acest tutorial de ce este esențial să mențineți Magazinul Play actualizat și cum puteți efectua cu succes o actualizare la cea mai recentă versiune sau la o anumită.
-
-<!-- Post Featured Image -->
-{% if page.image %}<img class="featured-image img-fluid rounded" alt="{{ page.title }} | Tutorial" src="{{site.baseurl}}/{{ page.image }}" title="{{ page.title }} | Tutorial">{% endif %}
-<!-- End Featured Image -->
-
-<!--ADSPACE_ID:2x2-->
 
 ## De ce este important să actualizați și să mențineți actualizat Magazinul Play
 
@@ -38,15 +32,15 @@ Motivele pentru care este important ca Magazin Play să rămână constant actua
 Cea mai simplă metodă pentru a actualiza Magazinul Play este direct prin aplicație. Urmează pașii:
 
 1. Deschide aplicația Magazin Play și accesează meniul cu opțiunile contului. (Pe dispozitivele mai vechi, accesul se face prin intermediul butonului reprezentat prin trei linii orizontale plasat în colțul din stânga sus al ecranului.)
-<img alt="Accesare setări pentru actualizare Magazin Play" title="Accesare setări pentru actualizare Magazin Play" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/update-magazin-play/setari-magazin-play.jpg">
+<img alt="Accesare setări pentru actualizare Magazin Play" title="Accesare setări pentru actualizare Magazin Play" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/actualizare-magazin-play/accesare-setari-actualizare-magazin-play.jpg">
 
 2. Derulați în jos la secțiunea ***"Despre"***, unde veți găsi informații legate de versiunea curentă a Magazinului Play. Atingeți ***"Actualizează Magazin Play"*** pentru a iniția căutarea de noi versiuni disponibile.
-<img alt="Efectuare actualizare folosind aplicația Magazin Play" title="Efectuare actualizare folosind aplicația Magazin Play" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/update-magazin-play/actualizare-magazin-play.jpg">
+<img alt="Efectuare actualizare folosind aplicația Magazin Play" title="Efectuare actualizare folosind aplicația Magazin Play" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/actualizare-magazin-play/actualizare-magazin-play.jpg">
 
 3. Dacă este disponibilă o versiune mai nouă, va apărea o notificare de actualizare, iar dvs. trebuie să apăsați "Instalează" pentru a începe actualizarea. Este important să aveți o conexiune la internet stabilă, preferabil prin Wi-Fi, pentru un proces de actualizare fără probleme.
 
 4. Dacă aveți deja cea mai recentă versiune, veți primi o notificare privind lipsa unor versiuni mai noi de Magazin Play.
-<img alt="Aplicatia Magazin Google Play este este actualizata" title="Aplicatia Magazin Google Play este este actualizata" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/update-magazin-play/aplicatia-magazin-play-este-actualizata.jpg">
+<img alt="Aplicatia Magazin Google Play este este actualizata" title="Aplicatia Magazin Google Play este este actualizata" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/actualizare-magazin-play/aplicatia-magazin-play-este-actualizata.jpg">
 
 ## Metoda 2: Actualizarea manuală a Magazinului Play folosind un fișier APK
 

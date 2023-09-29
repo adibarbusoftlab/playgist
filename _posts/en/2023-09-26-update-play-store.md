@@ -4,7 +4,7 @@ title: "How to update Play Store - two useful ways"
 description: "Use the latest version of the Play Store to have full access to existing content. Learn two ways to update: automatic and manual."
 author: adrian
 categories: [Play Store]
-image: assets/images/posts/en/play-store-update/play-store-how-to-update.png
+image: assets/images/posts/en/update-play-store/update-play-store_featured.png
 permalink: /en/play-store-update/
 lang: en
 lang-ref: update-play-store
@@ -13,12 +13,6 @@ lang-ref: update-play-store
 To have full access to the Play Store, it may be necessary to have its latest version, and although updates are performed automatically, issues that require a manual update may arise.
 
 Find out in this tutorial why it's essential to keep the Play Store updated and how you can successfully perform an update to the latest version or to a specific one.
-
-<!-- Post Featured Image -->
-{% if page.image %}<img class="featured-image img-fluid rounded" alt="{{ page.title }} | Tutorial" src="{{site.baseurl}}/{{ page.image }}" title="{{ page.title }} | Tutorial">{% endif %}
-<!-- End Featured Image -->
-
-<!--ADSPACE_ID:2x2-->
 
 ## Why it's important to update and keep Play Store updated
 
@@ -38,15 +32,15 @@ Before detailing the update process, it's important to understand the difference
 The easiest way to update Play Store is directly through the application. Here are the steps:
 
 1. Open Play Store app and access the menu with account's options. (On older devices, access is via the button represented by three horizontal lines placed in the upper left corner of the screen.)
-<img alt="Access settings for Play Store update" title="Access settings for Play Store update" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-update/access-play-store-settings.jpg">
+<img alt="Access settings for Play Store update" title="Access settings for Play Store update" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/update-play-store/access-update-settings-play-store.jpg">
 
 2. Scroll down to the ***"About"*** section, where you'll find information about the current Google Play Store version. Tap ***“Update Play Store”*** to start searching for new available versions.
-<img alt="Update using the Play Store app" title="Update using the Play Store app" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-update/update-play-store.jpg">
+<img alt="Update using the Play Store app" title="Update using the Play Store app" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/update-play-store/update-play-store.jpg">
 
 3. If a newer version is available, a notification will appear and you need to press “Install” to start the update. It's important to have a stable internet connection, preferably via Wi-Fi, for a smooth update process.
 
 4. If you already have the latest version, you'll receive a notification indicating that no updates are available.
-<img alt="The Google Play Store application is updated" title="The Google Play Store application is updated" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-update/play-store-app-is-updated.jpg">
+<img alt="The Google Play Store application is updated" title="The Google Play Store application is updated" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/update-play-store/play-store-app-is-updated.jpg">
 
 ## Method 2: Manually updating the Play Store using an APK file
 
