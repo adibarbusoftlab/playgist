@@ -72,8 +72,11 @@ t:
     language:
       en: "English"
       ro: "Romanian"
-    BelongsToCategory: "In"
+    belongsToCategory: "In"
     tags: "Tags"
+    readMore: "Read the article"
+    writtenBy: "By"
+    latestUpdate: "Latest update"
   ro:
     latestPosts: "ULTIMELE POSTĂRI"
     adsTitle: "Anunțuri sponsorizate"
@@ -101,8 +104,11 @@ t:
     language:
       en: "Engleză"
       ro: "Română"
-    BelongsToCategory: "În"
+    belongsToCategory: "În"
     tags: "Etichete"
+    readMore: "Citește articolul"
+    writtenBy: "De"
+    latestUpdate: "Ultima actualizare"
 
 ad_post_first_temp: "<img alt=\"Ads section\" class=\"mx-auto d-block\" src=\"/assets/images/ad_header2.png\">"
 

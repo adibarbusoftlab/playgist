@@ -311,20 +311,6 @@ span.post-name a,span.post-read-more a:hover {
     text-align: center;
   }
 
-  .article-image-center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    text-align: center;
-    max-height: 400px;
-  }
-
-  .article-image-left {
-    display: block;
-    text-align: center;
-    max-height: 300px;
-  }
-
   .article-image {
     display: block;
     margin-left: auto;
@@ -753,3 +739,20 @@ span.navigation:before {
     
 }
 
+.large-width-img {
+    max-width: 650px;
+    width: 100%;
+    height: auto;
+  }
+
+.medium-width-img {
+    max-width: 450px;
+    width: 100%;
+    height: auto;
+  }
+
+.small-width-img {
+    max-width: 250px;
+    width: 100%;
+    height: auto;
+  }

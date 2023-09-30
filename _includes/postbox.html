@@ -1,23 +1,23 @@
 <!-- begin post -->
-{% assign author = site.authors[post.author] %}
-<div class="post card mb-4">
-    <div class="row no-gutters">
-        <div class="col-md-3">
-            <div class="post-image-container">
-                <a href="{{ post.url | absolute_url }}"><img src="{{site.baseurl}}/{{ post.image }}" alt="{{ post.title }}" class="post-image img-fluid"></a>
-            </div>
-        </div>
-        <div class="col-md-9">
-            <div class="card-body">
-                <h2 class="post-title card-title h4 serif-font"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
-                <div class="post-info card-text">
-                    By <span class="post-name">{% if post.author %}{{ author.display_name }}{% else %}{{ site.author }}{% endif %}</span> |
-                    Latest update: <span>{{ post.date | date_to_string }}</span>
+      {% assign author = site.authors[post.author] %}
+      <div class="post card mb-4">
+        <div class="row no-gutters">
+            <div class="col-md-3">
+                <div class="post-image-container">
+                    <a href="{{ post.url | absolute_url }}"><img src="{{site.baseurl}}/{{ post.image }}" alt="{{ post.title }}" class="post-image img-fluid"></a>
                 </div>
-                <p class="post-description card-text">{{ post.excerpt | strip_html | truncatewords:45 }}</p>
-                <a href="{{ post.url | absolute_url }}" class="read-article">Read the article →</a>
+            </div>
+            <div class="col-md-9">
+                <div class="card-body">
+                    <h2 class="post-title card-title h4 serif-font"><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+                    <div class="post-info card-text">
+                        {{site.t[page.lang].writtenBy}} <span class="post-name">{% if post.author %}{{ author.display_name }}{% else %}{{ site.author }}{% endif %}</span> |
+                        {{site.t[page.lang].latestUpdate}}: <span>{{ post.date | date_to_string }}</span>
+                    </div>
+                    <p class="post-description card-text">{{ post.excerpt | strip_html | truncatewords:45 }}</p>
+                    <a href="{{ post.url | absolute_url }}" class="read-article">{{site.t[page.lang].readMore}} →</a>
+                </div>
             </div>
         </div>
-    </div>
-</div>
-<!-- end post -->
+      </div>
+      <!-- end post -->

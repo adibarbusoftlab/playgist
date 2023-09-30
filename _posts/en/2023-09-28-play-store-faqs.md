@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Play Store: frequently asked questions (FAQs)"
+title: "Play Store: frequently asked questions (FAQs)"
 description: "Find Play Store answers for frequent questions in this informative article."
 author: adrian
 categories: [Play Store]
@@ -43,7 +43,7 @@ However, devices from China, like Huawei, do not come with GMS, which means the 
 If your device has GMS (Google Mobile Services) licensing, you'll find the Play Store and Google Play Services installed.
 
 Go to ***Settings → Apps***, and check if Google Play Store and Google Play Services are listed there. If they are, your device has GMS.
-<img alt="Search Play Store in the list with apps" title="Search Play Store in the list with apps" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-faqs/play-store-in-apps-list.jpg">
+<img alt="Search Play Store in the list with apps" title="Search Play Store in the list with apps" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-faqs/play-store-in-apps-list.jpg">
 
 If you can't find them, your device likely doesn't have GMS, and you may need to use an alternative app store. Alternatively, you can try installing the Play Store on your phone using the guide provided here: ***"Download and Install Play Store on Your Phone"***.
 
@@ -97,21 +97,21 @@ However, there are instances when you might need to download and install Play St
 For resolving app-related issues and ensuring the stability of your Android system, it's advisable to update all apps directly from the Play Store
 
 Navigate to ***Settings → Manage app & device → Update All***.
-<img alt="Update all Play Store apps" title="Update all Play Store apps" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-faqs/update-apps-from-play-store.png">
+<img alt="Update all Play Store apps" title="Update all Play Store apps" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-faqs/update-apps-from-play-store.png">
 
 ## How to disable automatic app updates from the Play Store?
 
 By default, apps are automatically updated when newer versions become available.
 
 If you prefer manual control over the updates or have concerns about data usage, you can disable auto-updates by following these steps: go to ***Settings → Network Preferences → Auto-update apps → Don't auto-update apps***.
-<img alt="Disable auto updates from Play Store" title="Disable auto updates from Play Store" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-faqs/disable-play-store-updates.jpg">
+<img alt="Disable auto updates from Play Store" title="Disable auto updates from Play Store" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-faqs/disable-play-store-updates.jpg">
 
 ## How to update Play Store?
 
 Play Store app typically updates automatically when newer versions are released and an active internet connection is available. 
 
 To manually initiate the Play Store update, go to ***Settings → About → Update Play Store***.
-<img alt="Update Play Store" title="Update Play Store" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-faqs/update-play-store.jpg">
+<img alt="Update Play Store" title="Update Play Store" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-faqs/update-play-store.jpg">
 
 If you encounter any issues during the update process, refer to our article ***How to Update Play Store App*** for further guidance.
 
@@ -148,7 +148,7 @@ The minimum age for creating a Google account varies by country or region and is
 To make purchases from the Play Store, including apps, games, online service subscriptions, music, movies, and more, you need to add a payment method. This can be a credit or debit card or billing through your mobile provider.
 
 Here's how to do it:
- - Open Play Store, go to  ***Settings → Payments and Subscriptions → Payment Methods → Add a Credit or Debit Card**.
+ - Open Play Store, go to ***Settings → Payments and Subscriptions → Payment Methods → Add a Credit or Debit Card***.
 <img alt="Add payment method in Play Store" title="Add payment method in Play Store" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-faqs/add-payment-method-in-play-store.jpg">
 - Enter card information in the available fields.
 
@@ -157,7 +157,7 @@ Here's how to do it:
 If your device is shared with children, consider applying content restrictions based on maturity levels.
 
 Access ***Settings → Family → Parental Controls***. You will need to create a PIN, and then you can choose your desired maturity level (options include 3, 7, 12, 16, 18). 
-<img alt="Enable parental controls in Play Store" title="Enable parental controls in Play Store" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-faqs/parent-controls.jpg">
+<img alt="Enable parental controls in Play Store" title="Enable parental controls in Play Store" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-faqs/parent-controls.jpg">
 
 ## Can I use one Google Account on multiple devices simultaneously?
 

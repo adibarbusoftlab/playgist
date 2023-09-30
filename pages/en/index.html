@@ -9,15 +9,15 @@ lang-ref: home-en
 
 <!-- Posts List with Sidebar (except featured)
   ================================================== -->
-<section class="row">
+<div class="row">
   <div class="col-md-12">
     <div class="row">
       {% assign posts = site.posts | where:"lang", page.lang %}
       {% for post in posts %}
       {% unless post.featured == true %}
-      <div class="col-md-12 mb-3">
+      <section class="col-md-12 mb-3">
         {% include postbox.html %}
-      </div>
+      </section>
       {% endunless %}
       {% endfor %}
     </div>
@@ -28,4 +28,4 @@ lang-ref: home-en
       </div>
     </div>
   </div>
-</section>
+</div>
