@@ -9,7 +9,7 @@
 {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
 {% if posts.size == 0 %}{% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}{% endif %}
 {% if posts.size > 1 %}{% for post in posts %}{% if post.lang != page.lang %}
-<link rel="alternate" hreflang="{{ post.lang }}" href="{{ site.baseurl }}{{post.url}}" />
+<link rel="alternate" hreflang="{{ post.lang }}" href="https:://{{site.domain}}{{ site.baseurl }}{{post.url}}" />
 {% endif %}{% endfor %}{% endif %}
 {% endif %}
 {% if page.url == "/en/index.html" %}<link rel="canonical" href="/" />{% endif %}

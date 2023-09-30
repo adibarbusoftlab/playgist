@@ -46,7 +46,7 @@ De asemenea, dacă aplicația este instalată, însă nu o poți accesa, instala
 
 Procesul implică activarea opțiunii de instalare a aplicațiilor din surse necunoscute, descărcarea aplicației Magazin Play în format APK și instalarea aplicației pe dispozitivul tău.
 
-Toate aceste etape sunt detaliate aici: ***Cum se descarcă și instalează Magazin Play***.
+Toate aceste etape sunt detaliate aici: [Cum se descarcă și instalează Magazin Play](https://playgist.com/ro/descarcare-si-instalare-magazin-play/).
 
 ## Cum folosești Magazin Play
 
