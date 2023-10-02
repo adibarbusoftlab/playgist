@@ -5,7 +5,6 @@ description: "Play Store usually appears on the main Android screen. Learn how t
 author: adrian
 categories: [Play Store, Android]
 image: assets/images/posts/en/play-store-app/play-store-app_featured.png
-image_title: "Descriere meta pentru imaginea postarii"
 permalink: /en/find-play-store-to-install-apps/
 lang: en
 lang-ref: google-play-store
