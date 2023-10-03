@@ -56,3 +56,21 @@ $(document.links).filter(function() {
 return this.hostname != window.location.hostname;
 }).attr('target', '_blank');
 
+// Scroll to top functionality
+document.addEventListener("DOMContentLoaded", function () {
+  var scrollToTopButton = document.getElementById("scrollToTop");
+  window.addEventListener("scroll", function () {
+      if (window.scrollY > 200) {
+          scrollToTopButton.style.display = "block";
+      } else {
+          scrollToTopButton.style.display = "none";
+      }
+  });
+
+  scrollToTopButton.addEventListener("click", function () {
+      window.scrollTo({
+          top: 0,
+          behavior: "smooth"
+      });
+  });
+});

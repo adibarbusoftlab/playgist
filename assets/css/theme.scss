@@ -760,3 +760,11 @@ span.navigation:before {
 .green-text {
     color: $green;
   }
+
+  #scrollToTop {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    cursor: pointer;
+}
