@@ -15,7 +15,7 @@ lang-ref: home-en
       {% assign posts = site.posts | where:"lang", page.lang %}
       {% for post in posts %}
       {% unless post.featured == true %}
-      <section class="col-md-12 mb-3">
+      <section class="col-md-12 mb-2">
         {% include postbox.html %}
       </section>
       {% endunless %}
