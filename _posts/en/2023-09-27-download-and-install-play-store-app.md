@@ -18,15 +18,15 @@ In this tutorial you will learn where to download the Play Store and what you ne
 
 By default, Android's security settings prevent the installation of apps or games from unknown or unauthorized sources. You will receive a message like the one below.
 
-<img alt="Lack of permission to install applications from unknown sources" title="Lack of permission to install applications from unknown sources" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/download-install-play-store/error-installing-from-unkown-source.jpg">
+<img alt="Lack of permission to install applications from unknown sources" title="Lack of permission to install applications from unknown sources" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/download-install-play-store/error-installing-from-unkown-source.jpg">
 
 You will need to change this setting to be able to install third-party apps, which are found outside of the Play Store.
 
 Go to ***Settings → Apps → Special access***.
-<img alt="Access menu to activate installation from unknown sources" title="Access menu to activate installation from unknown sources" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/download-install-play-store/settings-for-enabling-installing-from-unknown-sources.jpg">
+<img alt="Access menu to activate installation from unknown sources" title="Access menu to activate installation from unknown sources" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/download-install-play-store/settings-for-enabling-installing-from-unknown-sources.jpg">
 
 Navigate to ***"Install unknown apps"*** and enable the option for the ***"My Files"*** app.
-<img alt="Enable installation of applications from unknown sources for apk files" title="Enable installation of applications from unknown sources for apk files" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/download-install-play-store/enable-installing-apk-from-unknown-sources.jpg">
+<img alt="Enable installation of applications from unknown sources for apk files" title="Enable installation of applications from unknown sources for apk files" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/download-install-play-store/enable-installing-apk-from-unknown-sources.jpg">
 
 ## 2. Download Google Play Store app file
 
@@ -34,11 +34,11 @@ At apkmirror.com, you'll find a vast collection of Android apps that can be manu
 
 You can find the download page for Google Play Store [here](https://www.apkmirror.com/apk/google-inc/google-play-store/). Simply download the latest version compatible with your device by following the steps below.
 
-<img alt="Play Store apk download" title="Play Store apk download" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/download-install-play-store/download-play-store.jpg">
+<img alt="Play Store apk download" title="Play Store apk download" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/download-install-play-store/download-play-store.jpg">
 
 Then confirm the file download:
 
-<img alt="Play Store download confirmation" title="Play Store download confirmation" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/download-install-play-store/confirm-play-store-download.jpg">
+<img alt="Play Store download confirmation" title="Play Store download confirmation" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/download-install-play-store/confirm-play-store-download.jpg">
 
 
 If no compatible version is available for your device, you can opt to install Google Play services, which also includes Google Play Store.
@@ -47,7 +47,7 @@ If no compatible version is available for your device, you can opt to install Go
 
 To install the application, navigate to the Downloads folder on your Android device and open the file containing the Google Play Store app (with the .apk extension). An installation window will appear — press the Install or Update button as applicable.
 
-<img alt="Install Play Store on your Android device" title="Install Play Store on your Android device" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/download-install-play-store/install-play-store-apk.jpg">
+<img alt="Install Play Store on your Android device" title="Install Play Store on your Android device" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/download-install-play-store/install-play-store-apk.jpg">
 
 Wait for the process to complete, then close the window by pressing Done or immediately run Play Store by selecting Open.
 

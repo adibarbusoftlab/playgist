@@ -50,10 +50,10 @@ Preparation steps for your device are essential to ensure a smooth update proces
 If your phone or tablet is accessible, updating it is a straightforward process that can be done directly from the system.
 
 Go to 'Settings', select 'About phone' or 'About tablet', and then tap 'Software update'
-<img alt="Access settings for Android update" title="Access settings for Android update" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/update-android/access-update-settings-android.jpg">
+<img alt="Access settings for Android update" title="Access settings for Android update" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/update-android/access-update-settings-android.jpg">
 
 Tap "Download and Install" to start checking for a new version of Android.
-<img alt="Start Android update" title="Start Android update" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/update-android/android-software-update.jpg">
+<img alt="Start Android update" title="Start Android update" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/update-android/android-software-update.jpg">
 
 If there's a newer version of Android available, a window will appear, allowing you to download the latest version. Click the 'Update' button and wait for the download to complete.
 
