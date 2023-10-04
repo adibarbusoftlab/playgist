@@ -4,7 +4,7 @@
         <h5><span>{{site.t[page.lang].latestPosts}}</span></h5>
         <ul class="post-list">
             {% assign posts = site.posts | where:"lang", page.lang %}
-            {% for post in posts limit:5 %}
+            {% for post in posts limit: 10 %}
             <li><a href="{{site.baseurl}}{{post.url}}">{{ post.title }}</a></li>
             {% endfor %}
         </ul>
