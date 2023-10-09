@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "How to ensure the Play Store and apps safety - top security tips"
-description: "Play Store is a safe place to get apps and games, but it's also important to follow basic security tips and add extra protection. See how to secure your device."
+title: "Best practices to enhance security for the Play Store and apps"
+description: "Play Store is safe for getting apps, but it's also important to follow basic security tips and add extra protection. See how to enhance your device security."
 author: adrian
 categories: [Play Store, Android]
 image: assets/images/posts/en/secure-apps-and-play-store/secure-apps-and-play-store_featured.png
@@ -18,7 +18,7 @@ We've put together top essential security tips to make your Android device and t
 
 Play Protect is part of the Play Store, and serves as a safeguard by meticulously scanning installed apps for potential security threats. It plays an important role in ensuring that all apps on your device are safe and secure for use.
 
-You'll typically find Play Protect already installed and activated within the Play Store app. To access it, simply navigate to Settings → Play Protect. Here, you can view the latest report on app safety and even start a scan of your device.
+You'll typically find Play Protect already installed and activated within the Play Store app. To access it, simply navigate to ***Settings → Play Protect***. Here, you can view the latest report on app safety and even start a scan of your device.
 
 <img alt="Main screen of Play Protect in the Play Store" title="Main screen of Play Protect in the Play Store" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/secure-apps-and-play-store/play-protect-main-screen.jpg">
 
@@ -38,12 +38,12 @@ When installing an app or game, pay attention to the permissions it requires. Th
 You can review apps permissions after installation, but it's best to choose specific permissions during installation. If any excessive ones can't be disabled, check the producer's website for data usage details.
 
 To review permissions for installed apps, follow these steps:
-- Open "Settings".
-- Go to "Apps".
-- Select the app.
-- Tap "Permissions".
-- Adjust permissions as needed by tapping on each one.
-- Confirm changes.
+- Open "Settings"
+- Go to "Apps"
+- Select the app
+- Tap "Permissions"
+- Adjust permissions as needed by tapping on each one
+- Confirm changes
 
 ## Install an antivirus for your device
 
@@ -51,7 +51,7 @@ Typically, device security is maintained by keeping Android and all installed ap
 
 For an additional layer of protection, you might also want to consider installing a trusted antivirus or other security solution. These software tools are designed to identify and remove various forms of threats, including viruses, malware, and phishing attempts, and they continuously monitor your device for potential risks, providing real-time protection.
 
-By combining these security practices and staying vigilant while using your Android device, you can significantly reduce the risk of falling victim to cyber threats.
+By combining these security practices and use an antivirus, you can significantly reduce the risk of falling victim to cyber threats.
 
 ## Enable two steps authentication
 
@@ -61,17 +61,17 @@ Implementing Two-Factor Authentication across all your accounts is a simple yet 
 
 ## Enable Google Safe Browsing
 
-Google Safe Browsing shields your device from harmful content and helps you browse the web safety, providing real-time protection from phishing attempts, malware-infested websites, and fraudulent content.
+Google Safe Browsing shields your device from harmful content and helps you browse the web safely, providing real-time protection from phishing attempts, malware-infested websites, and fraudulent content.
 
-From your [Google account](https://myaccount.google.com/security), navigate to Security → Enhanced Safe Browsing for your Account → Manage Enhanced Safe Browsing and turn on Enhanced Safe Browsing.
+From your [Google account](https://myaccount.google.com/security), navigate to ***Security → Enhanced Safe Browsing for your Account → Manage Enhanced Safe Browsing*** and turn on ***Enhanced Safe Browsing***.
 
 ## Enable auto-updates for installed apps
 
 It is highly advisable to promptly install all available updates.
 
 To manage updates effectively, follow these steps in the Play Store:
-- Go to Settings → Network preferences.
-- Select Auto-update apps, and then choose the option that best suits your preferences regarding updates.
+- Go to ***Settings → Network preferences***.
+- Select ***Auto-update apps***, and then choose the option that best suits your preferences regarding updates.
 
 <img alt="Enable auto-update apps in Play Store" title="Enable auto-update apps in Play Store" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/secure-apps-and-play-store/enable-auto-update-apps-from-play-store.jpg">
 

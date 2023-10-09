@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cum se actualizează Magazinul Play – două modalități utile"
+title: "Magazin Play: actualizare automată vs. actualizare manuală"
 description: "Folosiți ultima versiune de Magazin Play pentru a avea accesibilitate deplină la conținutul existent. Află două modalități de actualizare: automată și manuală."
 author: adrian
 categories: [Magazin Play]
@@ -12,9 +12,9 @@ lang-ref: update-play-store
 
 Pentru a avea acces integral la Magazinul Play, este posibil să fie necesar să dispuneți de cea mai recentă versiune a acestuia, iar deși actualizarea se realizează automat, pot apărea probleme care necesită o actualizare manuală.
 
-Aflați în acest tutorial de ce este esențial să mențineți Magazinul Play actualizat și cum puteți efectua cu succes o actualizare la cea mai recentă versiune sau la o anumită.
+Aflați în acest tutorial de ce este esențial să mențineți Magazinul Google Play actualizat și cum puteți efectua cu succes o actualizare la cea mai recentă versiune sau la o anumită versiune.
 
-## De ce este important să actualizați și să mențineți actualizat Magazinul Play
+## De ce este important să mențineți actualizat Magazinul Play
 
 Motivele pentru care este important ca Magazin Play să rămână constant actualizat sunt numeroase. Cele mai importante de menționat sunt:
 - ***Compatibilitate extinsă la o gamă largă de aplicații***: uneori, pentru a putea descărca, instala și rula cele mai noi aplicații și jocuri, respectiv pentru a le putea actualiza, poate fi necesar și ca Magazin Play, împreună cu servicile Google adiționale, să aibă cele mai recente versiuni posibile.
@@ -24,7 +24,7 @@ Motivele pentru care este important ca Magazin Play să rămână constant actua
 ## Actualizări automate vs. Actualizări manuale
 
 Înainte de a detalia procesul de actualizare, este important să înțelegeți diferența dintre actualizările automate și cele manuale:
-- ***Actualizări automate***: în mod implicit, Magazinul Play se actualizează automat, având întotdeauna cea mai recentă versiune fără efort din partea dvs.
+- ***Actualizări automate***: în mod implicit, Magazinul Play se actualizează automat, având întotdeauna cea mai recentă versiune fără efort din partea dvs. Dacă actualizarea este amânată sau dezactivată, puteți iniția procesul de update direct din aplicație.
 - ***Actualizări manuale***: vă oferă control asupra procesului de actualizare, putând iniția actualizări doar atunci când aveți nevoie, de exemplu, atunci când actualizările automate nu funcționează corespunzător sau pentru a vă asigura fie că aveți cea mai recentă versiune, fie că aveți o anumită versiune.
 
 ## Metoda 1: Actualizarea din aplicația Magazin Play
@@ -46,14 +46,14 @@ Cea mai simplă metodă pentru a actualiza Magazinul Play este direct prin aplic
 
 În cazul în care întâmpinați dificultăți în accesarea Magazinului Play sau procesul actualizării făcute urmând pași de la Metoda 1 nu se finalizează cu succes, puteți actualiza manual Magazinul Play folosind o metodă alternativă:
 
-- Accesați o un magazin online cu aplicații Android care oferă fișierul APK al celei mai recente versiuni a Magazinului Play. Asigurați-vă că sursa este sigură și de încredere.
+- Accesați un magazin online cu aplicații Android care oferă fișierul APK pentru cea mai recentă versiune de Magazin Play. Asigurați-vă că sursa este sigură și de încredere.
 - Descărcați fișierul APK pe dispozitivul Android.
 - Găsiți fișierul APK descărcat și inițiați procesul de instalare.
 - Urmați instrucțiunile de pe ecran pentru a instala noua versiune a Magazinului Play.
 
 Această metodă vă permite nu numai să actualizați la cea mai recentă versiune, ci și să instalați versiuni specifice ale Magazinului Play, dacă este necesar.
 
-Ghidul complet cu instrucțiuni și ilustrații îl găsiți aici: [Cum instalezi Magazin Play pe telefon](https://playgist.com/ro/descarcare-si-instalare-magazin-play/)
+Ghidul complet cu instrucțiuni și ilustrații îl găsiți aici: [Cum instalezi manual Magazin Play pe telefon](https://playgist.com/ro/descarcare-si-instalare-magazin-play/)
 
 ## Mențiuni finale
 

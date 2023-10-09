@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to update Play Store - two useful ways"
+title: "Play Store: automatic update vs. manual update"
 description: "Use the latest version of the Play Store to have full access to existing content. Learn two ways to update: automatic and manual."
 author: adrian
 categories: [Play Store]
@@ -10,24 +10,24 @@ lang: en
 lang-ref: update-play-store
 ---
 
-To have full access to the Play Store, it may be necessary to have its latest version, and although updates are performed automatically, issues that require a manual update may arise.
+To have full access to the Google Play Store, it may be necessary to have its latest version, and although updates are performed automatically, issues that require a manual update may arise.
 
 Find out in this tutorial why it's essential to keep the Play Store updated and how you can successfully perform an update to the latest version or to a specific one.
 
-## Why it's important to update and keep Play Store updated
+## Why it's important to keep Play Store updated
 
 There are many reasons why it is important for Google Play Store to stay constantly updated. The most important to mention are:
-- ***Extended compatibility with a wide range of apps***: sometimes, in order to be able to download, install and run the latest applications and games, respectively to be able to update them, it may be necessary that Play Store, together with additional Google services, have the latest versions possible.
+- ***Extended compatibility with a wide range of apps***: sometimes, in order to be able to get and run the latest applications and games, respectively to be able to update them, it may be necessary that Play Store, together with additional Google services, have the latest versions possible.
 - ***Enhanced security***: Updates are released regularly to address potential vulnerabilities and security threats, and by keeping Play Store updated, you strengthen the security of your Android device, protecting your data and personal privacy.
 - ***Fixing software bugs***: Updates often include fixes for bugs and performance issues that can prevent the Play Store or apps you download, install, and run from working.
 
 ## Automatic updates vs. Manual updates
 
 Before detailing the update process, it's important to understand the difference between automatic and manual updates:
-- ***Automatic updates***: By default, Play Store updates itself automatically, always having the latest version without any effort on your part.
-- ***Manual updates***: Gives you control over the update process by being able to initiate updates only when you need to, for example when automatic updates aren't working properly or to make sure you're either on the latest version or on a specific version.
+- ***Automatic updates***: By default, Play Store updates itself automatically, always having the latest version without any effort on your part. If updates are postponed or disabled, you can initiate the update from within the app.
+- ***Manual updates***: Gives you control over the update process by being able to initiate updates only when you need to, for example when automatic updates aren't working properly or to make sure you're either using the latest version or a specific version.
 
-## Method 1: Updating through Play Store app
+## Method 1: Updating through the Google Play Store app
 
 The easiest way to update Play Store is directly through the application. Here are the steps:
 
@@ -52,7 +52,7 @@ If you are having trouble accessing the Play Store or the update process by foll
 
 This method not only updates you to the latest version but also allows you to install specific versions of Google Play Store, if needed.
 
-The full guide with instructions and illustrations can be found here: [How to install Play Store manually](https://playgist.com/en/download-and-install-play-store/)
+The full guide with instructions and illustrations can be found here: [How to manually install Play Store on your phone](https://playgist.com/en/download-and-install-play-store/)
 
 ## Final mentions
 

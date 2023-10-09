@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Magazin Play: localizare, accesare și instalare aplicații"
-description: "Magazin Play apare de obicei pe ecranul principal Android. Află cum o localizezi dacă nu o găsești, cum o folosești și cum instalezi aplicații și jocuri"
+title: "Magazin Play: localizare, utilizare și instalare aplicații și jocuri"
+description: "Magazin Play apare de obicei pe ecranul principal Android. Află cum localizezi aplicația dacă nu o găsești, cum o utilizezi și cum instalezi aplicații și jocuri"
 author: adrian
 categories: [Magazin Play, Android]
 image: "assets/images/posts/ro/aplicatia-magazin-play/aplicatie-magazin-play_prezentare.png"
@@ -10,7 +10,7 @@ lang: ro
 lang-ref: google-play-store
 ---
 
-Magazin Play este cea mai importantă aplicație Android: o puteți folosi pentru a instala o vastă colecție de aplicații / jocuri Android și pentru a accesa și/sau descărca conținut digital precum muzică, filme, cărți, reviste electronice etc.
+Magazin Google Play este cea mai importantă aplicație Android: o puteți folosi pentru a instala o vastă colecție de aplicații / jocuri Android și pentru a accesa conținut digital precum muzică, filme, cărți etc.
 
 Descoperă tot ce trebuie să știi despre Magazin Play: cum găsești aplicația, cum o localizezi dacă nu exista pe ecranul principal, cum o instalezi manual pe dispozitivul tău, cum o folosești eficient și cum instalezi aplicații și jocuri.
 
@@ -38,11 +38,11 @@ Dacă nu poți localiza Magazin Play pe ecranul pricipal, poți încerca să-l c
 3. ***Activează / reactivează aplicația***: alege "Magazin Google Play" din listă și apasă "Dezactivare" apoi "Activare"
 <img alt="Activare Magazin Play" title="Activare Magazin Play" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/aplicatia-magazin-play/activare-magazin-play.jpg">
 
-Dacă aplicația nu există în listă, singura opțiune pe care o ai este să descarci și să instalezi manual Magazin Play (vezi mai jos ce trebuie să faci în acest caz).
+Dacă aplicația nu există în listă, singura opțiune pe care o ai este să descarci și să instalezi manual Magazin Play - vezi mai jos ce trebuie să faci în acest caz.
 
 De asemenea, dacă aplicația este instalată, însă nu o poți accesa, instalarea manuală va actualiza Magazin Play la o versiune mai nouă sau la versiunea pe care ai downloadat-o, ceea ce poate rezolva problemele curente ale aplicației.
 
-## Cum descarci Magazin Play pentru instalare / actualizare manuală
+## Cum descarci Magazin Play pentru instalare manuală
 
 Procesul implică activarea opțiunii de instalare a aplicațiilor din surse necunoscute, descărcarea aplicației Magazin Play în format APK și instalarea aplicației pe dispozitivul tău.
 
@@ -50,13 +50,11 @@ Toate aceste etape sunt detaliate aici: [Cum se descarcă și instalează Magazi
 
 ## Cum folosești Magazin Play
 
-***Pentru a folosi Magazin Play, vei avea nevoie de un cont Google***. Odată autentificat, poți instala aplicații, jocuri și poți accesa / descărca conținut digital, cum ar fi muzică, filme, cărți și multe altele - vezi în imaginea de mai jos cum arată ecranul principal al aplicației.
+***Pentru a folosi Magazin Play, vei avea nevoie de un cont Google***. Odată autentificat, poți instala aplicații și jocuri și poți accesa / descărca conținut digital, cum ar fi muzică, filme, cărți și multe altele - vezi în imaginea de mai jos cum arată ecranul principal al aplicației.
 
 <img alt="Ecran pricipal Magazin Play dupa accesare" title="Ecran pricipal Magazin Play dupa accesare" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/aplicatia-magazin-play/ecran-principal-magazin-google-play.jpg">
 
 În plus, Magazin Play îți permite să gestionezi aplicațiile, jocurile și conținutul digital pe toate dispozitivele tale legate de contul Google, fie că este vorba de un telefon, tabletă sau PC.
-
-***Modul de întrebuințare este simplu***: deschide Magazin Play, caută aplicația sau jocul dorit, inițiază descărcarea, acordă permisiunile necesare și așteaptă finalizarea instalării, apoi rulează aplicația Android instalată.
 
 ## Cum instalezi aplicații și jocuri
 
@@ -64,7 +62,8 @@ Toate aceste etape sunt detaliate aici: [Cum se descarcă și instalează Magazi
 - Caută aplicația pe care dorești să o instalezi;
 - Apasă pe numele aplicației;
 - Apasă butonul "Instalează";
-- Acordă permisiunile necesare
+- Acordă permisiunile necesare;
+- Așteaptă finalizarea instalării.
 
 <div class="post-bottom-stars">***</div>
 

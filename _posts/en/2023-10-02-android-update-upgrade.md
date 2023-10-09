@@ -10,26 +10,24 @@ lang: en
 lang-ref: android-update-upgrade
 ---
 
-Android updates itself automatically as soon as a newer version becomes available. Users will receive an update notification and have the option to choose whether to download and then install the new version.
+Usually, as soon as a newer version of Android becomes available, the user will receive an update notification and have the option to choose whether to download and then install the new version. If you don’t get such notification or if the update fails you will have try to update the operation system manually.
 
-If you haven't received an update notification, don't worry! You have three options to update your device's operating system:
-- ***Automatic Update***: This is the easiest way. Go to your device's 'Settings,' find the 'Software Update' menu, and let your device check for updates. If a new version is available, it will guide you through the process.
-- ***Manual Update***: If your device is not working properly or the Automatic Update didn't detect a new version, you can perform a manual update using dedicated Device Management Software. Download this software, connect your phone or tablet to your computer using a data cable, and follow the instructions to update your device.
+Here are three options to update your Android system:
+- ***Automatic Update***: This is the easiest way. Go to 'Settings,' find the 'Software Update' menu, and let your device check for updates. If a new version is available, it will guide you through the process.
+- ***Manual Update***: If your device is not working properly or the Automatic Update didn't detect a new version, you can perform a manual update using dedicated Device Management Software, by connecting your device to your computer using a data cable, and following the update instructions.
 - ***Manual Upgrade***: For advanced users, there's the option of using specialized software installed on your computer. This software can rewrite the device's operating system, but be cautious as it requires technical knowledge and can be risky.
 
-It's essential to keep your device's operating system up to date to ensure optimal performance and security. Remember that the process might vary depending on your device's manufacturer (e.g., Samsung, LG, Xiaomi) and the device model. You can usually find detailed instructions on the manufacturer's website or user manual."
+It's essential to keep system device up to date to ensure optimal performance and security. Remember that the process might vary depending on your device manufacturer (e.g., Samsung, LG, Xiaomi) and the device model. You can usually find detailed instructions on the manufacturer's website or the user manual.
 
 ## The benefits of keeping your device up-to-date
 
 There are several reasons why you might want to update your Android to a newer version. The primary reason is that, typically, a new version brings improved stability to the operating system, along with new software features.
 
-However, there are instances when the motivation for an update stems from existing problems within the system or compatibility issues caused by installed applications that are no longer supported by older Android versions.
-
-In any case, performing an update serves to repair the Android system, enhance device stability, bolster software security, and ensure compatibility with new applications.
+However, there are instances when the motivation for an update stems from existing problems within the system or compatibility issues caused by installed applications that are no longer supported by older versions of Android.
 
 In any case, the update will repair the Android system and increase the stability and software security of the device, as well as compatibility with new applications released in [Google Play Store](https://playgist.com/en/find-play-store-to-install-apps/).
 
-It is strongly recommended to keep your Android system up to date by installing compatible versions whenever they become available
+It is strongly recommended to keep your Android system up to date by installing compatible versions whenever they become available.
 
 ## Preparation for the Update
 
@@ -37,7 +35,7 @@ The update operation will not remove your stored files and data, such as picture
 
 Preparation steps for your device are essential to ensure a smooth update process. Please ensure that you have:
 - Sufficient battery or, ideally, charge your phone or tablet before initiating the update.
-- A stable Wi-Fi connection to facilitate the download of the update.
+- A stable Wi-Fi connection to facilitate the download of the new version.
 - Adequate storage space available on the device to accommodate the installation of the new version.
 
 ***Very important notes***:
@@ -55,21 +53,21 @@ Go to 'Settings', select 'About phone' or 'About tablet', and then tap 'Software
 Tap "Download and Install" to start checking for a new version of Android.
 <img alt="Start Android update" title="Start Android update" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/update-android/android-software-update.jpg">
 
-If there's a newer version of Android available, a window will appear, allowing you to download the latest version. Click the 'Update' button and wait for the download to complete.
+If there's a newer version available, a window will appear, allowing you to download the latest version. Click the 'Update' button and wait for the download to complete.
 
 Once the latest version of Android is downloaded, press the 'Install' button.
 
 Your device will eventually reboot and begin the installation process for the new Android version.
 
-## Methond 2: Manually update Android by connecting the phone or tablet to the computer via a data cable.
+## Methond 2: Manually update Android by connecting the phone or tablet to a computer via a data cable.
 
 If the phone or tablet cannot be used, preventing you from updating it using the previous method, or if there are new Android versions not detected by the system, you can update the device through a computer with device management software installed.
 
-Device management software is a unique program provided by each manufacturer, enabling you to connect your phone or tablet to your computer using a data cable. With this software, you can perform various tasks, including data backup, device restoration, file transfers, and Android updates.
+Device management software is a unique program provided by each manufacturer, enabling you to connect your phone or tablet to your computer using a data cable. With this software, you can perform various tasks, including data backup, device restoration, file transfers, and Android update.
 
 To update Android using a Device Management Software follow the steps below.
 
-***1. Download the program and install it on your computer***:
+***1) Download the program and install it on your computer***:
 
 Visit the official website of the device manufacturer (Samsung, LG, Motorola, etc.) and navigate to the download section.
 
@@ -85,32 +83,32 @@ Look for the device management program associated with your specific device. Her
 - HTC Sync Manager - for HTC devices
 - Xiaomi Mi PC Suite - for Xiaomi devices
 
-***2. Launch the program, then connect your phone or tablet to your computer using a data cable***
+***2) Launch the program, connect your phone or tablet to your computer using a data cable, then start the update***
 
 Once connected, access the update center from the program's menu and initiate the search for updates.
 
 If updates or new Android versions are available, a window will appear displaying information about the detected updates or the new version's features. Click the "Update" button and wait for the download and installation process to complete.
 
-## Method 3: Upgrade Android by manually replace the operating system (should be avoided)
+## Method 3: Upgrade Android by manually replace the operating system (should be avoided!)
 
 The two methods for updating Android mentioned earlier have a limitation: they only detect the latest version available for the region where the device is being used and only those versions officially supported by the manufacturer for a specific phone or tablet model.
 
 To install a specific Android version, whether it's older, the latest, or not available in your region, you will need to root your device, download the desired Android version, and manually install it by flashing the firmware onto the device using specialized software.
 
-The entire process is quite complex, and potential consequences may include the inability to use the device afterward, voiding the warranty, operating system instability, and a reduced level of security if the Android system is not downloaded from trusted sources.
+The entire process is quite complex, and potential consequences may include the inability to use the device afterward, voiding the warranty, instability of the operating system, and a reduced level of security if the Android system is not downloaded from trusted sources.
 
 Examples of programs that facilitate the installation of Android firmware include:
-- Odin – for Samsung devices.
-- Flash Tool – for Sony Xperia devices.
-- HTC One Tool Kit – for HTC devices.
-- RSD Lite – for Motorola devices.
-- LG Bridge - for LG devices.
-- Mi Flash Tool - for Xiaomi devices.
-- Asus Flash Tool - for Asus devices.
-- Xperia Flashtool - for Sony Xperia devices.
-- Nokia Care Suite - for Nokia devices.
-- Google Pixel Update Software - for Google Pixel devices.
-- OnePlus Device Manager - for OnePlus devices.
-- Xiaomi Mi PC Suite - for Xiaomi devices.
+- Odin – for Samsung devices
+- Flash Tool – for Sony Xperia devices
+- HTC One Tool Kit – for HTC devices
+- RSD Lite – for Motorola devices
+- LG Bridge - for LG devices
+- Mi Flash Tool - for Xiaomi devices
+- Asus Flash Tool - for Asus devices
+- Xperia Flashtool - for Sony Xperia devices
+- Nokia Care Suite - for Nokia devices
+- Google Pixel Update Software - for Google Pixel devices
+- OnePlus Device Manager - for OnePlus devices
+- Xiaomi Mi PC Suite - for Xiaomi devices
 
 Please note that the availability of these programs may vary by region and device model, and manufacturers may update or change their software over time. Always refer to the official website or support resources of your device's manufacturer for the most accurate and up-to-date information on the software required for updating your device.
