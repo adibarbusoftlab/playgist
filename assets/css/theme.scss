@@ -103,6 +103,11 @@ small, .small {
 	-webkit-transition : all 0.3s ease-out;
 	transition : all 0.3s ease-out;
 }
+
+.navbar-brand {
+    padding: 10px 0;
+}
+
 .navigation-wrap {	
 	width: 100%;
 	top: 0;
@@ -703,7 +708,7 @@ span.navigation:before {
 }
 
 .footer {
-    margin-top:2rem;
+    margin-top:4rem;
     padding:30px 0;
     ul li {
         display: inline-block;

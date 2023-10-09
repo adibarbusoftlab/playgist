@@ -30,7 +30,7 @@ No, a Google account is required to access the Google Play Store.
 
 The Play Store (Google Play Store) provides access to a wide range of apps and digital content and is one of the most commonly used applications. It is typically preinstalled and can be found on your main screen.
 
-If you can't locate it on your device, please refer to the information in this article: [How to find and use the Play Store app](https://playgist.com/en/find-play-store-to-install-apps/).
+If you can't locate it on your device, please refer to the information in this article: [How to find and use the Play Store app]({{site.baseurl}}/en/find-play-store-to-install-apps/).
 
 ## Do all Android devices have the Play Store?
 
@@ -45,7 +45,7 @@ If your device has GMS (Google Mobile Services) licensing, you'll find the Play 
 Go to ***Settings → Apps***, and check if Google Play Store and Google Play Services are listed there. If they are, your device has GMS.
 <img alt="Search Play Store in the list with apps" title="Search Play Store in the list with apps" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-faqs/play-store-in-apps-list.jpg">
 
-If you can't find them, your device likely doesn't have GMS, and you may need to use an alternative app store. You can also try to get the Play Store app on your phone using the guide provided here: [Download and install Play Store on your phone](https://playgist.com/en/download-and-install-play-store/).
+If you can't find them, your device likely doesn't have GMS, and you may need to use an alternative app store. You can also try to get the Play Store app on your phone using the guide provided here: [Download and install Play Store on your phone]({{site.baseurl}}/en/download-and-install-play-store/).
 
 ## What are the alternatives to Play Store for devices without GMS?
 
@@ -84,13 +84,13 @@ If the Play Store is installed on your device but fails to open or experiences i
 1. Update Android OS: go to ***Settings → About phone → Software update***, then tap ***Download and update***.
 2. Update Play Store and Google Play Services: go to ***Settings → Apps***, tap in turn Google Play Store and Google Play Services, choose "App details in store" and press the Update button.
 
-If the OS and the Play Store apps are all updated but the problem persists, you should also try to login back into your Google account from Play Store and restart the device, and if the problem persists you can also try [resetting the phone to factory settings](https://playgist.com/en/reset-android-to-factory-settings/).
+If the OS and the Play Store apps are all updated but the problem persists, you should also try to login back into your Google account from Play Store and restart the device, and if the problem persists you can also try [resetting the phone to factory settings]({{site.baseurl}}/en/reset-android-to-factory-settings/).
 
 ## How to download and install Play Store?
 
 In most cases, Play Store comes pre-installed, and you can easily find it in your list of apps.
 
-However, there are instances when you might need to [download and install Play Store on your device](https://playgist.com/en/download-and-install-play-store/). For example, when you encounter an error like Google Play Store has stopped.
+However, there are instances when you might need to [download and install Play Store on your device]({{site.baseurl}}/en/download-and-install-play-store/). For example, when you encounter an error like Google Play Store has stopped.
 
 ## How to update all installed apps in the Play Store?
 
@@ -113,7 +113,7 @@ Play Store app typically updates automatically when newer versions are released 
 To manually initiate the Play Store update, go to ***Settings → About → Update Play Store***.
 <img alt="Update Play Store" title="Update Play Store" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-faqs/update-play-store.jpg">
 
-If you encounter any issues during the update process, refer to our article [How to update Play Store app](https://playgist.com/en/play-store-update/) for further guidance.
+If you encounter any issues during the update process, refer to our article [How to update Play Store app]({{site.baseurl}}/en/play-store-update/) for further guidance.
 
 ## What apps to install on your phone / tablet?
 

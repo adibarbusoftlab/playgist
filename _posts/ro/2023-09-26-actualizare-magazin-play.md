@@ -53,7 +53,7 @@ Cea mai simplă metodă pentru a actualiza Magazinul Play este direct prin aplic
 
 Această metodă vă permite nu numai să actualizați la cea mai recentă versiune, ci și să instalați versiuni specifice ale Magazinului Play, dacă este necesar.
 
-Ghidul complet cu instrucțiuni și ilustrații îl găsiți aici: [Cum instalezi manual Magazin Play pe telefon](https://playgist.com/ro/descarcare-si-instalare-magazin-play/)
+Ghidul complet cu instrucțiuni și ilustrații îl găsiți aici: [Cum instalezi manual Magazin Play pe telefon]({{site.baseurl}}/ro/descarcare-si-instalare-magazin-play/)
 
 ## Mențiuni finale
 

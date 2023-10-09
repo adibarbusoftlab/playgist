@@ -89,4 +89,4 @@ Secondly, updates can bring performance improvements and bug fixes, ensuring tha
 
 Overall, regularly updating your Android device not only boosts security but also enhances its performance and functionality, making it a wise and essential practice for all users.
 
-See [How to update Android from the device settings](https://playgist.com/en/android-update-upgrade/#methond-1-how-to-update-android-from-the-device-settings).
+See [How to update Android from the device settings]({{site.baseurl}}/en/android-update-upgrade/#methond-1-how-to-update-android-from-the-device-settings).

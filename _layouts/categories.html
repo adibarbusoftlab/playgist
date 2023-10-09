@@ -7,21 +7,24 @@ lang-ref: categories
 {% assign pages_list = category[1] | where:"lang", page.lang %}
 
 {% if pages_list[0].title != null and category[0] %}
-<h4 class="mt-5 mb-4 pb-2 border-bottom" id="{{ category[0] | replace: " "," -" | slugify }}"><span
-        class="text-capitalize small font-weight-bold">{{site.t[page.lang].belongsToCategory}} "{{ category[0]
-        }}"</span></h4>
-<div class="row">
-    {% for post in pages_list %}
-    {% if post.title != null %}
-    {% if group == null or group == post.group %}
-    <div class="col-md-6 mb-3">
-        {% include postbox.html %}
+<section>
+    <h3 class="mt-5 mb-4 pb-2 border-bottom" id="{{ category[0] | replace: " "," -" | slugify }}">
+        <span class="text-capitalize small font-weight-bold">{{site.t[page.lang].belongsToCategory}} "{{
+            category[0]}}"</span>
+    </h3>
+    <div class="row">
+        {% for post in pages_list %}
+        {% if post.title != null %}
+        {% if group == null or group == post.group %}
+        <section class="col-md-6 mb-3">
+            {% include postbox.html %}
+        </section>
+        {% endif %}
+        {% endif %}
+        {% endfor %}
+        {% assign pages_list = nil %}
+        {% assign group = nil %}
     </div>
-    {% endif %}
-    {% endif %}
-    {% endfor %}
-    {% assign pages_list = nil %}
-    {% assign group = nil %}
-</div>
+</section>
 {% endif %}
 {% endfor %}

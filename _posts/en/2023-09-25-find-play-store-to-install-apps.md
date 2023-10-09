@@ -47,7 +47,7 @@ Restart the device and see if the application appear in the menu with Android ap
 
 There are rare cases when the Play Store app is not installed by default on your phone / tablet but fortunately, there is the option to install the app manually. The process consists in setting the device to support installing apps from external sources, getting the Play Store app in an installable format (APK), and initiating the setting of the app on the device.
 
-All these steps are presented in this article: [How to download and install Play Store](https://playgist.com/en/download-and-install-play-store/).
+All these steps are presented in this article: [How to download and install Play Store]({{site.baseurl}}/en/download-and-install-play-store/).
 
 If the application appears to be installed but you cannot find it anywhere for accessing it, manually installing the application will result in updating Play Store to a newer version or a particular version, which might fix the issue.
 
@@ -73,4 +73,4 @@ Moreover, the app allows the management of applications, games, and digital cont
 
 By following the specified steps and tips, you will locate the Play Store and start making the most of its content, personalizing your device according to your preferences for apps, games, and digital content.
 
-If you're having trouble finding or using Play Store, or if you encounter any other issues related to using the Android system, you can perform a [factory reset](https://playgist.com/en/reset-android-to-factory-settings), which will resolve most problems.
+If you're having trouble finding or using Play Store, or if you encounter any other issues related to using the Android system, you can perform a [factory reset]({{site.baseurl}}/en/reset-android-to-factory-settings), which will resolve most problems.

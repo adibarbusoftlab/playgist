@@ -25,7 +25,7 @@ There are several reasons why you might want to update your Android to a newer v
 
 However, there are instances when the motivation for an update stems from existing problems within the system or compatibility issues caused by installed applications that are no longer supported by older versions of Android.
 
-In any case, the update will repair the Android system and increase the stability and software security of the device, as well as compatibility with new applications released in [Google Play Store](https://playgist.com/en/find-play-store-to-install-apps/).
+In any case, the update will repair the Android system and increase the stability and software security of the device, as well as compatibility with new applications released in [Google Play Store]({{site.baseurl}}/en/find-play-store-to-install-apps/).
 
 It is strongly recommended to keep your Android system up to date by installing compatible versions whenever they become available.
 

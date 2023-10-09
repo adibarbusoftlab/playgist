@@ -52,7 +52,7 @@ If you are having trouble accessing the Play Store or the update process by foll
 
 This method not only updates you to the latest version but also allows you to install specific versions of Google Play Store, if needed.
 
-The full guide with instructions and illustrations can be found here: [How to manually install Play Store on your phone](https://playgist.com/en/download-and-install-play-store/)
+The full guide with instructions and illustrations can be found here: [How to manually install Play Store on your phone]({{site.baseurl}}/en/download-and-install-play-store/)
 
 ## Final mentions
 
