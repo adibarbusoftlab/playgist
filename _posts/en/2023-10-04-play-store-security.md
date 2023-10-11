@@ -29,9 +29,9 @@ In the rare event that it's not already active on your device, you can easily en
 With this feature enabled, you gain the advantage of timely warnings about potentially harmful apps before installation or execution. Furthermore, if an app remains unused for an extended period, Play Protect automatically takes steps to enhance your device's security and performance. This includes revoking unnecessary permissions to safeguard your data, ceasing notifications to conserve battery life, and clearing temporary files to free up valuable storage space.
 
 ## Download only legit apps and games
-Before downloading apps and games from the Google Play Store, you should check the developer's identity and read user reviews. Apps and games produced by reputable companies, which has a large number of downloads, and have positive reviews are tipically safe to download and install.
+Before downloading apps and games from the Google Play Store, you should check the developer's identity and read user reviews. Apps and games produced by reputable companies, which has a large number of downloads, and have positive reviews are typically safe to download and install.
 
-## Review apps permisions
+## Review apps permissions
 
 When installing an app or game, pay attention to the permissions it requires. The permissions you give must be relevant to the app's functionaliy, anything that's optional, excessive or not need shold be avoided.
 

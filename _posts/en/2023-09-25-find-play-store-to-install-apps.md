@@ -41,7 +41,7 @@ If there's no any application with this name, then you will have to get the Play
 However, if the application appears in the list, then you have to make sure that it's also enabled. Access the application properties, and if disabled, activate it by pressing the Enable button.
 <img alt="Activate Play Store on the device" title="Activate Play Store on the device" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-app/activate-play-store-app.jpg">
 
-Restart the device and see if the application appear in the menu with Android apps.
+Restart the device and see if the application appears in the menu with Android apps.
 
 ## How to download Play Store and install it manually
 

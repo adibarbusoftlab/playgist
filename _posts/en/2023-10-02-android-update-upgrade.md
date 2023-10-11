@@ -10,7 +10,7 @@ lang: en
 lang-ref: android-update-upgrade
 ---
 
-Usually, as soon as a newer version of Android becomes available, the user will receive an update notification and have the option to choose whether to download and then install the new version. If you don’t get such notification or if the update fails you will have try to update the operation system manually.
+Usually, as soon as a newer version of Android becomes available, the user will receive an update notification and have the option to choose whether to download and then install the new version. If you don’t get such notification or if the update fails you will have to try to update the operating system manually.
 
 Here are three options to update your Android system:
 - ***Automatic Update***: This is the easiest way. Go to 'Settings,' find the 'Software Update' menu, and let your device check for updates. If a new version is available, it will guide you through the process.
@@ -23,7 +23,7 @@ It's essential to keep system device up to date to ensure optimal performance an
 
 There are several reasons why you might want to update your Android to a newer version. The primary reason is that, typically, a new version brings improved stability to the operating system, along with new software features.
 
-However, there are instances when the motivation for an update stems from existing problems within the system or compatibility issues caused by installed applications that are no longer supported by older versions of Android.
+However, there are instances when the motivation for an update stem from existing problems within the system or compatibility issues caused by installed applications that are no longer supported by older versions of Android.
 
 In any case, the update will repair the Android system and increase the stability and software security of the device, as well as compatibility with new applications released in [Google Play Store]({{site.baseurl}}/en/find-play-store-to-install-apps/).
 
@@ -43,11 +43,11 @@ Preparation steps for your device are essential to ensure a smooth update proces
 - Interrupting the update can result in a complete compromise of the operating system, rendering the phone or tablet unusable.
 - Please note that the update operation may take anywhere from several tens of minutes to several hours to complete.
 
-## Methond 1: How to update Android from the device settings
+## Method 1: How to update Android from the device settings
 
 If your phone or tablet is accessible, updating it is a straightforward process that can be done directly from the system.
 
-Go to 'Settings', select 'About phone' or 'About tablet', and then tap 'Software update'
+Go to 'Settings', select 'About phone' or 'About tablet', and then tap 'Software update'.
 <img alt="Access settings for Android update" title="Access settings for Android update" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/update-android/access-update-settings-android.jpg">
 
 Tap "Download and Install" to start checking for a new version of Android.
@@ -59,7 +59,7 @@ Once the latest version of Android is downloaded, press the 'Install' button.
 
 Your device will eventually reboot and begin the installation process for the new Android version.
 
-## Methond 2: Manually update Android by connecting the phone or tablet to a computer via a data cable.
+## Method 2: Manually update Android by connecting the phone or tablet to a computer via a data cable.
 
 If the phone or tablet cannot be used, preventing you from updating it using the previous method, or if there are new Android versions not detected by the system, you can update the device through a computer with device management software installed.
 

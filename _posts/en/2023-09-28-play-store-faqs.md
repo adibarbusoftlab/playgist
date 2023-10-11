@@ -77,7 +77,7 @@ To identify your device's operating system and version, navigate to ***Settings 
 
 You can use the OS and version information to search for additional details, if necessary.
 
-## What can you do if Play Store is not accesible or crashes?
+## What can you do if Play Store is not accessible or crashes?
 
 If the Play Store is installed on your device but fails to open or experiences issues such as crashes, errors, or unresponsiveness, follow the steps below to resolve the problem.
 
@@ -167,4 +167,4 @@ In theory, each device should have its own Google account, but it's possible to 
 
 If you've added a payment method and your device is used by children or others, it's a good idea to restrict purchases.
 
-Go to ***Settings → Authentication*** and ensure "Require authentication for purchases" is enabled. Depending on your device's features, you can also opt for biometric or facial authentication for autentication.
+Go to ***Settings → Authentication*** and ensure "Require authentication for purchases" is enabled. Depending on your device's features, you can also opt for biometric or facial authentication.
