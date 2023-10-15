@@ -7,7 +7,7 @@ permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Adrian
-paginate: 10
+paginate: 20
 locale: en_us
 lang: en_us
 feed_items: 5
@@ -72,11 +72,13 @@ t:
     language:
       en: "English"
       ro: "Romanian"
+      fi: "Finnish"
     belongsToCategory: "In"
     tags: "Tags"
     readMore: "Read the article"
     writtenBy: "By"
     latestUpdate: "Latest update"
+    postCategoriesUrl: "categories"
   ro:
     latestPosts: "ULTIMELE POSTĂRI"
     adsTitle: "Anunțuri sponsorizate"
@@ -104,11 +106,47 @@ t:
     language:
       en: "Engleză"
       ro: "Română"
+      fi: "Finlandeză"
     belongsToCategory: "În"
     tags: "Etichete"
     readMore: "Citește articolul"
     writtenBy: "De"
     latestUpdate: "Ultima actualizare"
+    postCategoriesUrl: "categorii"
+  fi:
+    latestPosts: "UUSIMMAT ARTIKKELIT"
+    adsTitle: "Sponsoroidut mainokset"
+    siteCopyright: "Kaikki oikeudet pidätetään."
+    siteDescription: "Play-kaupan opetusohjelmat ja sovellusten parhaimmistot"
+    cookieMessage: "Jatkamalla tämän sivuston käyttöä suostut evästeiden käyttöön laitteellasi, kuten evästepolitiikassa kuvataan, ellei niitä ole poistettu käytöstä. Voit muuttaa evästeasetuksiasi milloin tahansa, mutta tämä sivusto ei toimi oikein ilman niitä."
+    cookieBotton: "Hyväksy ja jatka"
+    homePage:
+      name: "Etusivu"
+      url: "/"
+    aboutPage:
+      name: "Tietoa"
+      url: "/fi/tietoa/"
+    contactPage:
+      name: "Yhteydenottosivu"
+      url: "/fi/yhteydenottosivu/"
+    privacyPolicyPage:
+      name: "Tietosuojakäytäntö"
+      url: "/fi/tietosuojakaytanto/"
+    cookiePolicyPage:
+      name: "Evästepolitiikka"
+      url: "/fi/evastepolitiikka/"
+    relatedPosts: ""
+    differentLanguages: "Lue tämä sivu eri kielellä"
+    language:
+      en: "Englanti"
+      ro: "Romanian"
+      fi: "Suomi"
+    belongsToCategory: "In"
+    tags: "Avainsanat"
+    readMore: "Lue artikkeli"
+    writtenBy: "Kirjoittaja"
+    latestUpdate: "Viimeisin päivitys"
+    postCategoriesUrl: "postausluokat"
 
 ad_post_first_temp: "<img alt=\"Ads section\" class=\"mx-auto d-block\" src=\"/assets/images/ad_header2.png\">"
 

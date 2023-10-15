@@ -9,7 +9,7 @@
 {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
 {% if posts.size == 0 %}{% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}{% endif %}
 {% if posts.size > 1 %}{% for post in posts %}{% if post.lang != page.lang %}
-<link rel="alternate" hreflang="{{ post.lang }}" href="https:://{{site.domain}}{{ site.baseurl }}{{post.url}}" />
+<link rel="alternate" hreflang="{{ post.lang }}" href="https://{{site.domain}}{{ site.baseurl }}{{post.url}}" />
 {% endif %}{% endfor %}{% endif %}
 {% endif %}
 {% if page.url == "/en/index.html" %}<link rel="canonical" href="/" />{% endif %}
@@ -103,29 +103,37 @@
     {{ content }}
   </main>
 
-  <!-- Footer
+<!-- Footer
   ================================================== -->
-  <footer class="footer container text-center">
+<footer class="footer container text-center">
 
-    <!-- FOOTER MENU BEGIN -->
-    <ul class="p-0 mb-1 small">
-      <li>
-        <a href="{{site.baseurl}}/{{page.lang}}/">{{site.t[page.lang].homePage.name}}</a>
-      </li>
-      <li>
-        <a href="{{site.baseurl}}{{site.t[page.lang].privacyPolicyPage.url}}">{{site.t[page.lang].privacyPolicyPage.name}}</a>
-      </li>
-      <li>
-        <a href="{{site.baseurl}}{{site.t[page.lang].cookiePolicyPage.url}}">{{site.t[page.lang].cookiePolicyPage.name}}</a>
-      </li>
-      <li>
-        <a href="{{site.baseurl}}{{site.t[page.lang].contactPage.url}}">{{site.t[page.lang].contactPage.name}}</a>
-      </li>
-    </ul>
-    <!-- FOOTER MENU END -->
-    <div class="copyright small">
-      Copyright © {{site.copyright_year}} {{site.domain}}. {{site.t[page.lang].siteCopyright}} </div>
-  </footer>
+  <!-- FOOTER MENU BEGIN -->
+  <ul class="p-0 mb-1 small">
+    <li>
+      <a href="{{site.baseurl}}/{{page.lang}}/">{{site.t[page.lang].homePage.name}}</a>
+    </li>
+    <li>
+      {% if page.lang == "fi" %}
+      <a href="{{site.baseurl}}{{site.t.en.privacyPolicyPage.url}}">{{site.t[page.lang].privacyPolicyPage.name}}</a>
+      {% else %}
+      <a href="{{site.baseurl}}{{site.t[page.lang].privacyPolicyPage.url}}">{{site.t[page.lang].privacyPolicyPage.name}}</a>
+      {% endif %}
+    </li>
+    <li>
+      {% if page.lang == "fi" %}
+      <a href="{{site.baseurl}}{{site.t.en.cookiePolicyPage.url}}">{{site.t[page.lang].cookiePolicyPage.name}}</a>
+      {% else %}
+      <a href="{{site.baseurl}}{{site.t[page.lang].cookiePolicyPage.url}}">{{site.t[page.lang].cookiePolicyPage.name}}</a>
+      {% endif %}
+    </li>
+    <li>
+      <a href="{{site.baseurl}}{{site.t[page.lang].contactPage.url}}">{{site.t[page.lang].contactPage.name}}</a>
+    </li>
+  </ul>
+  <!-- FOOTER MENU END -->
+<div class="copyright small">
+  Copyright © {{site.copyright_year}} {{site.domain}}. {{site.t[page.lang].siteCopyright}} </div>
+</footer>
 
   <!-- Cookie bar-->
   <div id="eucookies">
