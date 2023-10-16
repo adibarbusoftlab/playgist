@@ -73,4 +73,4 @@ Ponadto, aplikacja umożliwia zarządzanie aplikacjami, grami i treściami cyfro
 
 Postępując zgodnie z podanymi krokami i wskazówkami, odnajdziesz Sklep Play i zaczniesz korzystać z jego zawartości, personalizując swoje urządzenie zgodnie z preferencjami dotyczącymi aplikacji, gier i treści cyfrowych.
 
-Jeśli masz problemy z wyszukiwaniem lub korzystaniem ze Sklepu Play, lub jeśli napotkasz inne problemy związane z korzystaniem z systemu Android, możesz wykonać [reset fabryczny]({{site.baseurl}}/pl/resetowanie-android-do-ustawień-fabrycznych), który rozwiąże większość problemów.
+Jeśli masz problemy z wyszukiwaniem lub korzystaniem ze Sklepu Play, lub jeśli napotkasz inne problemy związane z korzystaniem z systemu Android, możesz wykonać [reset fabryczny]({{site.baseurl}}/pl/resetowanie-android-do-ustawien-fabrycznych), który rozwiąże większość problemów.

@@ -84,7 +84,7 @@ Jeśli Sklep Play jest zainstalowany na Twoim urządzeniu, ale nie otwiera się 
 1. Zaktualizuj system Android: przejdź do ***Ustawienia → O telefonie → Aktualizacja oprogramowania***, a następnie dotknij opcji Pobierz i zaktualizuj.
 2. Zaktualizuj Sklep Play i Usługi Google Play: przejdź do ***Ustawienia → Aplikacje***, kolejno dotknij Sklep Play Google i Usługi Google Play, wybierz opcję „Szczegóły aplikacji w sklepie” i naciśnij przycisk Aktualizuj.
 
-Jeśli system operacyjny i aplikacje Sklepu Play są zaktualizowane, ale problem nadal występuje, spróbuj ponownie zalogować się do swojego konta Google w Sklepie Play, [zrestartuj urządzenie]({{site.baseurl}}/pl/resetowanie-android-do-ustawień-fabrycznych/), a jeśli problem będzie nadal występować, spróbuj zresetować telefon do ustawień fabrycznych.
+Jeśli system operacyjny i aplikacje Sklepu Play są zaktualizowane, ale problem nadal występuje, spróbuj ponownie zalogować się do swojego konta Google w Sklepie Play, [zrestartuj urządzenie]({{site.baseurl}}/pl/resetowanie-android-do-ustawien-fabrycznych/), a jeśli problem będzie nadal występować, spróbuj zresetować telefon do ustawień fabrycznych.
 
 ## Jak pobrać i zainstalować Sklep Play?
 

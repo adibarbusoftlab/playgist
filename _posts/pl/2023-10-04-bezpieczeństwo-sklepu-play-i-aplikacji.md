@@ -91,4 +91,4 @@ Po drugie, aktualizacje mogą przynosić poprawę wydajności oraz naprawiać b�
 
 Ogólnie rzecz biorąc, regularne aktualizowanie urządzenia z systemem Android nie tylko zwiększa bezpieczeństwo, ale także poprawia jego wydajność i funkcjonalność, co czyni to mądrym i niezbędnym postępowaniem dla wszystkich użytkowników.
 
-Zobacz, [Jak zaktualizować system Android z ustawień urządzenia]({{site.baseurl}}/pl/resetowanie-android-do-ustawień-fabrycznych/#standardowa-metoda-resetowanie-do-ustawien-fabrycznych-gdy-urządzenie-działa).
+Zobacz, [Jak zaktualizować system Android z ustawień urządzenia]({{site.baseurl}}/pl/resetowanie-android-do-ustawien-fabrycznych/#standardowa-metoda-resetowanie-do-ustawien-fabrycznych-gdy-urządzenie-działa).
