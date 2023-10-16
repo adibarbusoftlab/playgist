@@ -1,0 +1,31 @@
+---
+title: Strona główna
+layout: default
+description: "Poradniki i artykuły o systemie Android, aplikacjach, Sklepie Play."
+permalink: "/pl/index.html"
+lang: pl
+lang-ref: home-pl
+---
+
+<!-- Posts List with Sidebar (except featured)
+  ================================================== -->
+<div class="row">
+  <div class="col-md-12">
+    <div class="row">
+      {% assign posts = site.posts | where:"lang", page.lang %}
+      {% for post in posts %}
+      {% unless post.featured == true %}
+      <section class="col-md-12 mb-2">
+        {% include postbox.html %}
+      </section>
+      {% endunless %}
+      {% endfor %}
+    </div>
+    <!-- Pagination -->
+    <div class="bottompagination">
+      <div class="navigation" role="navigation">
+        {% include pagination.html %}
+      </div>
+    </div>
+  </div>
+</div>

@@ -7,7 +7,7 @@ permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Adrian
-paginate: 20
+paginate: 1000
 locale: en_us
 lang: en_us
 feed_items: 5
@@ -73,6 +73,7 @@ t:
       en: "English"
       ro: "Romanian"
       fi: "Finnish"
+      pl: "Polish"
     belongsToCategory: "In"
     tags: "Tags"
     readMore: "Read the article"
@@ -138,15 +139,51 @@ t:
     relatedPosts: ""
     differentLanguages: "Lue tämä sivu eri kielellä"
     language:
-      en: "Englanti"
-      ro: "Romanian"
-      fi: "Suomi"
+      en: "englanti"
+      ro: "romania"
+      fi: "suomi"
+      pl: "puola"
     belongsToCategory: "In"
     tags: "Avainsanat"
     readMore: "Lue artikkeli"
     writtenBy: "Kirjoittaja"
     latestUpdate: "Viimeisin päivitys"
     postCategoriesUrl: "postausluokat"
+  pl:
+    latestPosts: "NAJNOWSZE WPISY"
+    adsTitle: "Sponsorowane reklamy"
+    siteCopyright: "Wszelkie prawa zastrzeżone."
+    siteDescription: "Poradniki sklepu Play i najlepsze aplikacje"
+    cookieMessage: "Kontynuując korzystanie z tej strony, wyrażasz zgodę na używanie plików cookie na swoim urządzeniu, zgodnie z opisem w polityce dotyczącej plików cookie, chyba że wyłączyłeś je. Możesz w każdej chwili zmienić ustawienia plików cookie, ale niektóre części tej strony nie będą działać poprawnie bez nich."
+    cookieBotton: "Zgadzam się i kontynuuję"
+    homePage:
+      name: "Strona główna"
+      url: "/"
+    aboutPage:
+      name: "O nas"
+      url: "/pl/o-nas/"
+    contactPage:
+      name: "Kontakt"
+      url: "/pl/kontakt/"
+    privacyPolicyPage:
+      name: "Polityka prywatności"
+      url: "/pl/polityka-prywatnosci/"
+    cookiePolicyPage:
+      name: "Polityka dotycząca plików cookie"
+      url: "/pl/polityka-dotyczaca-cookies/"
+    relatedPosts: "Powiązane Posty"
+    differentLanguages: "Przeczytaj tę stronę w innym języku"
+    language:
+      en: "angielski"
+      ro: "rumuński"
+      fi: "fiński"
+      pl: "polski"
+    belongsToCategory: "W"
+    tags: "Tagi"
+    readMore: "Czytaj artykuł"
+    writtenBy: "Napisane przez"
+    latestUpdate: "Najnowsza aktualizacja"
+    postCategoriesUrl: "kategorie"
 
 ad_post_first_temp: "<img alt=\"Ads section\" class=\"mx-auto d-block\" src=\"/assets/images/ad_header2.png\">"
 

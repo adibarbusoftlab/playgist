@@ -113,14 +113,14 @@
       <a href="{{site.baseurl}}/{{page.lang}}/">{{site.t[page.lang].homePage.name}}</a>
     </li>
     <li>
-      {% if page.lang == "fi" %}
+      {% if page.lang == "fi"or page.lang == "pl" %}
       <a href="{{site.baseurl}}{{site.t.en.privacyPolicyPage.url}}">{{site.t[page.lang].privacyPolicyPage.name}}</a>
       {% else %}
       <a href="{{site.baseurl}}{{site.t[page.lang].privacyPolicyPage.url}}">{{site.t[page.lang].privacyPolicyPage.name}}</a>
       {% endif %}
     </li>
     <li>
-      {% if page.lang == "fi" %}
+      {% if page.lang == "fi" or page.lang == "pl" %}
       <a href="{{site.baseurl}}{{site.t.en.cookiePolicyPage.url}}">{{site.t[page.lang].cookiePolicyPage.name}}</a>
       {% else %}
       <a href="{{site.baseurl}}{{site.t[page.lang].cookiePolicyPage.url}}">{{site.t[page.lang].cookiePolicyPage.name}}</a>
