@@ -34,7 +34,7 @@ body {
     .container-xl, .container-lg, .container-md, .container-sm, .container {
         width:90%;
         max-width:90%;
-        padding:0 25px;
+        padding:0px;
     }
 }
 main {min-height:500px;}
@@ -323,6 +323,7 @@ span.post-name a,span.post-read-more a:hover {
     text-align: center;
     margin-top: 20px;
     margin-bottom: 20px;
+    border: 1px solid #D3D3D3; 
   }
 
 .article-post {
@@ -773,3 +774,4 @@ span.navigation:before {
     right: 20px;
     cursor: pointer;
 }
+
