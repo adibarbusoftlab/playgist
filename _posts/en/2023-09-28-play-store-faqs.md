@@ -123,7 +123,9 @@ Consider essential apps such as web browsers, office applications (Excel, Word e
 
 ## How to download apps without Play Store?
 
-If you don't have access to the Play Store on your phone or tablet, or if the desired apps are not available there, you can explore alternative app sources. Here are some options:
+If you don't have access to the Play Store on your phone or tablet, or if the desired apps are not available there, you can explore alternative app sources.
+
+Here are some options:
 - APKMirror
 - Aptoide
 - F-Droid

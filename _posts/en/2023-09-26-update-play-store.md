@@ -17,7 +17,7 @@ Find out in this tutorial why it's essential to keep the Play Store updated and 
 ## Why it's important to keep Play Store updated
 
 There are many reasons why it is important for Google Play Store to stay constantly updated. The most important to mention are:
-- ***Extended compatibility with a wide range of apps***: sometimes, in order to be able to get and run the latest applications and games, respectively to be able to update them, it may be necessary that Play Store, together with additional Google services, have the latest versions possible.
+- ***Extended compatibility with a wide range of apps***: Sometimes, in order to be able to get and run the latest applications and games, respectively to be able to update them, it may be necessary that Play Store, together with additional Google services, have the latest versions possible.
 - ***Enhanced security***: Updates are released regularly to address potential vulnerabilities and security threats, and by keeping Play Store updated, you strengthen the security of your Android device, protecting your data and personal privacy.
 - ***Fixing software bugs***: Updates often include fixes for bugs and performance issues that can prevent the Play Store or apps you download, install, and run from working.
 

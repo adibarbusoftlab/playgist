@@ -67,7 +67,7 @@ Device management software is a unique program provided by each manufacturer, en
 
 To update Android using a Device Management Software follow the steps below.
 
-***1) Download the program and install it on your computer***:
+***1) Download the program and install it on your computer***
 
 Visit the official website of the device manufacturer (Samsung, LG, Motorola, etc.) and navigate to the download section.
 
