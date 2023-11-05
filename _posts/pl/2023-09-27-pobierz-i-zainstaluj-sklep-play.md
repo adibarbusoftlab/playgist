@@ -22,10 +22,10 @@ Domyślne ustawienia zabezpieczeń systemu Android uniemożliwiają instalację 
 
 Aby móc zainstalować aplikacje z innych źródeł niż Sklep Play, musisz zmienić ustawienie.
 
-Przejdź do ***Ustawienia → Aplikacje → Specjalny dostęp***.
+Przejdź do ***Ustawienia → Aplikacje → Dostęp specjalny***.
 <img alt="Dostęp do menu umożliwiającego aktywację instalacji z nieznanych źródeł" title="Dostęp do menu umożliwiającego aktywację instalacji z nieznanych źródeł" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/pobierz-zainstaluj-sklep-play/ustawienia-do-wlaczenia-instalowania-z-nieznanych-zrodel.jpg">
 
-Przejdź do opcji ***„Zainstalowane aplikacje z nieznanych źródeł”*** i włącz opcję dla aplikacji ***„Moje pliki”***.
+Przejdź do opcji ***„Zainstaluj nieznane aplikacje”*** i włącz opcję dla aplikacji ***„Moje pliki”***.
 <img alt="Włączanie instalacji aplikacji z nieznanych źródeł dla plików APK" title="Włączanie instalacji aplikacji z nieznanych źródeł dla plików APK" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/pobierz-zainstaluj-sklep-play/wlacz-instalowanie-aplikacji-apk-z-nieznanych-zrodel.jpg">
 
 ## 2. Pobierz plik APK Sklepu Google Play

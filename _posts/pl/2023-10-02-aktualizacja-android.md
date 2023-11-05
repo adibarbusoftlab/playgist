@@ -69,7 +69,7 @@ Oprogramowanie do zarządzania urządzeniem to specjalny program dostarczony prz
 
 Aby zaktualizować Androida za pomocą oprogramowania do zarządzania urządzeniem, postępuj zgodnie z poniższymi krokami.
 
-***1) Pobierz program i zainstaluj go na komputerze:***
+***1) Pobierz program i zainstaluj go na komputerze***
 
 Odwiedź oficjalną stronę internetową producenta urządzenia (Samsung, LG, Motorola itp.) i przejdź do sekcji pobierania.
 

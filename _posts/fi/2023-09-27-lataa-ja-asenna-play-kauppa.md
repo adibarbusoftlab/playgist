@@ -22,10 +22,10 @@ Oletuksena Androidin tietoturva-asetukset estävät sovellusten tai pelien asent
 
 Sinun on muutettava asetusta voidaksesi asentaa kolmannen osapuolen sovelluksia, jotka eivät ole Play Kaupasta.
 
-Mene ***Asetukset → Sovellukset → Erityiskäyttöoikeudet***.
+Mene ***Asetukset → Sovellukset → Erikoiskäyttö***.
 <img alt="Pääsy valikkoon tuntemattomista lähteistä asentamisen aktivoimiseksi" title="Pääsy valikkoon tuntemattomista lähteistä asentamisen aktivoimiseksi" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/lataa-asenna-play-kauppa/asetukset-tuntemattomista-lahdeista-asentamisen-mahdollistamiseksi.jpg">
 
-Siirry kohtaan ***"Asenna tuntemattomista lähteistä"*** ja ota valinnaksi ***"Omat tiedostot"***.
+Siirry kohtaan ***"Asenna tuntemattomia sovelluksia"*** ja ota valinnaksi ***"Omat tiedostot"***.
 <img alt="Ota käyttöön sovellusten asentaminen tuntemattomista " title="Ota käyttöön sovellusten asentaminen tuntemattomista " loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/lataa-asenna-play-kauppa/mahdollista-apk-asennus-tuntemattomista-lahdeista.jpg">
 
 ## 2. Lataa Google Play Kauppa APK-tiedostona

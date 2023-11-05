@@ -23,7 +23,7 @@ Useimmiten löydät pikakuvakkeen Play Kauppaan laitteesi kotinäytöltä. Tunni
 Mikäli Play Kauppa-sovellus ei näy päänäytöllä, käyttäjän on etsittävä sitä. Siirry Sovellukset näytölle, mene Haku kuvakkeeseen ja kirjoita Play Kauppa. Jos sovellus on olemassa, se näkyy hakutuloksissa.
 <img alt="Hae Play Kauppaa Androidin kotinäytöllä" title="Hae Play Kauppaa Androidin kotinäytöllä" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/fi/play-kauppa-sovellus/haku-play-kaupan-paaruudulla.jpg">
 
-***Maininnat Play Kaupasta:***:
+***Maininnat Play Kaupasta:***
 - Sovelluksella on useita nimiä, riippuen laitevalmistajasta, käyttöjärjestelmän kielestä ja Android-versiosta. Jos käyttöjärjestelmän kieli on suomi, yleisiä nimiä ovat "Google Play", "Play kauppa" ja "Google Play Kauppa", mutta nimi voi vaihdella laitteen asetetun kielen mukaan.
 - Se on useimmissa Android-laitteissa ennalta asennettu, mutta on myös tapauksia ja alueita, joissa käytetään muita sovelluskauppoja. Tässä tapauksessa Play Kauppaa ei ole asennettu, mutta sen voi ladata ja asentaa manuaalisesti tai käyttää valmistajan tarjoamaa sovelluskauppaa.
 

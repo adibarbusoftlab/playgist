@@ -31,7 +31,7 @@ Przed rozpoczęciem podejmij następujące środki ostrożności:
 - ***Sprawdź usunięcie danych***: Przed przystąpieniem sprawdź listę typów danych, które zostaną usunięte z pamięci wewnętrznej telefonu podczas resetu fabrycznego.
 - ***Zbadaj alternatywne opcje resetowania***: Opcje takie jak "Reset wszystkich ustawień", "Reset ustawień sieciowych" i "Reset ustawień dostępności" mogą umożliwić rozwiązanie konkretnych problemów bez usuwania wszystkich danych.
 
-- Te środki ostrożności są niezbędne, aby uniknąć utraty danych i przerw w trakcie procesu resetowania do ustawień fabrycznych.
+Te środki ostrożności są niezbędne, aby uniknąć utraty danych i przerw w trakcie procesu resetowania do ustawień fabrycznych.
 
 ## Standardowa metoda: resetowanie do ustawień fabrycznych, gdy urządzenie działa
 
@@ -105,17 +105,20 @@ Jeśli Twoje urządzenie nie reaguje i nie można go normalnie wyłączyć, post
 Aby uruchomić urządzenie w trybie odzyskiwania, możesz użyć jednej z kombinacji przycisków poniżej.
 
 ***Klawisz głośności + Przycisk Home / Start (jeśli dotyczy) + Przycisk zasilania***:
+
 Naciśnij i przytrzymaj klawisz zwiększania głośności.
 Jeśli Twoje urządzenie ma fizyczny przycisk Home lub Start, również naciśnij i przytrzymaj go.
 Jednocześnie naciśnij i przytrzymaj przycisk zasilania.
 Przytrzymuj te przyciski, aż pojawi się logo urządzenia, a następnie puść je.
 
 ***Klawisz zmniejszenia głośności + Przycisk zasilania***:
+
 Naciśnij i przytrzymaj klawisz zmniejszenia głośności.
 Jednocześnie naciśnij i przytrzymaj przycisk zasilania.
 Kontynuuj trzymanie obu przycisków, aż pojawi się logo urządzenia, a następnie puść je.
 
 ***Przycisk Home / Start (jeśli dotyczy) + Przycisk zasilania***:
+
 Naciśnij i przytrzymaj przycisk Home lub Start (jeśli Twoje urządzenie go posiada).
 Jednocześnie naciśnij i przytrzymaj przycisk zasilania.
 Przytrzymuj oba przyciski, aż pojawi się logo urządzenia, a następnie puść je.
@@ -125,20 +128,24 @@ Przytrzymuj oba przyciski, aż pojawi się logo urządzenia, a następnie puść
 W menu trybu odzyskiwania ścieżka inicjacji resetu, często oznaczona jako „Reset fabryczny”, może nieznacznie różnić się w zależności od producenta urządzenia i wersji systemu Android. Jednak wspólnym sposobem wykonania resetu jest:
 
 ***Wymaż dane / Reset fabryczny***:
-W menu trybu odzyskiwania znajdź opcję oznaczoną mniej więcej jako „Wymaż dane”, „Reset fabryczny” lub „Reset”.
-Użyj przycisków głośności do poruszania się po menu i przycisku zasilania (lub innego przycisku oznaczonego) do wybrania opcji.
+
+- W menu trybu odzyskiwania znajdź opcję oznaczoną mniej więcej jako „Wymaż dane”, „Reset fabryczny” lub „Reset”.
+- Użyj przycisków głośności do poruszania się po menu i przycisku zasilania (lub innego przycisku oznaczonego) do wybrania opcji.
 
 ***Potwierdź reset***:
-Po wybraniu opcji „Wymaż dane” lub „Reset fabryczny” prawdopodobnie zostaniesz poproszony o potwierdzenie swojej decyzji.
-Potwierdź, że chcesz kontynuować resetowanie do ustawień fabrycznych. Ta czynność usunie wszystkie dane z Twojego urządzenia.
+
+- Po wybraniu opcji „Wymaż dane” lub „Reset fabryczny” prawdopodobnie zostaniesz poproszony o potwierdzenie swojej decyzji.
+- Potwierdź, że chcesz kontynuować resetowanie do ustawień fabrycznych. Ta czynność usunie wszystkie dane z Twojego urządzenia.
 
 ***Wymaż pamięć podręczną (opcjonalne)***:
-Jeśli zobaczysz osobną opcję „Wyczyść pamięć podręczną” i chcesz również ją wyczyścić, możesz ją wybrać.
-Czyszczenie pamięci podręcznej czasami może rozwiązać określone problemy wydajnościowe, ale jest to opcjonalne i nie jest konieczne do resetu fabrycznego.
+
+- Jeśli zobaczysz osobną opcję „Wyczyść pamięć podręczną” i chcesz również ją wyczyścić, możesz ją wybrać.
+- Czyszczenie pamięci podręcznej czasami może rozwiązać określone problemy wydajnościowe, ale jest to opcjonalne i nie jest konieczne do resetu fabrycznego.
 
 ***Uruchom ponownie urządzenie***:
-Po zakończeniu resetu fabrycznego zazwyczaj pojawi się opcja ponownego uruchomienia urządzenia.
-Wybierz tę opcję, aby zrestartować swoje urządzenie, które teraz zostanie przywrócone do ustawień fabrycznych.
+
+- Po zakończeniu resetu fabrycznego zazwyczaj pojawi się opcja ponownego uruchomienia urządzenia.
+- Wybierz tę opcję, aby zrestartować swoje urządzenie, które teraz zostanie przywrócone do ustawień fabrycznych.
 
 ## Co robić po zresetowaniu
 

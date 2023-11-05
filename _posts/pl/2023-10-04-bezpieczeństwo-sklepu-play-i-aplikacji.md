@@ -79,7 +79,7 @@ Aby skutecznie zarządzać aktualizacjami, postępuj zgodnie z poniższymi kroka
 
 Rozważnym wyborem jest zezwolenie na pobieranie aktualizacji tylko przez sieci Wi-Fi, co oszczędza użycie danych mobilnych. Jednak optymalnym wyborem, jeśli Twój plan danych mobilnych na to pozwala i masz kilka wolnych gigabajtów, jest pobieranie aktualizacji przez dowolną sieć dla szybszych i bardziej wygodnych aktualizacji.
 
-Po skonfigurowaniu ustawień aktualizacji przejdź do aktualizacji swoich aplikacji ze Sklepu Play. Przejdź do ***"Ustawień" → "Zarządzaj aplikacjami i urządzeniami"*** i wybierz ***"Zaktualizuj wszystko"***, aby utrzymać wszystkie swoje aplikacje w najnowszej wersji i skorzystać z najnowszych funkcji oraz usprawnień związanych z bezpieczeństwem.
+Po skonfigurowaniu ustawień aktualizacji przejdź do aktualizacji swoich aplikacji ze Sklepu Play. Przejdź do ***"Ustawień" → "Zarządzaj aplikacjami i urządzeniami"*** i wybierz ***"Aktualizuj wszystkie"***, aby utrzymać wszystkie swoje aplikacje w najnowszej wersji i skorzystać z najnowszych funkcji oraz usprawnień związanych z bezpieczeństwem.
 
 <img alt="Zaktualizuj zainstalowane aplikacje ze Sklepu Play" title="Zaktualizuj zainstalowane aplikacje ze Sklepu Play" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/bezpieczenstwo-sklepu-play-i-aplikacji/aktualizuj-wszystkie-aplikacje-i-gry-ze-sklepu-play.jpg">
 

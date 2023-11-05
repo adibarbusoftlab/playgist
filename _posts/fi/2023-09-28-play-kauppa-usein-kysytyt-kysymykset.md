@@ -27,7 +27,7 @@ Ei, Google-tili vaaditaan päästäksesi Google Play Kauppaan.
 ## Mistä löydän Play Kaupan ja miten asennan sovelluksia ja pelejä?
 Play Kauppa (Google Play Kauppa) tarjoaa laajan valikoiman sovelluksia ja digitaalista sisältöä ja se on yksi yleisimmin käytetyistä sovelluksista. Se on yleensä esiasennettu ja löytyy päänäytöltäsi.
 
-Jos et löydä sitä laitteestasi, viittaa tietoihin tässä artikkelissa: Kuinka löytää ja käyttää Play Kauppa -sovellusta.
+Jos et löydä sitä laitteestasi, viittaa tietoihin tässä artikkelissa: [Kuinka löytää ja käyttää Play Kauppa -sovellusta]({{site.baseurl}}/fi/loyda-play-kauppa-asentaaksesi-sovelluksia/).
 
 ## Onko kaikissa Android-laitteissa Play Kauppa?
 
@@ -49,7 +49,7 @@ Jos Play Kauppa -sovellus ei toimi kunnolla tai yritys asentaa Google Play Kaupp
 
 Yksi tällainen vaihtoehto on Gspace, joka on suunniteltu erityisesti laitteille ilman GMS:ää. Gspace mahdollistaa sovellusten ja pelien lataamisen ja asentamisen, jotka ovat myös saatavilla Google Play Kaupasta.
 
-Gspacen asentamiseksi voit joko etsiä ja asentaa sovelluksen nykyisestä sovelluskaupastasi tai vierailla [Gspacen verkkosivustolla](https://gspaceteam.com/) ja ladata sovelluksen.
+Gspacen asentamiseksi voit joko etsiä ja asentaa sovelluksen nykyisestä sovelluskaupastasi tai vierailla [Gspace](https://gspaceteam.com/) verkkosivustolla ja ladata sovelluksen.
 
 ## Mikä ovat GMS:ää vailla olevan laitteen haitat?
 GMS:ää vailla olevan laitteen haitat ovat:
@@ -66,7 +66,7 @@ Vaikka laitteiden kustannussäästöistä ja laitteiston eduista voi olla hyöty
 
 Play Kauppa on yksinoikeus Android-käyttöjärjestelmälle ja sitä voidaan löytää laitteista, joissa on, tai ole GMS-lisenssiä.
 
-Laitekäyttöjärjestelmäsi ja sen versio on mahdollista tarkistaa siirtymällä ***Asetukset → Tietoa puhelimesta → Ohjelmisto tiedot***.
+Laitekäyttöjärjestelmäsi ja sen versio on mahdollista tarkistaa siirtymällä ***Asetukset → Tietoa puhelimesta → Ohjelmiston tiedot***.
 
 <img alt="Vahvista Android-version ja aloita päivitys" title="Vahvista Android-version ja aloita päivitys" loading="lazy" class="article-image" src="{{site.baseurl}}/assets/images/posts/fi/play-kauppa-ukk/tarkista-android-versio.jpg">
 

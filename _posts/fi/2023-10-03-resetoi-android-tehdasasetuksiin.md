@@ -124,20 +124,24 @@ Laitteen käynnistäminen palautustilaan onnistuu yhdellä seuraavista näppäin
 Palautustila-valikossa tehdasasetusten palauttamisen polku voi vaihdella hieman laitevalmistajan ja Android-version mukaan. Yleinen tapa suorittaa palautus on seuraava:
 
 ***Tyhjennä tiedot / Tehdasasetusten palautus***:
-Palautustila-valikossa etsi vaihtoehtoa, joka on nimeltään "Tyhjennä tiedot", "Tehdasasetusten palautus" tai "Nollaa".
-Käytä äänenvoimakkuuspainikkeita valikon selailuun ja virtapainiketta (tai muuta määritettyä painiketta) valinnan tekemiseen.
+
+- Palautustila-valikossa etsi vaihtoehtoa, joka on nimeltään "Tyhjennä tiedot", "Tehdasasetusten palautus" tai "Nollaa".
+- Käytä äänenvoimakkuuspainikkeita valikon selailuun ja virtapainiketta (tai muuta määritettyä painiketta) valinnan tekemiseen.
 
 ***Vahvista nollaus***:
-Kun olet valinnut "Tyhjennä tiedot" tai "Tehdasasetusten palautus" -vaihtoehdon, sinua todennäköisesti pyydetään vahvistamaan päätöksesi.
-Vahvista, että haluat jatkaa tehdasasetusten palauttamista. Tämä toimenpide poistaa kaikki laitteesi tiedot.
+
+- Kun olet valinnut "Tyhjennä tiedot" tai "Tehdasasetusten palautus" -vaihtoehdon, sinua todennäköisesti pyydetään vahvistamaan päätöksesi.
+- Vahvista, että haluat jatkaa tehdasasetusten palauttamista. Tämä toimenpide poistaa kaikki laitteesi tiedot.
 
 ***Tyhjennä välimuisti (valinnainen)***:
-Jos näet erillisen vaihtoehdon "Tyhjennä välimuisti" ja haluat tyhjentää välimuistin, voit valita sen.
-Välimuistin tyhjentäminen voi joskus ratkaista tiettyjä suoritusongelmia, mutta se on valinnainen eikä välttämätön tehdasasetusten palauttamiseen.
+
+- Jos näet erillisen vaihtoehdon "Tyhjennä välimuisti" ja haluat tyhjentää välimuistin, voit valita sen.
+- Välimuistin tyhjentäminen voi joskus ratkaista tiettyjä suoritusongelmia, mutta se on valinnainen eikä välttämätön tehdasasetusten palauttamiseen.
 
 ***Käynnistä laite uudelleen***:
-Kun tehdasasetusten palautus on valmis, näet yleensä vaihtoehdon laitteesi uudelleenkäynnistämiseen.
-Valitse tämä vaihtoehto, ja laitteesi käynnistyy uudelleen, nyt tehdasasetukset palautettuna.
+
+- Kun tehdasasetusten palautus on valmis, näet yleensä vaihtoehdon laitteesi uudelleenkäynnistämiseen.
+- Valitse tämä vaihtoehto, ja laitteesi käynnistyy uudelleen, nyt tehdasasetukset palautettuna.
 
 ## Mitä tehdä nollauksen jälkeen
 

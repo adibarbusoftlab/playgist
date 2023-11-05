@@ -52,7 +52,7 @@ Jos sinulla on vaikeuksia päästä Play Kauppaan tai päivitysprosessi, noudatt
 
 Tämä menetelmä päivittää sinut paitsi uusimpaan versioon, mutta mahdollistaa myös tiettyjen Google Play Kaupan versioiden asentamisen tarpeen mukaan.
 
-Koko opas ohjeineen ja kuvituksineen löytyy täältä: [Kuinka asentaa Play Kauppa manuaalisesti puhelimeesi]({{site.baseurl}}/fi/lataa-ja-asenna-play-kauppa/)
+Koko opas ohjeineen ja kuvituksineen löytyy täältä: [Kuinka asentaa Play Kauppa manuaalisesti puhelimeesi]({{site.baseurl}}/fi/lataa-ja-asenna-play-kauppa/).
 
 ## Lopuksi
 

@@ -67,7 +67,7 @@ Laitehallintasovellus on valmistajan tarjoama erikoisohjelma, joka mahdollistaa 
 
 Päivittääksesi Androidin laitehallintasovellusta käyttämällä noudata alla olevia ohjeita.
 
-***1) Lataa ohjelma ja asenna se tietokoneellesi***:
+***1) Lataa ohjelma ja asenna se tietokoneellesi***
 
 Siirry laitteen valmistajan viralliselle verkkosivustolle (kuten Samsung, LG, Motorola jne.) ja siirry latausosioon.
 

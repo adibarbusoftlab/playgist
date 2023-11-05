@@ -24,7 +24,7 @@ W przypadku, gdy aplikacja Sklepu Play nie pojawia się na głównym ekranie, u�
 <img alt="Wyszukaj Sklep Play na ekranie głównym w systemie Android" title="Wyszukaj Sklep Play na ekranie głównym w systemie Android" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/pl/aplikacja-sklepu-play/wyszukaj-sklep-play.jpg">
 
 ***Informacje na temat Sklepu Play:***:
-- Aplikacja ma kilka nazw, w zależności od producenta urządzenia, języka systemowego i wersji Androida. Jeśli językiem systemowym jest angielski, zwykłe nazwy to "Google Play", "Sklep Play" i "Sklep Google Play", ale nazwa może się różnić w zależności od języka, w którym ustawione jest urządzenie.
+- Aplikacja ma kilka nazw, w zależności od producenta urządzenia, języka systemowego i wersji Androida. Jeśli językiem systemowym jest polski, zwykłe nazwy to "Google Play", "Sklep Play" i "Sklep Google Play", ale nazwa może się różnić w zależności od języka, w którym ustawione jest urządzenie.
 - Zazwyczaj jest zainstalowana domyślnie na większości urządzeń z systemem Android, ale zdarzają się przypadki i regiony, w których używane są inne sklepy z aplikacjami. W takim przypadku nie znajdziesz zainstalowanego Sklepu Play, ale będziesz musiał pobrać i zainstalować go ręcznie lub skorzystać ze sklepu aplikacji dostarczonego przez producenta.
 
 Nie znalazłeś Sklepu Google Play? Oto co możesz zrobić:

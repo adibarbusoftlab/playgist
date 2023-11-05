@@ -64,7 +64,7 @@ Kaksivaiheisen tunnistautumisen käyttöönotto kaikissa tileissäsi on yksinker
 
 Google Safe Browsing suojaa laitettasi haitalliselta sisällöltä ja auttaa sinua selaamaan verkkoa turvallisesti tarjoamalla reaaliaikaista suojaa tietojenkalastelu hyökkäyksiltä, haittaohjelmia sisältäviltä verkkosivuilta ja petolliselta sisällöltä.
 
-Siirry [Google-tilisi](https://myaccount.google.com/security) kautta kohtaan Turvallisuus → Tehosta selailuturvallisuutta tilillesi → Hallitse parannettua selailuturvallisuutta ja ota parannettu selailuturvallisuus käyttöön.
+Siirry [Google-tilisi](https://myaccount.google.com/security) kautta kohtaan ***Turvallisuus → Tehosta selailuturvallisuutta tilillesi → Hallitse parannettua selailuturvallisuutta ja ota parannettu selailuturvallisuus käyttöön***.
 
 ## Ota käyttöön automaattiset päivitykset asennetuille sovelluksille
 
