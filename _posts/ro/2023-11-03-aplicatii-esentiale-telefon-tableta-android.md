@@ -4,10 +4,10 @@ title: "Aplicații Android esențiale pentru telefon și tableta"
 description: "Pe lângă aplicațiile preinstalate pe dispozitivul Android, va trebui să instalezi și o serie de alte aplicații, esențiale pentru telefonul sau tableta ta."
 author: adrian
 categories: [Aplicații, Telefon, Tabletă, Android]
-image: assets/images/posts/en/essential-android-apps/essential-apps-phone-tablet_featured.jpg
+image: assets/images/posts/en/essential-android-apps/phone-tablet-essential-apps_featured.jpg
 permalink: /ro/aplicatii-esentiale-telefon-tableta-android/
 lang: ro
-lang-ref: esential-android-apps
+lang-ref: essential-android-apps
 ---
 
 Cu [Magazin Google Play]({{site.baseurl}}/ro/descarcare-si-instalare-magazin-play) ca sursă principală de descărcat aplicații Android, poți găsi și instala aplicațiile potrivite pentru telefonul sau tableta ta într-un mod facil, conform preferințelor și nevoilor tale.
@@ -22,7 +22,7 @@ Pe lângă acestea, există firește și alte aplicații utile, cum ar fi cele p
 - [Firefox](https://play.google.com/store/apps/details?id=org.mozilla.firefox) - O alternativă populară la Chrome, cu un accent deosebit pe confidențialitate și personalizare.
 - [Opera](https://play.google.com/store/apps/details?id=com.opera.browser) - Un browser ce permite optimizarea vitezei de navigare și reducerea consumului de date.
 - [Brave Browser](https://play.google.com/store/apps/details?id=com.brave.browser) - Un browser axat pe confidențialitate și securitate, oferind utilizatorilor controlul complet al datelor personale.
-- [DuckDuckGo](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android) - un browser și totodată un motor de căutare ce se concentrează pe confidențialitate și anonimat, oferind utilizatorilor o experiență de navigare sigură.
+- [DuckDuckGo](https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android) - Un browser și totodată un motor de căutare ce se concentrează pe confidențialitate și anonimat, oferind utilizatorilor o experiență de navigare sigură.
 
 Aplicații instalate de producători:
 - **Samsung Internet Browser**
