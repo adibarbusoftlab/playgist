@@ -7,7 +7,7 @@ lang: pl
 lang-ref: about
 ---
 
-Ta witryna jest poświęcona eksplorowaniu i udostępnianiu informacji na temat trzech głównych tematów, które nas pasjonują.
+Ta witryna jest poświęcona eksplorowaniu i udostępnianiu informacji na temat trzech głównych tematów, które nas pasjonują:
 
 ## 1. Poradniki i przydatne informacje na temat Androida
 
@@ -28,6 +28,15 @@ Ta witryna jest poświęcona eksplorowaniu i udostępnianiu informacji na temat 
 - Najważniejsze aplikacje dla Twojego urządzenia
 - Najpopularniejsze i trendy aplikacje i gry
 - Recenzje aplikacji i gier na Androida
+
+## Polityki i Prawa Autorskie
+
+Użytkownicy witryny ponoszą pełną odpowiedzialność za korzystanie z informacji dostępnych na stronie, co oznacza używanie ich na własne ryzyko.
+
+Na tej stronie używane są różne zasoby, w tym obrazy i filmy, aby wzbogacić treść i zapewnić przyjemne wrażenia wizualne naszym użytkownikom. Ważne jest, aby wspomnieć o następujących kwestiach:
+
+- Niektóre z używanych obrazów pochodzą z platformy [www.pixabay.com](https://pixabay.com/). Pixabay oferuje kolekcję wysokiej jakości obrazów dostępnych do swobodnego użytku, w tym do celów komercyjnych. Te obrazy są używane zgodnie z warunkami określonymi przez Pixabay.
+- Pewne obrazy mogą zawierać grafikę związane z produktami lub usługami. Wszystkie znaki towarowe należą do ich właścicieli, a nie ma żadnego domyślnego powiązania ani partnerstwa z dostawcami tych produktów lub usług, chyba że jest to wyraźnie określone.
 
 Ta witryna wykorzystuje pliki cookie. Możesz przeczytać Politykę dotyczącą plików cookie [tutaj]({{site.baseurl}}{{site.t.en..cookiePolicyPage.url}}).
 

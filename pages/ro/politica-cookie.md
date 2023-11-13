@@ -7,48 +7,80 @@ lang: ro
 lang-ref: cookie-policy
 ---
 
-_**Ultima actualizare: 25 septembrie 2023**_
+_**Ultima actualizare: 13 noiembrie 2023**_
 
 ## Ce sunt cookie-urile?
 
-Un cookie este un mic fragment de text care se descarcă în browserul tău atunci când vizitezi un site web. Acesta ajută site-ul să-și amintească informații despre vizita ta, cum ar fi limba preferată, paginile accesate, durata totală a vizitei tale, locația și alte setări. Acest lucru face ca următoarea ta vizită să fie mai ușoară și site-ul să fie mai util pentru tine. Modulele cookie joacă un rol crucial, îmbunătățind experiența de navigare pe web.
+**Definiție:**
 
-Dacă nu ești familiar cu modulele cookie sau vrei să știi mai multe despre cum să le controlezi sau să le ștergi, îți recomandăm să accesezi [http://www.aboutcookies.org](http://www.aboutcookies.org) pentru informații detaliate.
+Cookie-urile reprezintă mici fragmente de text care sunt descărcate în browserul tău atunci când vizitezi un site web. Acestea au rolul de a stoca informații referitoare la interacțiunile tale cu site-ul, contribuind astfel la îmbunătățirea experienței de navigare.
 
-## Legislatia privind modulele cookie
+**Rolul cookie-urilor:**
 
-O lege a Uniunii Europene (UE) referitoare la modulele cookie solicită ca utilizatorii de site-uri web să aibă oportunitatea de a înțelege cum sunt utilizate cookie-urile pe site-uri și de a consimți la stocarea acestora pe dispozitivele lor (laptopuri/telefoane mobile/tablete).
+Atunci când navighezi pe un site web, cookie-urile permit acestuia să-și amintească anumite detalii legate de vizita ta. Printre aceste informații se numără preferințele legate de limbă, paginile accesate în cadrul site-ului, durata totală a vizitei tale, locația aproximativă și alte setări personalizate. Pe baza acestora, următoarea ta vizită devine mai ușoară, iar site-ul poate să-ți ofere conținut mai relevant și adaptat preferințelor tale.
+
+**Importanța cookie-urilor:**
+
+Modulele cookie joacă un rol crucial în îmbunătățirea experienței tale de navigare pe web. Ele facilitează personalizarea conținutului în funcție de preferințele tale, contribuind la adaptarea site-ului pentru a satisface mai bine nevoile și preferințele utilizatorilor.
+
+**Cum să controlezi sau ștergi cookie-urile:**
+
+Dacă nu ești familiar cu modul în care funcționează cookie-urile sau dorești să afli mai multe despre cum să le controlezi sau să le ștergi, te îndemnăm să accesezi [http://www.aboutcookies.org](http://www.aboutcookies.org). Acest site oferă informații detaliate despre modul de gestionare a cookie-urilor, inclusiv instrucțiuni pentru diferite browsere și dispozitive.
+
+Este important să ții cont că, prin controlul cookie-urilor, poți ajusta setările browserului pentru a decide ce informații să fie stocate sau să fie șterse după vizitarea unui site web. Această abordare îți oferă controlul asupra datelor tale personale și asigură o navigare online conformă cu preferințele tale.
+
+## Legislatia privind folosirea modulelor cookie in Uniunea Europeană
+
+**Context Legal în Uniunea Europeană (UE):**
+
+În cadrul Uniunii Europene, există o legislație specifică referitoare la modulele cookie, care a fost adoptată pentru a proteja confidențialitatea și drepturile utilizatorilor online. Aceasta solicită o transparență crescută în ceea ce privește utilizarea și stocarea cookie-urilor pe dispozitivele utilizatorilor, inclusiv laptopuri, telefoane mobile și tablete.
+
+Document de referință: Regulamentul (UE) nr. 679 din 27 aprilie 2016 privind protecția persoanelor fizice în ceea ce privește prelucrarea datelor cu caracter personal și privind libera circulație a acestor date și de abrogare a Directivei 95/46/CE (Regulamentul general privind protecția datelor).
+
+**Dreptul la Informare și Consimțământ:**
+
+Conform acestei legislații, utilizatorii de site-uri web trebuie să aibă oportunitatea de a înțelege modul în care cookie-urile sunt utilizate pe site-uri și de a da consimțământul explicit pentru stocarea acestora pe dispozitivele lor. Aceasta înseamnă că site-urile web trebuie să ofere informații clare și accesibile cu privire la tipurile de cookie-uri utilizate, scopurile pentru care sunt folosite și opțiunile disponibile pentru gestionarea acestora.
+
+**Transparență și Acces la Informații:**
+
+Site-urile web sunt obligate să furnizeze informații clare și accesibile privind politica lor de cookie-uri. Acest lucru include, dar nu se limitează la, informații despre durata de viață a cookie-urilor, dacă acestea sunt cookie-uri proprii sau de la terțe părți, precum și scopurile exacte ale utilizării lor.
+
+**Consimțământ Explicit:**
+
+Utilizatorii trebuie să aibă posibilitatea de a-și exprima consimțământul explicit cu privire la stocarea cookie-urilor pe dispozitivele lor. Acest consimțământ ar trebui să fie liber acordat, informat și specific pentru fiecare categorie de cookie-uri, oferind astfel control utilizatorilor asupra datelor lor personale.
+
+**Implementarea Politicii Cookie:**
+
+Este responsabilitatea site-urilor web să implementeze în mod eficient această legislație și să asigure conformitatea cu cerințele GDPR (Regulamentul General privind Protecția Datelor) pentru prelucrarea datelor personale.
+
+**Importanța Conformității:**
+
+Respectarea acestei legislații nu numai că asigură respectarea drepturilor utilizatorilor, dar poate contribui și la construirea încrederii în rândul utilizatorilor și la evitarea sancțiunilor în caz de nerespectare a reglementărilor privind protecția datelor. Este recomandat să fie efectuate verificări periodice ale politicii de cookie-uri pentru a asigura actualizarea și respectarea normelor legislative în vigoare.
 
 ## Utilizarea cookie-urilor pe acest site
 
-Acest site web, la fel ca multe altele, utilizează module cookie pentru a îmbunătăți experiența de navigare a utilizatorilor. Prin personalizarea conținutului în funcție de preferințele tale pe parcursul vizitelor, ne propunem să îmbunătățim și să extindem conținutul site-ului pentru a se potrivi mai bine nevoilor și preferințelor utilizatorilor. Lista de mai jos descrie modulele cookie pe care le utilizăm pe acest site web și scopurile lor.
+Acest site utilizează module cookie pentru a îmbunătăți experiența de navigare a utilizatorilor. Prin personalizarea conținutului în funcție de preferințele tale pe parcursul vizitelor, ne propunem să îmbunătățim și să extindem conținutul site-ului pentru a se potrivi mai bine nevoilor și preferințelor utilizatorilor.
 
-În general, acest site utilizează cookie-uri de la terțe părți (module cookie setate pe dispozitivul tău de servicii externe) în loc de cookie-uri setate direct de către acest site web.
+Site-ul nostru utilizează module cookie de la terțe părți pentru a furniza funcționalități și servicii adiționale. Acestea sunt setate de servicii externe pentru a colecta informații despre modul în care utilizatorii interacționează cu site-ul și pentru a oferi servicii de publicitate relevantă. Mai jos sunt descrise două categorii principale de cookie-uri de la terțe părți utilizate:
 
-Module cookie de la terțe părți (third-party) folosite pe site:
+#### Cookie-uri pentru analitice de la Google Analytics
 
-- Cookie-uri pentru analitice și publicitate online de la Google
+**Scopul utilizării**: Aceste cookie-uri sunt folosite pentru a colecta informații despre modul în care utilizatorii interacționează cu site-ul nostru. Ele ne oferă statistici anonime privind utilizarea site-ului, inclusiv paginile vizitate, durata sesiunilor și modul în care utilizatorii navighează pe site.
 
-Google Analytics este instrumentul de analiză al Google care ajută proprietarii de site-uri web și aplicații să înțeleagă modul în care interacționează vizitatorii cu proprietățile lor. Cookie-urile sunt folosite pentru a colecta și raporta statistici privind utilizarea site-ului web fără a identifica personal vizitatorii individuali.
+**Informații stocate**: Adresele IP ale utilizatorilor și informații despre activitatea lor pe site.
 
-Informațiile generate de modulul cookie cu privire la utilizarea ta a site-ului web (inclusiv adresa ta IP) vor fi transmise și stocate pe serverele Google, care vor utiliza aceste informații pentru a evalua utilizarea site-ului web, a compila rapoarte despre activitatea site-ului web pentru operatorii de site-uri și a furniza alte servicii legate de activitatea site-ului web și utilizare a internetului. Google poate, de asemenea, să transmită aceste informații terților în cazul în care este obligat de lege sau în cazul în care acești terți procesează informațiile în numele Google.
+#### Cookie-uri pentru publicitate online de la Google Adsense
 
-În plus față de raportarea statisticilor de utilizare a site-ului web, Google Analytics poate contribui și la afișarea de anunțuri mai relevante pe web.
+**Scopul utilizării**: Aceste cookie-uri sunt utilizate pentru a oferi anunțuri publicitare personalizate pe site-ul nostru. Ele ajută la afișarea de conținut publicitar relevant pentru utilizatori pe baza istoricului lor de navigare.
+
+**Informații stocate**: Informații despre vizitele utilizatorilor pe site-uri care utilizează serviciul Google Adsense.
 
 Citește mai mult: [Politica de confidențialitate Google](https://www.google.com/intl/ro/policies/privacy/)
 
-## Administrarea modulelor cookie
-
-În prezent, acest site implementează o politică de „consimțământ implicit”, presupunând că ești de acord cu utilizarea cookie-urilor. Dacă nu ești, poți alege să nu folosești acest site web sau să ștergi modulele cookie după vizită. În mod alternativ, poți naviga pe site utilizând setările de utilizare anonimă ale browserului tău (de exemplu, „Incognito” în Chrome, „Navigare privată” în Firefox și Safari) sau să-ți modifici setările modulelor cookie.
-
-Citește mai mult: [Cum să dezactivezi modulele cookie](https://www.aboutcookies.org/how-to-manage-and-delete-cookies).
-
-Ai opțiunea de a refuza modulele cookie prin ajustarea setărilor browserului tău. Cu toate acestea, te rugăm să ai în vedere că acest lucru poate afecta funcționalitatea completă a acestui site web.
-
 ## Modificări ale Politici privind modulele cookie
 
-Este posibil să apară modificări în ceea ce privește abordarea și plasarea modulelor cookie pe acest site. Prin urmare, recomandăm să verifici periodic site-ul pentru actualizări ale acestor politici și practici.
+Este posibil să apară modificări în ceea ce privește plasarea modulelor cookie pe acest site. Prin urmare, recomandăm să verifici periodic site-ul pentru actualizări ale acestor politici și practici.
 
 ## Contact
 
-Dacă ai vreo intrebare sau nelămurire referitoare la această Politică, te rugăm să le adresezi folosind formularul de Contact.
+Pentru orice întrebări sau solicitări privind modulele cookie, te rugăm să utilizezi formularul de Contact.

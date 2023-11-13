@@ -7,7 +7,7 @@ lang: en
 lang-ref: about
 ---
 
-This website is dedicated to exploring and sharing information about three main topics that we are passionate about.
+This website is dedicated to exploring and sharing information about three main topics that we are passionate about:
 
 ## 1. Tutorials and useful information about Android
 
@@ -28,6 +28,15 @@ This website is dedicated to exploring and sharing information about three main 
 - Essential apps for your device
 - Most popular and trending apps and games
 - Reviews of Android apps and games
+
+## Policies and Copyright
+
+Users of the website are entirely responsible for the use of the information available on the site, and this implies using it at their own risk.
+
+Various resources, including images and videos, are used on this site to enrich the content and provide a pleasant visual experience for our users. It is important to mention the following:
+
+- Some of the images used on this site are sourced from the platform [www.pixabay.com](https://pixabay.com/). Pixabay offers a collection of high-quality images available for free use, including for commercial purposes. These images are used in accordance with the terms and conditions specified by Pixabay.
+- Certain images may include graphics associated with products or services. All trademarks belong to their respective owners, and there is no implicit association or partnership with the providers of these products or services, unless expressly stated.
 
 This site uses cookies. You can read the Cookie Policy [here]({{site.baseurl}}{{site.t[page.lang].cookiePolicyPage.url}}).
 

@@ -7,7 +7,7 @@ lang: hu
 lang-ref: about
 ---
 
-Ez a weboldal három olyan fő témakört mutat be és ismertet, amelyek a szenvedélyünk.
+Ez a weboldal három olyan fő témakört mutat be és ismertet, amelyek a szenvedélyünk:
 
 ## 1. Útmutatók és hasznos információk az Androidról
 
@@ -28,6 +28,15 @@ Ez a weboldal három olyan fő témakört mutat be és ismertet, amelyek a szenv
 - Alapvető alkalmazások az eszközéhez
 - Legnépszerűbb és felkapottabb applikációk és játékok
 - Android alkalmazások és játékok értékelései
+
+## Irányelvek és Szerzői Jog
+
+A weboldal felhasználói teljes mértékben felelősek a weboldalon elérhető információk használatáért, és ez a saját kockázatukon történő felhasználást jelenti.
+
+Ezen az oldalon különböző forrásokat használunk, beleértve a képeket és videókat, hogy gazdagítsuk a tartalmat és kellemes vizuális élményt nyújtsunk felhasználóinknak. Fontos megemlíteni a következőket:
+
+- Az oldalon használt képek egy része a [www.pixabay.com](https://pixabay.com/) platformról származik. A Pixabay egy olyan képek gyűjteményét kínálja, amelyek magas minőségűek és szabadon felhasználhatók, beleértve a kereskedelmi célokat is. Ezeket a képeket a Pixabay által meghatározott felhasználási feltételeknek megfelelően használjuk.
+- Bizonyos képek tartalmazhatnak olyan grafikát, amely egyes termékekhez vagy szolgáltatásokhoz kapcsolódik. Az összes védjegy a jogosultjai tulajdonában van, és nincs implicit kapcsolat vagy partnerség a termékeket vagy szolgáltatásokat nyújtó szolgáltatókkal, kivéve, ha kifejezetten másként van megjelölve.
 
 Ez a weboldal sütiket használ. A süti irányelveket [itt]({{site.baseurl}}{{site.t.en.cookiePolicyPage.url}}) olvashatja el.
 

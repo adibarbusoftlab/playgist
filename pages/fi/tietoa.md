@@ -7,7 +7,7 @@ lang: fi
 lang-ref: about
 ---
 
-Tämä verkkosivusto on omistettu kolmen pääaiheen tutkimiseen ja tiedon jakamiseen, joihin olemme intohimoisesti omistautuneita.
+Tämä verkkosivusto on omistettu kolmen pääaiheen tutkimiseen ja tiedon jakamiseen, joihin olemme intohimoisesti omistautuneita:
 
 ## 1. Opastusta ja hyödyllistä tietoa Androidista
 
@@ -28,6 +28,14 @@ Tämä verkkosivusto on omistettu kolmen pääaiheen tutkimiseen ja tiedon jakam
 - Välttämättömiä sovelluksia laitteellesi
 - Suosituimmat ja trendikkäimmät sovellukset ja pelit
 - Arvosteluja Android-sovelluksista ja peleistä
+
+## Käytännöt ja tekijänoikeus
+
+Sivuston käyttäjät ovat täysin vastuussa sivustolla olevien tietojen käytöstä, ja tämä tarkoittaa niiden käyttämistä omalla vastuullaan.
+
+Tällä sivustolla käytetään erilaisia resursseja, mukaan lukien kuvia ja videoita, sisällön rikastamiseksi ja tarjotaksemme miellyttävän visuaalisen kokemuksen käyttäjillemme. On tärkeää mainita seuraavat seikat:
+- Osa tämän sivuston käyttämistä kuvista on peräisin [www.pixabay.com](https://pixabay.com/) -alustalta. Pixabay tarjoaa korkealaatuisen kuvakokoelman, joka on vapaasti käytettävissä, mukaan lukien kaupallisiin tarkoituksiin. Näitä kuvia käytetään Pixabayn määrittelemien käyttöehtojen mukaisesti.
+- Tietyt kuvat voivat sisältää grafiikkaa, joka liittyy joihinkin tuotteisiin tai palveluihin. Kaikki tavaramerkit kuuluvat niiden omistajille, eikä ole mitään implisiittistä yhteyttä tai kumppanuutta näiden tuotteiden tai palveluiden tarjoajien kanssa, ellei sitä ole nimenomaisesti mainittu.
 
 Tämä sivusto käyttää evästeitä. Voit lukea evästekäytäntömme [täältä]({{site.baseurl}}{{site.t.en.cookiePolicyPage.url}}).
 
