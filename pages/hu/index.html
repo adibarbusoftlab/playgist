@@ -1,0 +1,31 @@
+---
+title: Főoldal
+layout: default
+description: "Útmutatók és cikkek az Androidról, az alkalmazásokról és a Play Áruházról."
+permalink: "/hu/index.html"
+lang: hu
+lang-ref: home-en
+---
+
+<!-- Posts List with Sidebar (except featured)
+  ================================================== -->
+<div class="row">
+  <div class="col-md-12">
+    <div class="row">
+      {% assign posts = site.posts | where:"lang", page.lang %}
+      {% for post in posts %}
+      {% unless post.featured == true %}
+      <section class="col-md-12 mb-2">
+        {% include postbox.html %}
+      </section>
+      {% endunless %}
+      {% endfor %}
+    </div>
+    <!-- Pagination -->
+    <div class="bottompagination">
+      <div class="navigation" role="navigation">
+        {% include pagination.html %}
+      </div>
+    </div>
+  </div>
+</div>
