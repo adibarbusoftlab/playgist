@@ -2,8 +2,8 @@
 layout: page
 title: Privatlivspolitik
 description: "Information on the privacy policy of the personal data collected."
-permalink: /dk/privatlivs-politik/
-lang: dk
+permalink: /da/privatlivs-politik/
+lang: da
 lang-ref: privacy-policy
 ---
 
@@ -33,7 +33,7 @@ Det er vigtigt at bemærke, at Kontaktformularen er baseret på en tredjeparts t
 
 Vi registrerer anonyme data på dette websted, såsom de sider, du besøger, tiden brugt på specifikke sider, placering, navnet på internetudbyderen (ISP) og IP-adressen. Disse oplysninger bruges udelukkende til statistiske formål, hvor individuelle brugere forbliver anonyme.
 
-Læs mere: [Cookiepolitik]({{site.baseurl}}/dk/cookie-politik/).
+Læs mere: [Cookiepolitik]({{site.baseurl}}/da/cookie-politik/).
 
 ## Brug af personlige oplysninger
 

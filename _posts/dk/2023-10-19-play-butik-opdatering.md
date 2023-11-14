@@ -5,8 +5,8 @@ description: "Brug den nyeste version af Play Butikken for at have fuld adgang t
 author: adrian
 categories: [Play Butik]
 image: assets/images/posts/dk/opdater-play-butik/opdater-play-butik.png
-permalink: /dk/play-butik-opdatering/
-lang: dk
+permalink: /da/play-butik-opdatering/
+lang: da
 lang-ref: update-play-store
 ---
 
@@ -55,7 +55,7 @@ Hvis du har problemer med at få adgang til Play Butikken, eller hvis opdatering
 
 Denne metode opdaterer ikke kun til den nyeste version, men giver dig også mulighed for at installere specifikke versioner af Google Play Butikken, hvis det er nødvendigt.
 
-Den fulde vejledning med instruktioner og illustrationer kan findes her: [Sådan installerer du manuelt Play Butikken på din telefon]({{site.baseurl}}/dk/download-og-installation-play-butik/).
+Den fulde vejledning med instruktioner og illustrationer kan findes her: [Sådan installerer du manuelt Play Butikken på din telefon]({{site.baseurl}}/da/download-og-installation-play-butik/).
 
 ## Afsluttende bemærkninger
 

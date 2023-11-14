@@ -2,8 +2,8 @@
 layout: page
 title: Politikken om cookies
 description: "Information om politikken for brug af cookies på dette websted."
-permalink: /dk/cookie-politik/
-lang: dk
+permalink: /da/cookie-politik/
+lang: da
 lang-ref: cookie-policy
 ---
 

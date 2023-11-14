@@ -5,8 +5,8 @@ description: "Nulstilling til fabriksindstillinger udføres, når Android funger
 author: adrian
 categories: [Android]
 image: assets/images/posts/dk/nulstil-android/nulstil-android-til-fabriksindstillinger.png
-permalink: /dk/nulstil-android-til-fabriksindstillinger/
-lang: dk
+permalink: /da/nulstil-android-til-fabriksindstillinger/
+lang: da
 lang-ref: reset-android-to-factory-settings
 ---
 

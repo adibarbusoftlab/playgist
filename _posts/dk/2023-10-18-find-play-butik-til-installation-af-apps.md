@@ -5,8 +5,8 @@ description: "Play Butik vises normalt på hovedskærmen i Android. Lær, hvorda
 author: adrian
 categories: [Play Butik, Android]
 image: assets/images/posts/dk/play-butik-app/play-butik-app.png
-permalink: /dk/find-play-butik-til-installation-af-apps/
-lang: dk
+permalink: /da/find-play-butik-til-installation-af-apps/
+lang: da
 lang-ref: google-play-store
 ---
 
@@ -49,7 +49,7 @@ Genstart enheden og se, om applikationen vises i menuen med Android-apps.
 
 Der er sjældne tilfælde, hvor Play Butik-appen ikke er installeret som standard på din telefon / tablet, men heldigvis er der mulighed for at installere appen manuelt. Processen består i at indstille enheden til at understøtte installation af apps fra eksterne kilder, få Play Butik-appen i et installationsformat (APK) og start indstillingen af appen på enheden.
 
-Alle disse trin præsenteres i denne artikel: [Sådan downloader og installerer du Play Butik]({{site.baseurl}}/dk/download-og-installation-play-butik/).
+Alle disse trin præsenteres i denne artikel: [Sådan downloader og installerer du Play Butik]({{site.baseurl}}/da/download-og-installation-play-butik/).
 
 Hvis applikationen ser ud til at være installeret, men du ikke kan finde den nogen steder for at få adgang til den, vil manuel installation af applikationen resultere i opdatering af Play Butik til en nyere version eller en bestemt version, hvilket måske løser problemet.
 
@@ -75,4 +75,4 @@ Desuden tillader appen administration af applikationer, spil og digitalt indhold
 
 Ved at følge de angivne trin og tips vil du finde Play Butik og begynde at få det meste ud af dets indhold, tilpasse din enhed efter dine præferencer for apps, spil og digitalt indhold.
 
-Hvis du har problemer med at finde eller bruge Play Butik eller støder på andre problemer i forbindelse med brugen af Android-systemet, kan du udføre en [fabriksnulstilling]({{site.baseurl}}/dk/nulstil-android-til-fabriksindstillinger/), som vil løse de fleste problemer.
+Hvis du har problemer med at finde eller bruge Play Butik eller støder på andre problemer i forbindelse med brugen af Android-systemet, kan du udføre en [fabriksnulstilling]({{site.baseurl}}/da/nulstil-android-til-fabriksindstillinger/), som vil løse de fleste problemer.

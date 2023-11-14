@@ -5,8 +5,8 @@ description: "Du skal downloade og installere Play Butikken, når appen stopper 
 author: adrian
 categories: [Play Butik]
 image: assets/images/posts/dk/download-og-installer-play-butik/download-og-installation-af-play-butikken.png
-permalink: /dk/download-og-installation-play-butik/
-lang: dk
+permalink: /da/download-og-installation-play-butik/
+lang: da
 lang-ref: download-play-store
 ---
 

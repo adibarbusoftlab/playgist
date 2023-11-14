@@ -5,8 +5,8 @@ description: "Find svar på de mest hyppigt stillede spørgsmål om Play Butik-a
 author: adrian
 categories: [Play Butik]
 image: assets/images/posts/dk/play-butik-oss/play-butik-oss.png
-permalink: /dk/play-butik-mest-stillede-sporgsmal/
-lang: dk
+permalink: /da/play-butik-mest-stillede-sporgsmal/
+lang: da
 lang-ref: play-store-frequent-questions
 ---
 
@@ -30,7 +30,7 @@ Nej, en Google-konto er påkrævet for at få adgang til Google Play Butikken.
 
 Play Butikken (Google Play Butik) giver adgang til et bredt udvalg af apps og digitalt indhold og er en af de mest anvendte applikationer. Den er normalt forudinstalleret og kan findes på din hovedskærm.
 
-Hvis du ikke kan finde den på din enhed, henvises du til oplysningerne i denne artikel: [Sådan finder og bruger du Play Butik-appen]({{site.baseurl}}/dk/find-play-butik-til-installation-af-apps/).
+Hvis du ikke kan finde den på din enhed, henvises du til oplysningerne i denne artikel: [Sådan finder og bruger du Play Butik-appen]({{site.baseurl}}/da/find-play-butik-til-installation-af-apps/).
 
 ## Har alle Android-enheder Play Butikken?
 
@@ -46,7 +46,7 @@ Gå til **_Indstillinger → Apps_**, og kontroller, om Google Play Butikken og 
 
 <img alt="Søg efter Play Butikken i listen med apps" title="Søg efter Play Butikken i listen med apps" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/play-butik-app/play-butik-i-apps-liste.jpg">
 
-Hvis du ikke kan finde dem, har din enhed sandsynligvis ikke GMS, og du skal muligvis bruge en alternativ app-butik. Du kan også prøve at få Play Butik-appen på din telefon ved at følge guiden her: [Download og installer Play Butikken på din telefon]({{site.baseurl}}/dk/download-og-installation-play-butik/).
+Hvis du ikke kan finde dem, har din enhed sandsynligvis ikke GMS, og du skal muligvis bruge en alternativ app-butik. Du kan også prøve at få Play Butik-appen på din telefon ved at følge guiden her: [Download og installer Play Butikken på din telefon]({{site.baseurl}}/da/download-og-installation-play-butik/).
 
 ## Hvad er alternativerne til Play Butikken for enheder uden GMS?
 
@@ -86,13 +86,13 @@ Hvis Play Butikken er installeret på din enhed, men ikke åbner, eller oplever 
 1. Opdater Android OS: gå til ***Indstillinger → Om telefon → Softwareopdatering***, og tryk derefter på ***Download og opdatering***.
 2. Opdater Play Butikken og Google Play-tjenester: gå til ***Indstillinger → Apps***, tryk på Google Play Store og Google Play Services, vælg "Appdetaljer i butikken" og tryk på Opdater-knappen.
 
-Hvis både OS og Play Butik-appene er opdaterede, men problemet fortsætter, bør du også prøve at logge ind på din Google-konto igen fra Play Butikken og genstarte enheden, og hvis problemet fortsætter, kan du også prøve at [nulstille telefonen til fabriksindstillingerne]({{site.baseurl}}/dk/nulstil-android-til-fabriksindstillinger/).
+Hvis både OS og Play Butik-appene er opdaterede, men problemet fortsætter, bør du også prøve at logge ind på din Google-konto igen fra Play Butikken og genstarte enheden, og hvis problemet fortsætter, kan du også prøve at [nulstille telefonen til fabriksindstillingerne]({{site.baseurl}}/da/nulstil-android-til-fabriksindstillinger/).
 
 ## Hvordan downloader og installerer du Play Butikken?
 
 I de fleste tilfælde leveres Play Butikken forudinstalleret, og du kan nemt finde den på din liste over apps.
 
-Der er dog tilfælde, hvor du måske skal [downloade og installere Play Butikken på din enhed]({{site.baseurl}}/dk/download-og-installation-play-butik/). For eksempel når du støder på en fejl som "Google Play Butik er stoppet".
+Der er dog tilfælde, hvor du måske skal [downloade og installere Play Butikken på din enhed]({{site.baseurl}}/da/download-og-installation-play-butik/). For eksempel når du støder på en fejl som "Google Play Butik er stoppet".
 
 ## Hvordan opdaterer du alle installerede apps i Play Butikken?
 
@@ -115,7 +115,7 @@ Play Butik-appen opdateres typisk automatisk, når nyere versioner frigives, og 
 For at manuelt starte Play Butikken opdateringen, gå til **_Indstillinger → Om → Opdater Play Butik_**.
 <img alt="Opdater Play Butikken" title="Opdater Play Butikken" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/dk/opdater-play-butik/opdater-play-butik.jpg">
 
-Hvis du oplever problemer under opdateringsprocessen, henvises du til vores artikel [Sådan opdaterer du Play Butik-appen]({{site.baseurl}}/dk/play-butik-opdatering/) for yderligere vejledning.
+Hvis du oplever problemer under opdateringsprocessen, henvises du til vores artikel [Sådan opdaterer du Play Butik-appen]({{site.baseurl}}/da/play-butik-opdatering/) for yderligere vejledning.
 
 ## Hvilke apps skal du installere på din telefon / tablet?
 

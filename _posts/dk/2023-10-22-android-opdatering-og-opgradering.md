@@ -5,8 +5,8 @@ description: "Hold din enhed opdateret: lær, hvordan du opdaterer Android fra i
 author: adrian
 categories: [Android]
 image: assets/images/posts/dk/opdater-android/opdater-opgrader-android.jpg
-permalink: /dk/android-opdatering-og-opgradering/
-lang: dk
+permalink: /da/android-opdatering-og-opgradering/
+lang: da
 lang-ref: android-update-upgrade
 ---
 
@@ -26,7 +26,7 @@ Der er flere grunde til, at du måske vil opdatere din Android til en nyere vers
 
 Der er dog tilfælde, hvor motivationen for en opdatering stammer fra eksisterende problemer inden for systemet eller kompatibilitetsproblemer forårsaget af installeret software, der ikke længere understøttes af ældre versioner af Android.
 
-Uanset årsagen vil opdateringen reparere Android-systemet og øge enhedens stabilitet og software-sikkerheden samt kompatibiliteten med nye applikationer udgivet i [Google Play Butikken]({{site.baseurl}}/dk/find-play-butik-til-installation-af-apps/).
+Uanset årsagen vil opdateringen reparere Android-systemet og øge enhedens stabilitet og software-sikkerheden samt kompatibiliteten med nye applikationer udgivet i [Google Play Butikken]({{site.baseurl}}/da/find-play-butik-til-installation-af-apps/).
 
 Det anbefales stærkt at holde dit Android-system opdateret ved at installere kompatible versioner, når de bliver tilgængelige.
 

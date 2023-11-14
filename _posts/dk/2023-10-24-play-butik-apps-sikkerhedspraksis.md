@@ -5,8 +5,8 @@ description: "Play Butikken er sikker for at downloade apps, men det er også vi
 author: adrian
 categories: [Play Butik, Android]
 image: assets/images/posts/dk/sikre-apps-og-play-butik/sikre-apps-og-play-butik.png
-permalink: /dk/play-butik-apps-sikkerhedspraksis/
-lang: dk
+permalink: /da/play-butik-apps-sikkerhedspraksis/
+lang: da
 lang-ref: secure-apps-and-play-store
 ---
 
@@ -92,4 +92,4 @@ For det andet kan opdateringer medføre ydeevne forbedringer og fejlrettelser, d
 
 Generelt set med regelmæssig opdatering af din Android-enhed forbedrer du ikke kun sikkerheden, men også ydeevnen og funktionaliteten, hvilket gør det til en klog og essentiel praksis for alle brugere.
 
-Se, [Hvordan du opdaterer Android fra enhedens indstillinger]({{site.baseurl}}/dk/android-opdatering-og-opgradering//#metode-1-sådan-opdateres-android-fra-enhedsindstillingerne).
+Se, [Hvordan du opdaterer Android fra enhedens indstillinger]({{site.baseurl}}/da/android-opdatering-og-opgradering//#metode-1-sådan-opdateres-android-fra-enhedsindstillingerne).
