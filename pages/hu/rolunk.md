@@ -38,6 +38,6 @@ Ezen az oldalon különböző forrásokat használunk, beleértve a képeket és
 - Az oldalon használt képek egy része a [www.pixabay.com](https://pixabay.com/) platformról származik. A Pixabay egy olyan képek gyűjteményét kínálja, amelyek magas minőségűek és szabadon felhasználhatók, beleértve a kereskedelmi célokat is. Ezeket a képeket a Pixabay által meghatározott felhasználási feltételeknek megfelelően használjuk.
 - Bizonyos képek tartalmazhatnak olyan grafikát, amely egyes termékekhez vagy szolgáltatásokhoz kapcsolódik. Az összes védjegy a jogosultjai tulajdonában van, és nincs implicit kapcsolat vagy partnerség a termékeket vagy szolgáltatásokat nyújtó szolgáltatókkal, kivéve, ha kifejezetten másként van megjelölve.
 
-Ez a weboldal sütiket használ. A süti irányelveket [itt]({{site.baseurl}}{{site.t.en.cookiePolicyPage.url}}) olvashatja el.
+Ez a weboldal sütiket használ. A süti irányelveket [itt]({{site.baseurl}}{{site.t[page.lang].cookiePolicyPage.url}}) olvashatja el.
 
-Az összes itt gyűjtött személyes adatot az [itt]({{site.baseurl}}{{site.t.en.privacyPolicyPage.url}}) ismertetett adatvédelmi irányelvek mentén kezeljük.
+Az összes itt gyűjtött személyes adatot az [itt]({{site.baseurl}}{{site.t[page.lang].privacyPolicyPage.url}}) ismertetett adatvédelmi irányelvek mentén kezeljük.

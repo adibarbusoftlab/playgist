@@ -248,10 +248,10 @@ t:
       url: "/hu/kapcsolat/"
     privacyPolicyPage:
       name: "Adatvédelmi irányelvek"
-      url: "/hu/privacy-policy/"
+      url: "/hu/adatvedelmi-iranyelvek/"
     cookiePolicyPage:
       name: "Sütikre vonatkozó irányelvek"
-      url: "/hu/cookie-policy/"
+      url: "/hu/sutikre-vonatkozo-iranyelvek/"
     relatedPosts: "Kapcsolódó bejegyzések"
     differentLanguages: "Olvassa el ezt az oldalt másik nyelven"
     language:

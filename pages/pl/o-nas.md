@@ -38,6 +38,6 @@ Na tej stronie używane są różne zasoby, w tym obrazy i filmy, aby wzbogacić
 - Niektóre z używanych obrazów pochodzą z platformy [www.pixabay.com](https://pixabay.com/). Pixabay oferuje kolekcję wysokiej jakości obrazów dostępnych do swobodnego użytku, w tym do celów komercyjnych. Te obrazy są używane zgodnie z warunkami określonymi przez Pixabay.
 - Pewne obrazy mogą zawierać grafikę związane z produktami lub usługami. Wszystkie znaki towarowe należą do ich właścicieli, a nie ma żadnego domyślnego powiązania ani partnerstwa z dostawcami tych produktów lub usług, chyba że jest to wyraźnie określone.
 
-Ta witryna wykorzystuje pliki cookie. Możesz przeczytać Politykę dotyczącą plików cookie [tutaj]({{site.baseurl}}{{site.t.en..cookiePolicyPage.url}}).
+Ta witryna wykorzystuje pliki cookie. Możesz przeczytać Politykę dotyczącą plików cookie [tutaj]({{site.baseurl}}{{site.t[page.lang].cookiePolicyPage.url}}).
 
-Wszelkie dane osobowe gromadzone podlegają zasadom ochrony opisanym [tutaj]({{site.baseurl}}{{site.t.en.privacyPolicyPage.url}}).
+Wszelkie dane osobowe gromadzone podlegają zasadom ochrony opisanym [tutaj]({{site.baseurl}}{{site.t[page.lang].privacyPolicyPage.url}}).

@@ -37,6 +37,6 @@ Tällä sivustolla käytetään erilaisia resursseja, mukaan lukien kuvia ja vid
 - Osa tämän sivuston käyttämistä kuvista on peräisin [www.pixabay.com](https://pixabay.com/) -alustalta. Pixabay tarjoaa korkealaatuisen kuvakokoelman, joka on vapaasti käytettävissä, mukaan lukien kaupallisiin tarkoituksiin. Näitä kuvia käytetään Pixabayn määrittelemien käyttöehtojen mukaisesti.
 - Tietyt kuvat voivat sisältää grafiikkaa, joka liittyy joihinkin tuotteisiin tai palveluihin. Kaikki tavaramerkit kuuluvat niiden omistajille, eikä ole mitään implisiittistä yhteyttä tai kumppanuutta näiden tuotteiden tai palveluiden tarjoajien kanssa, ellei sitä ole nimenomaisesti mainittu.
 
-Tämä sivusto käyttää evästeitä. Voit lukea evästekäytäntömme [täältä]({{site.baseurl}}{{site.t.en.cookiePolicyPage.url}}).
+Tämä sivusto käyttää evästeitä. Voit lukea evästekäytäntömme [täältä]({{site.baseurl}}{{site.t[page.lang].cookiePolicyPage.url}}).
 
-Kaikki kerätyt henkilötiedot noudattavat [tässä]({{site.baseurl}}{{site.t.en.privacyPolicyPage.url}}) määriteltyjä suojasääntöjä.
+Kaikki kerätyt henkilötiedot noudattavat [tässä]({{site.baseurl}}{{site.t[page.lang].privacyPolicyPage.url}}) määriteltyjä suojasääntöjä.

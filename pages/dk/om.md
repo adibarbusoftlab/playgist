@@ -37,6 +37,6 @@ På denne hjemmeside anvendes forskellige ressourcer, herunder billeder og video
 - Nogle af billederne på denne hjemmeside stammer fra platformen [www.pixabay.com](https://pixabay.com/). Pixabay tilbyder en samling af høj kvalitet billeder, der er tilgængelige til fri brug, herunder til kommercielle formål. Disse billeder anvendes i overensstemmelse med de betingelser, der er specificeret af Pixabay.
 - Bestemte billeder kan indeholde grafik, der er knyttet til produkter eller tjenester. Alle varemærker tilhører deres respektive ejere, og der er ingen implicit forbindelse eller partnerskab med udbyderne af disse produkter eller tjenester, medmindre det udtrykkeligt er angivet.
 
-Dette websted bruger cookies. Du kan læse vores cookie politik [her]({{site.baseurl}}{{site.t.en.cookiePolicyPage.url}}).
+Dette websted bruger cookies. Du kan læse vores cookie politik [her]({{site.baseurl}}{{site.t[page.lang].cookiePolicyPage.url}}).
 
-Alle personlige oplysninger, der indsamles, er underlagt beskyttelsesreglerne, der er beskrevet [her]({{site.baseurl}}{{site.t.en.privacyPolicyPage.url}}).
+Alle personlige oplysninger, der indsamles, er underlagt beskyttelsesreglerne, der er beskrevet [her]({{site.baseurl}}{{site.t[page.lang].privacyPolicyPage.url}}).
