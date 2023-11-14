@@ -31,13 +31,13 @@ This website is dedicated to exploring and sharing information about three main 
 
 ## Policies and Copyright
 
-Users of the website are entirely responsible for the use of the information available on the site, and this implies using it at their own risk.
+Users of the website are entirely responsible for the use of the information available on the website, and this implies using it at their own risk.
 
-Various resources, including images and videos, are used on this site to enrich the content and provide a pleasant visual experience for our users. It is important to mention the following:
+Various resources, including images and videos, are used on this website to enrich the content and provide a pleasant visual experience for our users. It is important to mention the following:
 
-- Some of the images used on this site are sourced from the platform [www.pixabay.com](https://pixabay.com/). Pixabay offers a collection of high-quality images available for free use, including for commercial purposes. These images are used in accordance with the terms and conditions specified by Pixabay.
+- Some of the images used on this website are sourced from the platform [www.pixabay.com](https://pixabay.com/). Pixabay offers a collection of high-quality images available for free use, including for commercial purposes. These images are used in accordance with the terms and conditions specified by Pixabay.
 - Certain images may include graphics associated with products or services. All trademarks belong to their respective owners, and there is no implicit association or partnership with the providers of these products or services, unless expressly stated.
 
-This site uses cookies. You can read the Cookie Policy [here]({{site.baseurl}}{{site.t[page.lang].cookiePolicyPage.url}}).
+This website uses cookies. You can read the Cookie Policy [here]({{site.baseurl}}{{site.t[page.lang].cookiePolicyPage.url}}).
 
 All personal information collected is subject to the protection rules outlined [here]({{site.baseurl}}{{site.t[page.lang].privacyPolicyPage.url}}).

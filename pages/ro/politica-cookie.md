@@ -13,11 +13,11 @@ _**Ultima actualizare: 13 noiembrie 2023**_
 
 **Definiție:**
 
-Cookie-urile reprezintă mici fragmente de text care sunt descărcate în browserul tău atunci când vizitezi un site web. Acestea au rolul de a stoca informații referitoare la interacțiunile tale cu site-ul, contribuind astfel la îmbunătățirea experienței de navigare.
+Cookie-urile reprezintă mici fragmente de text care sunt descărcate în browserul tău atunci când vizitezi un site. Acestea au rolul de a stoca informații referitoare la interacțiunile tale cu site-ul, contribuind astfel la îmbunătățirea experienței de navigare.
 
 **Rolul cookie-urilor:**
 
-Atunci când navighezi pe un site web, cookie-urile permit acestuia să-și amintească anumite detalii legate de vizita ta. Printre aceste informații se numără preferințele legate de limbă, paginile accesate în cadrul site-ului, durata totală a vizitei tale, locația aproximativă și alte setări personalizate. Pe baza acestora, următoarea ta vizită devine mai ușoară, iar site-ul poate să-ți ofere conținut mai relevant și adaptat preferințelor tale.
+Atunci când navighezi pe un site, cookie-urile permit acestuia să-și amintească anumite detalii legate de vizita ta. Printre aceste informații se numără preferințele legate de limbă, paginile accesate în cadrul site-ului, durata totală a vizitei tale, locația aproximativă și alte setări personalizate. Pe baza acestora, următoarea ta vizită devine mai ușoară, iar site-ul poate să-ți ofere conținut mai relevant și adaptat preferințelor tale.
 
 **Importanța cookie-urilor:**
 
@@ -27,7 +27,7 @@ Modulele cookie joacă un rol crucial în îmbunătățirea experienței tale de
 
 Dacă nu ești familiar cu modul în care funcționează cookie-urile sau dorești să afli mai multe despre cum să le controlezi sau să le ștergi, te îndemnăm să accesezi [http://www.aboutcookies.org](http://www.aboutcookies.org). Acest site oferă informații detaliate despre modul de gestionare a cookie-urilor, inclusiv instrucțiuni pentru diferite browsere și dispozitive.
 
-Este important să ții cont că, prin controlul cookie-urilor, poți ajusta setările browserului pentru a decide ce informații să fie stocate sau să fie șterse după vizitarea unui site web. Această abordare îți oferă controlul asupra datelor tale personale și asigură o navigare online conformă cu preferințele tale.
+Este important să ții cont că, prin controlul cookie-urilor, poți ajusta setările browserului pentru a decide ce informații să fie stocate sau să fie șterse după vizitarea unui site. Această abordare îți oferă controlul asupra datelor tale personale și asigură o navigare online conformă cu preferințele tale.
 
 ## Legislatia privind folosirea modulelor cookie in Uniunea Europeană
 
@@ -75,7 +75,7 @@ Site-ul nostru utilizează module cookie de la terțe părți pentru a furniza f
 
 **Informații stocate**: Informații despre vizitele utilizatorilor pe site-uri care utilizează serviciul Google Adsense.
 
-Citește mai mult: [Politica de confidențialitate Google](https://www.google.com/intl/ro/policies/privacy/)
+Citește mai mult: [Politica de confidențialitate Google](https://www.google.com/intl/ro/policies/privacy/).
 
 ## Modificări ale Politici privind modulele cookie
 
@@ -83,4 +83,4 @@ Este posibil să apară modificări în ceea ce privește plasarea modulelor coo
 
 ## Contact
 
-Pentru orice întrebări sau solicitări privind modulele cookie, te rugăm să utilizezi formularul de Contact.
+Pentru orice întrebări sau solicitări privind modulele cookie, te rugăm să utilizezi pagina de Contact.
