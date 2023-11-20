@@ -29,7 +29,7 @@ Ez a weboldal három olyan fő témakört mutat be és ismertet, amelyek a szenv
 - Legnépszerűbb és felkapottabb applikációk és játékok
 - Android alkalmazások és játékok értékelései
 
-## Irányelvek és Szerzői Jog
+## Szabályzat és szerzői jog
 
 A weboldal felhasználói teljes mértékben felelősek a weboldalon elérhető információk használatáért, és ez a saját kockázatukon történő felhasználást jelenti.
 
