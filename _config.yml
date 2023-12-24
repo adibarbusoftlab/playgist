@@ -81,7 +81,14 @@ t:
     readMore: "Read the article"
     writtenBy: "By"
     latestUpdate: "Latest update"
-    postCategoriesUrl: "categories"
+    postCategoriesNameAndUrl: "Categories"
+    categoryPageTitle: "Category:"
+    mainTopic1:
+      name: "Android"
+      url: "/en/categories/android"
+    mainTopic2:
+      name: "Play Store"
+      url: "/en/categories/play-store"
   ro:
     latestPosts: "ULTIMELE POSTĂRI"
     adsTitle: "Anunțuri sponsorizate"
@@ -118,7 +125,14 @@ t:
     readMore: "Citește articolul"
     writtenBy: "De"
     latestUpdate: "Ultima actualizare"
-    postCategoriesUrl: "categorii"
+    postCategoriesNameAndUrl: "Categorii"
+    categoryPageTitle: "Categorie:"
+    mainTopic1:
+      name: "Android"
+      url: "/ro/categorii/android"
+    mainTopic2:
+      name: "Magazin Play"
+      url: "/ro/categorii/magazin-play"
   fi:
     latestPosts: "UUSIMMAT ARTIKKELIT"
     adsTitle: "Sponsoroidut mainokset"
@@ -155,7 +169,14 @@ t:
     readMore: "Lue artikkeli"
     writtenBy: "Kirjoittaja"
     latestUpdate: "Viimeisin päivitys"
-    postCategoriesUrl: "postausluokat"
+    postCategoriesNameAndUrl: "Postausluokat"
+    categoryPageTitle: "Kategoria:"
+    mainTopic1:
+      name: "Android"
+      url: "/fi/postausluokat/android"
+    mainTopic2:
+      name: "Play Kauppa"
+      url: "/fi/postausluokat/play-kauppa"
   pl:
     latestPosts: "NAJNOWSZE WPISY"
     adsTitle: "Sponsorowane reklamy"
@@ -192,7 +213,14 @@ t:
     readMore: "Czytaj artykuł"
     writtenBy: "Napisane przez"
     latestUpdate: "Najnowsza aktualizacja"
-    postCategoriesUrl: "kategorie"
+    postCategoriesNameAndUrl: "Kategorie"
+    categoryPageTitle: "Kategoria:"
+    mainTopic1:
+      name: "Android"
+      url: "/pl/kategorie/android"
+    mainTopic2:
+      name: "Sklep Play"
+      url: "/pl/kategorie/sklep-play"
   da:
     latestPosts: "Seneste indlæg"
     adsTitle: "Sponsorede annoncer"
@@ -229,7 +257,14 @@ t:
     readMore: "Læs artiklen"
     writtenBy: "Skrevet af"
     latestUpdate: "Nyeste opdateringer"
-    postCategoriesUrl: "kategorier"
+    postCategoriesNameAndUrl: "Kategorier"
+    categoryPageTitle: "Kategori:"
+    mainTopic1:
+      name: "Android"
+      url: "/da/kategorier/android"
+    mainTopic2:
+      name: "Play Butik"
+      url: "/da/kategorier/play-butik"
   hu:
     latestPosts: "LEGÚJABB BEJEGYZÉSEK"
     adsTitle: "Támogatott hirdetések"
@@ -266,7 +301,14 @@ t:
     readMore: "Olvassa el a cikket"
     writtenBy: "Írta"
     latestUpdate: "Legutóbbi frissítés"
-    postCategoriesUrl: "kategoriak"
+    postCategoriesNameAndUrl: "Kategoriak"
+    categoryPageTitle: "Kategória:"
+    mainTopic1:
+      name: "Android"
+      url: "/hu/kategoriak/android"
+    mainTopic2:
+      name: "Play Aruhaz"
+      url: "/hu/kategoriak/play-aruhaz"
 
 ad_post_first_temp: "<img alt=\"Ads section\" class=\"mx-auto d-block\" src=\"/assets/images/ad_header2.png\">"
 

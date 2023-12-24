@@ -3,7 +3,7 @@ layout: post
 title: "Aplicații Android esențiale pentru telefon și tableta"
 description: "Pe lângă aplicațiile preinstalate pe dispozitivul Android, va trebui să instalezi și o serie de alte aplicații, esențiale pentru telefonul sau tableta ta."
 author: adrian
-categories: [Aplicații, Telefon, Tabletă, Android]
+categories: [Aplicații, Android]
 image: assets/images/posts/en/essential-android-apps/phone-tablet-essential-apps_featured.jpg
 permalink: /ro/aplicatii-esentiale-telefon-tableta-android/
 lang: ro

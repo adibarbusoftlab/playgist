@@ -3,28 +3,32 @@ layout: default
 lang-ref: categories
 ---
 
-{% for category in site.categories %}
-{% assign pages_list = category[1] | where:"lang", page.lang %}
+<!-- Posts List with Sidebar (except featured)
+  ================================================== -->
+<div class="row">
 
-{% if pages_list[0].title != null and category[0] %}
-<section>
-    <h3 class="mt-5 mb-4 pb-2 border-bottom" id="{{ category[0] | replace: " "," -" | slugify }}">
-        <span class="text-capitalize small font-weight-bold">{{site.t[page.lang].belongsToCategory}} "{{
-            category[0]}}"</span>
-    </h3>
-    <div class="row">
-        {% for post in pages_list %}
-        {% if post.title != null %}
-        {% if group == null or group == post.group %}
-        <section class="col-md-6 mb-3">
-            {% include postbox.html %}
-        </section>
-        {% endif %}
-        {% endif %}
-        {% endfor %}
-        {% assign pages_list = nil %}
-        {% assign group = nil %}
+  <div class="col-md-12">
+
+    <div class="rounded mb-5">
+      <h1>{{site.t[page.lang].categoryPageTitle}} {{ page.category }}</h1>
     </div>
-</section>
-{% endif %}
-{% endfor %}
+
+    <div class="row">
+      {% assign category_posts = site.posts | where:"lang", page.lang | where_exp: "post", "post.categories contains
+      page.category" %}
+      {% for post in category_posts %}
+      {% unless post.featured == true %}
+      <section class="col-md-12 mb-2">
+        {% include postbox.html %}
+      </section>
+      {% endunless %}
+      {% endfor %}
+    </div>
+    <!-- Pagination -->
+    <div class="bottompagination">
+      <div class="navigation" role="navigation">
+        {% include pagination.html %}
+      </div>
+    </div>
+  </div>
+</div>

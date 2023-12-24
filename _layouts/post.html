@@ -80,8 +80,8 @@ post_class: post-template
           {% assign sortedCategories = page.categories | sort %}
           {% for category in sortedCategories %}
           <li>
-            <a href="{{site.baseurl}}/{{page.lang}}/{{site.t[page.lang].postCategoriesUrl}}#{{ category | slugify }}">{{ category }}</a>
-            <link itemprop="url" href="{{site.baseurl}}/{{page.lang}}/{{site.t[page.lang].postCategoriesUrl}}#{{ category | slugify }}">
+            <a href="{{site.baseurl}}/{{page.lang}}/{{site.t[page.lang].postCategoriesNameAndUrl  | downcase }}/{{ category | slugify }}">{{ category }}</a>
+            <link itemprop="url" href="{{site.baseurl}}/{{page.lang}}/{{site.t[page.lang].postCategoriesNameAndUrl  | downcase }}/{{ category | slugify }}">
           </li>
           {% endfor %}
         </ul>

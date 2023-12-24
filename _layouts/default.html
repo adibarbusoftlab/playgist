@@ -1,28 +1,28 @@
 <!DOCTYPE html>
 <html lang="{{page.lang}}">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link rel="icon" href="{{site.baseurl}}/{{site.favicon}}">
-{% seo %}
-{% if page.layout != 'index' %}
-{% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
-{% if posts.size == 0 %}{% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}{% endif %}
-{% if posts.size > 1 %}{% for post in posts %}{% if post.lang != page.lang %}
-<link rel="alternate" hreflang="{{ post.lang }}" href="https://{{site.domain}}{{ site.baseurl }}{{post.url}}" />
-{% endif %}{% endfor %}{% endif %}
-{% endif %}
-{% if page.url == "/en/index.html" %}<link rel="canonical" href="/" />{% endif %}
-<link href="{{site.baseurl}}/assets/css/theme.css" rel="stylesheet">
-{% if jekyll.environment == "production" %}
-<script async src="https://www.googletagmanager.com/gtag/js?id={{site.ganalytics}}"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag() { dataLayer.push(arguments); }
-  gtag('js', new Date());
-  gtag('config', '{{site.ganalytics}}');
-</script>
-{% endif %}
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="icon" href="{{site.baseurl}}/{{site.favicon}}">
+  {% seo %}
+  {% if page.layout != 'index' %}
+  {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+  {% if posts.size == 0 %}{% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}{% endif %}
+  {% if posts.size > 1 %}{% for post in posts %}{% if post.lang != page.lang %}
+  <link rel="alternate" hreflang="{{ post.lang }}" href="https://{{site.domain}}{{ site.baseurl }}{{post.url}}" />
+  {% endif %}{% endfor %}{% endif %}
+  {% endif %}
+  {% if page.url == "/en/index.html" %}<link rel="canonical" href="/" />{% endif %}
+  <link href="{{site.baseurl}}/assets/css/theme.css" rel="stylesheet">
+  {% if jekyll.environment == "production" %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{site.ganalytics}}"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', '{{site.ganalytics}}');
+  </script>
+  {% endif %}
 </head>
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 <body class="{{ layout }}">
@@ -53,6 +53,14 @@
         <!-- Header Menu begin -->
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto font-weight-bold d-flex align-items-center">
+            <li class="nav-item dropdown">
+              <a class="nav-link px-3 dropdown-toggle" href="#" id="topicsDropdown" role="button"
+                data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{site.t[page.lang].postCategoriesNameAndUrl}}</a>
+              <div class="dropdown-menu" aria-labelledby="topicsDropdown">
+                <a class="dropdown-item" href="{{site.t[page.lang].mainTopic1.url}}">{{site.t[page.lang].mainTopic1.name}}</a>
+                <a class="dropdown-item" href="{{site.t[page.lang].mainTopic2.url}}">{{site.t[page.lang].mainTopic2.name}}</a>
+              </div>
+            </li>
             <li class="nav-item">
               <a class="nav-link px-3" href="{{site.baseurl}}{{site.t[page.lang].aboutPage.url}}">{{site.t[page.lang].aboutPage.name}}</a>
             </li>
@@ -82,29 +90,29 @@
     {{ content }}
   </main>
 
-<!-- Footer
+  <!-- Footer
   ================================================== -->
-<footer class="footer container text-center">
+  <footer class="footer container text-center">
 
-  <!-- FOOTER MENU BEGIN -->
-  <ul class="p-0 mb-1 small">
-    <li>
-      <a href="{{site.baseurl}}/{{page.lang}}/">{{site.t[page.lang].homePage.name}}</a>
-    </li>
-    <li>
-      <a href="{{site.baseurl}}{{site.t[page.lang].privacyPolicyPage.url}}">{{site.t[page.lang].privacyPolicyPage.name}}</a>
-    </li>
-    <li>
-      <a href="{{site.baseurl}}{{site.t[page.lang].cookiePolicyPage.url}}">{{site.t[page.lang].cookiePolicyPage.name}}</a>
-    </li>
-    <li>
-      <a href="{{site.baseurl}}{{site.t[page.lang].contactPage.url}}">{{site.t[page.lang].contactPage.name}}</a>
-    </li>
-  </ul>
-  <!-- FOOTER MENU END -->
-<div class="copyright small">
-  Copyright © {{site.copyright_year}} {{site.domain}}. {{site.t[page.lang].siteCopyright}} </div>
-</footer>
+    <!-- FOOTER MENU BEGIN -->
+    <ul class="p-0 mb-1 small">
+      <li>
+        <a href="{{site.baseurl}}/{{page.lang}}/">{{site.t[page.lang].homePage.name}}</a>
+      </li>
+      <li>
+        <a href="{{site.baseurl}}{{site.t[page.lang].privacyPolicyPage.url}}">{{site.t[page.lang].privacyPolicyPage.name}}</a>
+      </li>
+      <li>
+        <a href="{{site.baseurl}}{{site.t[page.lang].cookiePolicyPage.url}}">{{site.t[page.lang].cookiePolicyPage.name}}</a>
+      </li>
+      <li>
+        <a href="{{site.baseurl}}{{site.t[page.lang].contactPage.url}}">{{site.t[page.lang].contactPage.name}}</a>
+      </li>
+    </ul>
+    <!-- FOOTER MENU END -->
+    <div class="copyright small">
+      Copyright © {{site.copyright_year}} {{site.domain}}. {{site.t[page.lang].siteCopyright}} </div>
+  </footer>
 
   <!-- Cookie bar-->
   <div id="eucookies">
@@ -128,7 +136,7 @@
   <div id="scrollToTop" class="hidden">
     <img src="{{site.baseurl}}/assets/images/go-top-arrow.png" alt="Scroll to Top">
   </div>
-  
+
 </body>
 
 </html>

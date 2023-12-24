@@ -3,9 +3,9 @@ layout: post
 title: "Best App Stores for devices without Google Play Store"
 description: "Explore alternatives to Google Play Store that you can use on your Android device to install apps and games."
 author: adrian
-categories: [Play Store, Android]
+categories: [Play Store, Android, Apps]
 image: assets/images/posts/en/app-store-alternatives/app-stores-for-devices-without-play-store_featured.jpg
-permalink: /app-stores-for-devices-without-google-play-store/
+permalink: /en/app-stores-for-devices-without-google-play-store/
 lang: en
 lang-ref: play-store-alternatives
 ---
