@@ -11,6 +11,7 @@ paginate: 1000
 locale: en_us
 lang: en_us
 feed_items: 5
+posts_per_page: 6
 feed_update_period: weekly
 feed_update_frequency: 1
 markdown: kramdown
@@ -89,6 +90,8 @@ t:
     mainTopic2:
       name: "Play Store"
       url: "/en/categories/play-store"
+    newer_posts: "Newer Posts"
+    older_posts: "Older Posts"
   ro:
     latestPosts: "ULTIMELE POSTĂRI"
     adsTitle: "Anunțuri sponsorizate"
@@ -133,6 +136,8 @@ t:
     mainTopic2:
       name: "Magazin Play"
       url: "/ro/categorii/magazin-play"
+    newer_posts: "Postări mai noi"
+    older_posts: "Postări mai vechi"
   fi:
     latestPosts: "UUSIMMAT ARTIKKELIT"
     adsTitle: "Sponsoroidut mainokset"
@@ -177,6 +182,8 @@ t:
     mainTopic2:
       name: "Play Kauppa"
       url: "/fi/postausluokat/play-kauppa"
+    newer_posts: "Uudemmat viestit"
+    older_posts: "Vanhemmat viestit"
   pl:
     latestPosts: "NAJNOWSZE WPISY"
     adsTitle: "Sponsorowane reklamy"
@@ -221,6 +228,8 @@ t:
     mainTopic2:
       name: "Sklep Play"
       url: "/pl/kategorie/sklep-play"
+    newer_posts: "Nowsze wpisy"
+    older_posts: "Starsze wpisy"
   da:
     latestPosts: "Seneste indlæg"
     adsTitle: "Sponsorede annoncer"
@@ -265,6 +274,8 @@ t:
     mainTopic2:
       name: "Play Butik"
       url: "/da/kategorier/play-butik"
+    newer_posts: "Nyere indlæg"
+    older_posts: "Ældre indlæg"
   hu:
     latestPosts: "LEGÚJABB BEJEGYZÉSEK"
     adsTitle: "Támogatott hirdetések"
@@ -309,6 +320,8 @@ t:
     mainTopic2:
       name: "Play Aruhaz"
       url: "/hu/kategoriak/play-aruhaz"
+    newer_posts: "Újabb bejegyzések"
+    older_posts: "Régebbi bejegyzések"
 
 ad_post_first_temp: "<img alt=\"Ads section\" class=\"mx-auto d-block\" src=\"/assets/images/ad_header2.png\">"
 

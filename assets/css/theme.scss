@@ -726,6 +726,13 @@ span.navigation:before {
     text-transform: uppercase;
 }
 
+.pagination .align-left {
+    float: left;
+}
+
+.pagination .align-right {
+    float: right;
+}
 .footer {
     margin-top:4rem;
     padding:30px 0;

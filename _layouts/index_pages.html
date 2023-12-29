@@ -1,0 +1,61 @@
+---
+layout: default
+---
+
+{% assign posts = site.posts | where:"lang", page.lang %}
+{% assign total_posts = posts | size %}
+{% assign posts_per_page = site.posts_per_page %}
+{% assign previous_page_index = page.current_page_index | minus: 1 %}
+
+<!-- Posts List with Sidebar (except featured) -->
+<div class="row">
+  <div class="col-md-12">
+    <div class="row">
+      {% assign offset = previous_page_index | times: posts_per_page %}
+      {% assign limit = offset | plus: posts_per_page | minus: 1 %}
+      {% for i in (offset..limit) %}
+      {% if i < total_posts %} {% assign post=posts[i] %} {% unless post.featured==true %} <section
+        class="col-md-12 mb-2">
+        {% include postbox.html %}
+        </section>
+        {% endunless %}
+        {% endif %}
+        {% endfor %}
+    </div>
+    <!-- Pagination Links -->
+    {% assign num_pages = total_posts | divided_by: posts_per_page | plus: 1 %}
+  
+    {% if total_posts > posts_per_page %}
+  <div class="pagination d-flex justify-content-between">
+    <div class="align-left">
+      {% if page.current_page_index > 1 %}
+        {% if page.current_page_index == 2 %}
+          <div class="page-item">
+            <a class="page-link btn btn-info" href="/{{page.lang}}/" aria-label="Previous">
+              <span aria-hidden="true">&laquo; {{site.t[page.lang].newer_posts}}</span>
+            </a>
+          </div>
+        {% else %}
+          <div class="page-item">
+            <a class="page-link btn btn-info" href="/{{page.lang}}/{{ page.current_page_index | minus: 1 }}.html" aria-label="Previous">
+              <span aria-hidden="true">&laquo; {{site.t[page.lang].newer_posts}}</span>
+            </a>
+          </div>
+        {% endif %}
+      {% endif %}
+    </div>
+    <div class="align-right">
+      {% if page.current_page_index < num_pages %}
+        <div class="page-item">
+          <a class="page-link btn btn-info" href="/{{page.lang}}/{{ page.current_page_index | plus: 1 }}.html" aria-label="Next">
+            <span aria-hidden="true">{{site.t[page.lang].older_posts}} &raquo;</span>
+          </a>
+        </div>
+      {% endif %}
+    </div>
+  </div>
+{% endif %}
+
+
+  </div>
+</div>
