@@ -40,6 +40,16 @@
           {% endif %}
           <!-- <span class="ml-3 font-weight-bold text-muted small">{{site.t[page.lang].siteDescription }}</span> -->
         </a>
+        <ul class="navbar-nav ml-auto font-weight-bold d-flex align-items-center">
+          <li class="nav-item dropdown">
+            <a class="nav-link px-3 dropdown-toggle" href="#" id="languageDropdown" role="button"
+              data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ page.lang | upcase}}</a>
+            <div class="dropdown-menu" aria-labelledby="languageDropdown">
+              {% for lang in site.languages %}
+              {% if lang != page.lang %}<a class="dropdown-item" href="{{site.baseurl}}/{{lang}}/">{{ lang | upcase }}</a>{% endif %}{% endfor %}
+            </div>
+          </li>
+        </ul>
 
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive"
           aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -55,20 +65,22 @@
           <ul class="navbar-nav ml-auto font-weight-bold d-flex align-items-center">
             <li class="nav-item dropdown">
               <a class="nav-link px-3 dropdown-toggle" href="#" id="topicsDropdown" role="button"
-                data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{site.t[page.lang].postCategoriesNameAndUrl}}</a>
+                data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ site.t[page.lang].postCategoriesNameAndUrl }}</a>
               <div class="dropdown-menu" aria-labelledby="topicsDropdown">
-                <a class="dropdown-item" href="{{site.t[page.lang].mainTopic1.url}}">{{site.t[page.lang].mainTopic1.name}}</a>
-                <a class="dropdown-item" href="{{site.t[page.lang].mainTopic2.url}}">{{site.t[page.lang].mainTopic2.name}}</a>
+                <a class="dropdown-item" href="{{ site.t[page.lang].mainTopic1.url }}">{{ site.t[page.lang].mainTopic1.name }}</a>
+                <a class="dropdown-item" href="{{ site.t[page.lang].mainTopic2.url }}">{{ site.t[page.lang].mainTopic2.name }}</a>
               </div>
             </li>
             <li class="nav-item">
-              <a class="nav-link px-3" href="{{site.baseurl}}{{site.t[page.lang].aboutPage.url}}">{{site.t[page.lang].aboutPage.name}}</a>
+              <a class="nav-link px-3" href="{{ site.baseurl }}{{ site.t[page.lang].aboutPage.url }}">{{ site.t[page.lang].aboutPage.name }}</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link px-3" href="{{site.baseurl}}{{site.t[page.lang].contactPage.url}}">{{site.t[page.lang].contactPage.name}}</a>
+              <a class="nav-link px-3" href="{{ site.baseurl }}{{ site.t[page.lang].contactPage.url }}">{{ site.t[page.lang].contactPage.name }}</a>
             </li>
+
           </ul>
         </div>
+        
         <!-- Header Menu end -->
 
       </div>

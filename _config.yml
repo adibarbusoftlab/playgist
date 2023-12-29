@@ -44,6 +44,9 @@ sidebar_ad: false
 header_ad: false
 index_intro: true
 
+# Languages
+languages: ["en", "ro", "fi", "pl", "da", "hu"]
+
 # Translations
 t:
   en:
