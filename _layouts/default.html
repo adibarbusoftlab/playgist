@@ -38,19 +38,16 @@
           {% else %}
           <span class="d-none d-md-inline-block">{{ site.title }}</span>
           {% endif %}
-          <!-- <span class="ml-3 font-weight-bold text-muted small">{{site.t[page.lang].siteDescription }}</span> -->
         </a>
-        <ul class="navbar-nav ml-auto font-weight-bold d-flex align-items-center">
-          <li class="nav-item dropdown">
-            <a class="nav-link px-3 dropdown-toggle" href="#" id="languageDropdown" role="button"
-              data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ page.lang | upcase}}</a>
-            <div class="dropdown-menu" aria-labelledby="languageDropdown">
-              {% for lang in site.languages %}
-              {% if lang != page.lang %}<a class="dropdown-item" href="{{site.baseurl}}/{{lang}}/">{{ lang | upcase }}</a>{% endif %}{% endfor %}
-            </div>
-          </li>
-        </ul>
 
+        <div class="dropdown ml-auto font-weight-bold d-flex align-items-center">
+          <button class="btn btn-outline-info dropdown-toggle" type="button" id="languageDropdown" data-bs-toggle="dropdown" aria-expanded="false">{{ page.lang | upcase}}</button>
+          <ul class="dropdown-menu" aria-labelledby="languageDropdown">
+            {% for lang in site.languages %}
+              {% if lang != page.lang %}<li><a class="dropdown-item" href="{{site.baseurl}}/{{lang}}/">{{ lang | upcase }}</a></li>{% endif %}{% endfor %}
+          </ul>
+        </div>
+        
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive"
           aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
           <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" fill="currentColor"
@@ -77,7 +74,6 @@
             <li class="nav-item">
               <a class="nav-link px-3" href="{{ site.baseurl }}{{ site.t[page.lang].contactPage.url }}">{{ site.t[page.lang].contactPage.name }}</a>
             </li>
-
           </ul>
         </div>
         
@@ -98,7 +94,6 @@
       </div>
     </div>
     {% endif %}
-
     {{ content }}
   </main>
 
