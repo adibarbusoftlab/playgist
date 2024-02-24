@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bulk Android apps & games management: Update, Uninstall, Cleanup and Virus Scan at once"
+title: "Bulk Android apps & games management: update, uninstall, cleanup and virus scan at once"
 description: "Discover efficient bulk management for Android apps and games. Update, uninstall, reinstall, virus scan, cleanup and more—all in one place."
 author: adrian
 categories: [Android, Play Store]
