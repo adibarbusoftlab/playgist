@@ -4,7 +4,7 @@ title: "Play Store: frequently asked questions (FAQs)"
 description: "Find answers for frequent questions about the Play Store app in this informative article."
 author: adrian
 categories: [Play Store]
-image: assets/images/posts/en/play-store-faqs/play-store.png
+image: assets/images/posts/en/featured/play-store.png
 permalink: /en/play-store-faqs/
 lang: en
 lang-ref: play-store-frequent-questions

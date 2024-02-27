@@ -4,7 +4,7 @@ title: "Phone / tablet reset - how to return Android to factory settings"
 description: "Resetting to factory settings is performed when Android malfunctions or when you wish to permanently delete all data. Explore two reset methods."
 author: adrian
 categories: [Android]
-image: assets/images/posts/en/reset-android/reset-android-to-factory-settings_featured.png
+image: assets/images/posts/en/featured/reset-android-to-factory-settings.png
 permalink: /en/reset-android-to-factory-settings/
 lang: en
 lang-ref: reset-android-to-factory-settings

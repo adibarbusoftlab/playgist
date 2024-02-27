@@ -4,7 +4,7 @@ title: "Essential apps for your Android phone and tablet"
 description: "In addition to the preinstalled applications on your Android device, you will need to install a series of other essential applications for your phone or tablet."
 author: adrian
 categories: [Apps, Android]
-image: assets/images/posts/en/essential-android-apps/phone-tablet-essential-apps_featured.jpg
+image: assets/images/posts/en/featured/phone-tablet-essential-apps.png
 permalink: /en/essential-android-apps/
 lang: en
 lang-ref: essential-android-apps
