@@ -4,7 +4,7 @@ title: "Najlepsze praktyki w celu zwiększenia bezpieczeństwa dla Sklepu Play i
 description: "Sklep Play jest bezpieczny do pobierania aplikacji, ale ważne jest również przestrzeganie podstawowych wskazówek dotyczących bezpieczeństwa i dodanie dodatkowej ochrony. Zobacz, jak poprawić bezpieczeństwo swojego urządzenia."
 author: adrian
 categories: [Sklep Play, Android]
-image: assets/images/posts/pl/bezpieczenstwo-sklepu-play-i-aplikacji/bezpieczenstwo-sklepu-play-i-aplikacji_featured.png
+image: assets/images/posts/en/featured/secure-apps-and-play-store.png
 permalink: /pl/bezpieczenstwo-sklepu-play-i-aplikacji/
 lang: pl
 lang-ref: secure-apps-and-play-store

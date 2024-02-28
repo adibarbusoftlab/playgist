@@ -4,7 +4,7 @@ title: "Legjobb módszerek a Play Áruház és alkalmazások biztonságának jav
 description: "A Play Áruház biztonságos alkalmazásokhoz, de fontos az alapvető biztonsági tippek és extra védelem. Ismerje meg, hogyan fokozhatja eszköze biztonságát."
 author: adrian
 categories: [Play Aruhaz, Android]
-image: assets/images/posts/hu/biztonsagos-alkalmazasok-es-play-aruhaz/biztonsagos-alkalmazasok-es-play-aruhaz_kiemelt.png
+image: assets/images/posts/en/featured/secure-apps-and-play-store.png
 permalink: /hu/play-aruhaz-alkalmazasok-biztonsaga/
 lang: hu
 lang-ref: secure-apps-and-play-store
