@@ -82,3 +82,30 @@ $(document).ready(function () {
     window.location.href = imageUrl;
   });
 });
+
+$(document).ready(function () {
+
+  $('.openBtn').click(function () {
+    $('#searchModal').css('display', 'block');
+    $('#searchInput').focus();
+  });
+
+  $('.closeBtn').click(function () {
+    $('#searchModal').css('display', 'none');
+  });
+
+
+  $(window).click(function (event) {
+    if (event.target == $('#searchModal')[0]) {
+      $('#searchModal').css('display', 'none');
+    }
+  });
+
+
+  $('#searchForm').submit(function (event) {
+    var searchTerm = $('#searchInput').val().trim();
+    if (searchTerm === '') {
+      event.preventDefault();
+    }
+  });
+});

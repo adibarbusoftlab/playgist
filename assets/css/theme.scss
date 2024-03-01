@@ -800,3 +800,89 @@ span.navigation:before {
     cursor: pointer;
 }
 
+// Start Modal Search Form
+.openBtn {
+    //background: #f1f1f1;
+    //border: none;
+    //padding: 10px 15px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.openBtn:hover {
+    background: #bbb;
+}
+
+.overlay {
+    height: 100%;
+    width: 100%;
+    display: none;
+    position: fixed;
+    z-index: 10000;
+    top: 0;
+    left: 0;
+    background-color: rgba(18, 21, 25, .98);
+}
+
+.overlay-content {
+    position: relative;
+    top: 46%;
+    width: 80%;
+    text-align: center;
+    margin-top: 30px;
+    margin: auto;
+}
+
+.overlay .closeBtn {
+    position: absolute;
+    top: 75px;
+    right: 45px;
+    font-size: 80px;
+    cursor: pointer;
+    color: white;
+}
+
+.overlay .closeBtn:hover {
+    color: #ccc;
+}
+
+.overlay input[type=text] {
+    padding: 15px;
+    font-size: 17px;
+    border: none;
+    float: left;
+    width: 80%;
+    background: white;
+}
+
+.overlay input[type=text]:hover {
+    background: #f1f1f1;
+}
+
+.overlay button {
+    float: left;
+    width: 75px;
+    padding: 15px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+}
+
+.overlay button:hover {
+    background: #bbb;
+}
+
+#languageDropdown,
+#searchButton {
+    margin-right: .5rem !important;
+}
+
+.navbar svg {
+    width: 21px;
+    height: 21px;
+    vertical-align: middle;
+    margin-bottom: 1px;
+}
+
+// End Modal Search Form
