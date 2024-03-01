@@ -825,26 +825,14 @@ span.navigation:before {
 }
 
 .overlay-content {
-    position: fixed;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 5px;
+    position: relative;
+    top: 48%;
+    width: 80%;
+    text-align: center;
+    margin-top: 30px;
+    margin: auto;
 }
 
-@media (max-width: 768px) {
-    .overlay-content {
-        width: 80%;
-    }
-}
-
-@media (max-width: 576px) {
-    .overlay-content {
-        width: 90%;
-    }
-}
 
 .overlay .closeBtn {
     position: absolute;
@@ -874,7 +862,7 @@ span.navigation:before {
 
 .overlay button {
     float: left;
-    width: 75px;
+    width: 50px;
     padding: 15px;
     background: #ddd;
     font-size: 17px;
