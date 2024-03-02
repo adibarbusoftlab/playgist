@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Rólunk
-description: "A playgist.com-ról: Az oldal Android témájú útmutatókat, cikkeket és népszerű alkalmazásokat kínál látogatóinak."
+title: "A playgist.com-ról"
+description: "Az oldal Android témájú útmutatókat, cikkeket és népszerű alkalmazásokat kínál látogatóinak."
 permalink: "/hu/rolunk/"
 lang: hu
 lang-ref: about

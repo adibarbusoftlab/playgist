@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Om os
-description: "Om playgist.com: Hjemmesiden dækker emner relateret til Android og tilbyder guider, artikler og toplister med apps af interesse for besøgende."
+title: "Om playgist.com"
+description: "Hjemmesiden dækker emner relateret til Android og tilbyder guider, artikler og toplister med apps af interesse for besøgende."
 permalink: "/da/om/"
 lang: da
 lang-ref: about

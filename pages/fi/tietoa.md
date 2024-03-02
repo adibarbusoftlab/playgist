@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Tietoja verkkosivustosta"
-description: "Tietoja playgist.com: Sivusto kattaa Androidiin liittyviä aiheita ja tarjoaa opetusohjelmia, artikkeleita ja Topit vierailijoita kiinnostavilla sovelluksilla."
+title: "Tietoja playgist.com"
+description: "Sivusto kattaa Androidiin liittyviä aiheita ja tarjoaa opetusohjelmia, artikkeleita ja Topit vierailijoita kiinnostavilla sovelluksilla."
 permalink: "/fi/tietoa/"
 lang: fi
 lang-ref: about

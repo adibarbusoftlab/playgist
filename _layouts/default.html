@@ -84,15 +84,10 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
           <ul class="navbar-nav ml-auto font-weight-bold d-flex align-items-center">
             <li class="nav-item">
-              <a class="nav-link px-3" href="{{ site.baseurl }}{{ site.t[page.lang].aboutPage.url }}">{{ site.t[page.lang].aboutPage.name }}</a>
+              <a class="nav-link px-3" href="{{ site.baseurl }}{{ site.t[page.lang].mainTopic1.url }}">{{ site.t[page.lang].mainTopic1.name }}</a>
             </li>
-            <li class="nav-item dropdown">
-              <a class="nav-link px-3 dropdown-toggle" href="#" id="topicsDropdown" role="button"
-                data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ site.t[page.lang].postCategoriesNameAndUrl }}</a>
-              <div class="dropdown-menu" aria-labelledby="topicsDropdown">
-                <a class="dropdown-item" href="{{ site.t[page.lang].mainTopic1.url }}">{{ site.t[page.lang].mainTopic1.name }}</a>
-                <a class="dropdown-item" href="{{ site.t[page.lang].mainTopic2.url }}">{{ site.t[page.lang].mainTopic2.name }}</a>
-              </div>
+            <li class="nav-item">
+              <a class="nav-link px-3" href="{{ site.baseurl }}{{ site.t[page.lang].mainTopic2.url }}">{{ site.t[page.lang].mainTopic2.name }}</a>
             </li>
             <li class="nav-item">
               <a class="nav-link px-3" href="{{ site.baseurl }}{{ site.t[page.lang].contactPage.url }}">{{ site.t[page.lang].contactPage.name }}</a>
@@ -127,7 +122,7 @@
     <!-- FOOTER MENU BEGIN -->
     <ul class="p-0 mb-1 small">
       <li>
-        <a href="{{site.baseurl}}/{{page.lang}}/">{{site.t[page.lang].homePage.name}}</a>
+        <a href="{{site.baseurl}}{{ site.t[page.lang].aboutPage.url}}">{{ site.t[page.lang].aboutPage.name }}</a>
       </li>
       <li>
         <a href="{{site.baseurl}}{{site.t[page.lang].privacyPolicyPage.url}}">{{site.t[page.lang].privacyPolicyPage.name}}</a>
@@ -141,7 +136,7 @@
     </ul>
     <!-- FOOTER MENU END -->
     <div class="copyright small">
-      Copyright © {{site.copyright_year}} {{site.domain}}. {{site.t[page.lang].siteCopyright}} </div>
+      Copyright © {{site.copyright_year}} <a href="{{site.baseurl}}/{{page.lang}}/">{{site.domain}}</a>. {{site.t[page.lang].siteCopyright}} </div>
   </footer>
 
   <!-- Cookie bar-->

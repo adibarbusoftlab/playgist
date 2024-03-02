@@ -1,7 +1,7 @@
 ---
 layout: page
-title: O nas
-description: "About playgist.com: The website covers Android-related topics, offering tutorials, articles, and tops with apps of interest to visitors."
+title: "O playgist.com"
+description: "Strona ta obejmuje tematy związane z Androidem, oferując poradniki, artykuły oraz zestawy aplikacji, które mogą zainteresować odwiedzających."
 permalink: "/pl/o-nas/"
 lang: pl
 lang-ref: about
