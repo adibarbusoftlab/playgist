@@ -5,14 +5,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="icon" href="{{site.baseurl}}/{{site.favicon}}">
   {% seo %}
-  {% if page.layout != 'index' %}
+
   {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
   {% if posts.size == 0 %}{% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}{% endif %}
   {% if posts.size > 1 %}{% for post in posts %}{% if post.lang != page.lang %}
   <link rel="alternate" hreflang="{{ post.lang }}" href="https://{{site.domain}}{{ site.baseurl }}{{post.url}}" />
   {% endif %}{% endfor %}{% endif %}
-  {% endif %}
-  {% if page.url == "/en/index.html" %}<link rel="canonical" href="/" />{% endif %}
+
+  {% if page.url == "/en/" %}<link rel="canonical" href="/" />{% endif %}
   <link href="{{site.baseurl}}/assets/css/theme.css" rel="stylesheet">
   {% if jekyll.environment == "production" %}
   <script async src="https://www.googletagmanager.com/gtag/js?id={{site.ganalytics}}"></script>
