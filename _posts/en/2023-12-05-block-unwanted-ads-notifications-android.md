@@ -4,7 +4,7 @@ title: "Guide to block unwanted ads and notifications on Android"
 description: "Learn how to turn off unwanted ads and notifications on Android. Configure settings to block spam and avoid malware or scams effectively."
 author: adrian
 categories: [Android, Play Store]
-image: assets/images/posts/en/featured/android-unwanted-ads-and-notifications.png
+image: assets/images/posts/en/featured/android-unwanted-ads-and-notifications.webp
 permalink: /en/block-unwanted-ads-notifications-android/
 lang: en
 lang-ref: block-unwanted-ads-notifications-android

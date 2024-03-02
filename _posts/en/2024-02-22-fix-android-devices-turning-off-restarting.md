@@ -4,7 +4,7 @@ title: "How to fix Android devices that keep turning off or restarting"
 description: "Learn how to troubleshoot and resolve issues with Android devices randomly turning off or restarting. Find effective solutions for various scenarios."
 author: adrian
 categories: [Android]
-image: assets/images/posts/en/featured/fix-android-devices-that-keep-turning-off-or-restarting.png
+image: assets/images/posts/en/featured/fix-android-devices-that-keep-turning-off-or-restarting.webp
 permalink: /en/fix-android-devices-turning-off-restarting/
 lang: en
 lang-ref: fix-android-devices-turning-off-restarting

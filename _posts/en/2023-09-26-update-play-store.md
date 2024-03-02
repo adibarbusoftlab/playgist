@@ -4,7 +4,7 @@ title: "Play Store: automatic update vs. manual update"
 description: "Use the latest version of the Play Store to have full access to existing content. Learn two ways to update: automatic and manual."
 author: adrian
 categories: [Play Store]
-image: assets/images/posts/en/featured/update-play-store.png
+image: assets/images/posts/en/featured/update-play-store.webp
 permalink: /en/play-store-update/
 lang: en
 lang-ref: update-play-store

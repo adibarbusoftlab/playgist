@@ -4,7 +4,7 @@ title: "Android update / upgrade – how to get the latest version"
 description: "Keep your device up-to-date: learn how to update Android from the settings, how to update it manually via a computer, and how to do a full upgrade of the system"
 author: adrian
 categories: [Android]
-image: assets/images/posts/en/featured/update-upgrade-android.png
+image: assets/images/posts/en/featured/update-upgrade-android.webp
 permalink: /en/android-update-upgrade/
 lang: en
 lang-ref: android-update-upgrade

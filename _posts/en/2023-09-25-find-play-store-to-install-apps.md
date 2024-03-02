@@ -4,7 +4,7 @@ title: "Play Store: how to get, use, and install apps and games"
 description: "Play Store usually appears on the main Android screen. Learn how to locate it if you can't find it, how to use it, and how to install apps and games"
 author: adrian
 categories: [Play Store, Android]
-image: assets/images/posts/en/featured/play-store-app.png
+image: assets/images/posts/en/featured/play-store-app.webp
 permalink: /en/find-play-store-to-install-apps/
 lang: en
 lang-ref: google-play-store

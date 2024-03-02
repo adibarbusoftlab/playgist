@@ -4,7 +4,7 @@ title: "Best practices to enhance security for the Play Store and apps"
 description: "Play Store is safe for getting apps, but it's also important to follow basic security tips and add extra protection. See how to enhance your device security."
 author: adrian
 categories: [Play Store, Android]
-image: assets/images/posts/en/featured/secure-apps-and-play-store.png
+image: assets/images/posts/en/featured/secure-apps-and-play-store.webp
 permalink: /en/secure-apps-and-play-store/
 lang: en
 lang-ref: secure-apps-and-play-store

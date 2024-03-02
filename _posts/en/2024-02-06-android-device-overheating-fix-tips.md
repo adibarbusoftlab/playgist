@@ -4,7 +4,7 @@ title: "How to fix Android device overheating and enhance performance"
 description: "Learn how to fix Android device overheating and enhance performance with these tips. Keep your smartphone or tablet running smoothly and efficiently!"
 author: adrian
 categories: [Android]
-image: assets/images/posts/en/featured/fix-android-device-overheating.png
+image: assets/images/posts/en/featured/fix-android-device-overheating.webp
 permalink: /en/android-device-overheating-fix-tips/
 lang: en
 lang-ref: android-device-overheating-fix-tips

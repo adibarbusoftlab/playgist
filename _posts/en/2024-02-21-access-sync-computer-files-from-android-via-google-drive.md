@@ -4,7 +4,7 @@ title: "How to access and sync your computer files from Android devices via Goog
 description: "Learn how to seamlessly access and sync your computer folders using Google Drive on both PC and Android devices, enabling multi-device accessibility."
 author: adrian
 categories: [Android, PC, Apps]
-image: assets/images/posts/en/featured/access-sync-data-on-multiple-devices.png
+image: assets/images/posts/en/featured/access-sync-data-on-multiple-devices.webp
 permalink: /en/access-sync-computer-files-from-android-via-google-drive/
 lang: en
 lang-ref: access-sync-computer-files-from-android-via-google-drive

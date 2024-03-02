@@ -4,7 +4,7 @@ title: "Mastering Parental Controls on Android devices: A comprehensive guide"
 description: "Discover how to implement robust parental controls on Android devices, with our comprehensive guide that empowers parents to ensure a safer online experience for their child."
 author: adrian
 categories: [Android]
-image: assets/images/posts/en/featured/parental-control-on-android-devices-guide.png
+image: assets/images/posts/en/featured/parental-control-on-android-devices-guide.webp
 permalink: /en/parental-control-on-android-devices-guide/
 lang: en
 lang-ref: parental-control-on-android-devices-guide

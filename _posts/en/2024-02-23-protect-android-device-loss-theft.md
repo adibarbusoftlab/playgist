@@ -4,7 +4,7 @@ title: "Protecting your Android device in case of loss or theft"
 description: "Discover vital measures to shield your Android device from loss or theft. Explore effective strategies for data security and enhanced protection."
 author: adrian
 categories: [Android]
-image: assets/images/posts/en/featured/protect-android-device-loss-theft.png
+image: assets/images/posts/en/featured/protect-android-device-loss-theft.webp
 permalink: /en/protect-android-device-loss-theft/
 lang: en
 lang-ref: protect-android-device-loss-theft

@@ -4,7 +4,7 @@ title: "Sikkerhedspraksis for at forbedre Play Butikken og apps"
 description: "Play Butikken er sikker for at downloade apps, men det er også vigtigt at følge grundlæggende sikkerhedstips og tilføje ekstra beskyttelse. Se, hvordan du forbedrer sikkerheden på din enhed."
 author: adrian
 categories: [Play Butik, Android]
-image: assets/images/posts/en/featured/secure-apps-and-play-store.png
+image: assets/images/posts/en/featured/secure-apps-and-play-store.webp
 permalink: /da/play-butik-apps-sikkerhedspraksis/
 lang: da
 lang-ref: secure-apps-and-play-store

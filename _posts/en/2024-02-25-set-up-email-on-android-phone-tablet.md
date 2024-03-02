@@ -4,7 +4,7 @@ title: "How to set up email on an Android phone or tablet"
 description: "Discover how to set up and access email on your Android phone or tablet. Learn to configure accounts, check your inbox, and manage emails easily"
 author: adrian
 categories: [Android]
-image: assets/images/posts/en/featured/email-on-android-phone-or-tablet.png
+image: assets/images/posts/en/featured/email-on-android-phone-or-tablet.webp
 permalink: /en/set-up-email-on-android-phone-or-tablet/
 lang: en
 lang-ref: set-up-email-on-android-phone-or-tablet

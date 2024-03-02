@@ -4,7 +4,7 @@ title: "Play Store: download and install it on your device for free"
 description: "You need to download and install Play Store when the app stops working or doesn't exist on your Android device. Here's what you need to do to get it for free!"
 author: adrian
 categories: [Play Store]
-image: assets/images/posts/en/featured/download-and-install-play-store.png
+image: assets/images/posts/en/featured/download-and-install-play-store.webp
 permalink: /en/download-and-install-play-store/
 lang: en
 lang-ref: download-play-store

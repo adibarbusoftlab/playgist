@@ -4,7 +4,7 @@ title: "3 ways to check Android device hardware and software information"
 description: "Learn how to find Android smartphone or tablet specs: use OS settings, check original box, check online sources, or try dedicated apps."
 author: adrian
 categories: [Android, Apps]
-image: assets/images/posts/en/featured/android-hardware-software-information.png
+image: assets/images/posts/en/featured/android-hardware-software-information.webp
 permalink: /en/check-android-hardware-software-information/
 lang: en
 lang-ref: check-android-hardware-software-information

@@ -4,7 +4,7 @@ title: "How to make your Android phone / tablet faster"
 description: "Discover essential tips to make your Android phone / tablet faster. Learn how to speed up your device and keep it clean and efficient for optimal functionality."
 author: adrian
 categories: [Android]
-image: assets/images/posts/en/featured/boost-android-performance.png
+image: assets/images/posts/en/featured/boost-android-performance.webp
 permalink: /en/make-android-faster/
 lang: en
 lang-ref: make-android-faster

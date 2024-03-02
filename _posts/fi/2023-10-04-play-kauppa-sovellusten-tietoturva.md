@@ -4,7 +4,7 @@ title: "Parhaat käytännöt Play Kaupan ja sovellusten turvallisuuden parantami
 description: "Google Play -sovelluskauppa on turvallinen sovellusten hankkimiseen, mutta on myös tärkeää noudattaa perusvarotoimia ja lisätä ylimääräistä suojaa. Katso, miten voit tehostaa laitteesi tietoturvaa."
 author: adrian
 categories: [Play Kauppa, Android]
-image: assets/images/posts/en/featured/secure-apps-and-play-store.png
+image: assets/images/posts/en/featured/secure-apps-and-play-store.webp
 permalink: /fi/play-kauppa-sovellusten-tietoturva/
 lang: fi
 lang-ref: secure-apps-and-play-store
