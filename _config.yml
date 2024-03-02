@@ -101,6 +101,8 @@ t:
     searchPageTitle: "Search results page"
     searchPageLoading: "The search results page is being generated..."
     searchPageURL: "/search-page/"
+    page_not_found_title: "Page Not Found"
+    page_not_found_message: "The page you are looking for could not be found. Please check the URL or return to the homepage."
   ro:
     latestPosts: "ULTIMELE POSTĂRI"
     adsTitle: "Anunțuri sponsorizate"
@@ -152,6 +154,8 @@ t:
     searchPageTitle: "Pagină cu rezultatele de căutare"
     searchPageLoading: "Pagina cu rezultatele de căutare este în curs de generare..."
     searchPageURL: "/pagina-cautare/"
+    page_not_found_title: "Pagina nu a fost găsită"
+    page_not_found_message: "Pagina pe care o căutați nu poate fi găsită. Vă rugăm să verificați URL-ul sau să reveniți la pagina principală."
   fi:
     latestPosts: "UUSIMMAT ARTIKKELIT"
     adsTitle: "Sponsoroidut mainokset"
@@ -203,6 +207,8 @@ t:
     searchPageTitle: "Hakutulossivu"
     searchPageLoading: "Hakutulossivua luodaan..."
     searchPageURL: "/hakutulossivu/"
+    page_not_found_title: "Sivua ei löytynyt"
+    page_not_found_message: "Etsimääsi sivua ei löytynyt. Tarkista URL-osoite tai palaa etusivulle."
   pl:
     latestPosts: "NAJNOWSZE WPISY"
     adsTitle: "Sponsorowane reklamy"
@@ -254,6 +260,8 @@ t:
     searchPageTitle: "Strona wyników wyszukiwania"
     searchPageLoading: "Trwa generowanie strony wyników wyszukiwania..."
     searchPageURL: "/strona-wyszukiwania/"
+    page_not_found_title: "Nie znaleziono strony"
+    page_not_found_message: "Strona, której szukasz, nie została znaleziona. Sprawdź adres URL lub wróć do strony głównej."
   da:
     latestPosts: "Seneste indlæg"
     adsTitle: "Sponsorede annoncer"
@@ -305,6 +313,8 @@ t:
     searchPageTitle: "Søgeresultatside"
     searchPageLoading: "Søgeresultatsiden er ved at blive genereret..."
     searchPageURL: "/søgeresultatside/"
+    page_not_found_title: "Siden blev ikke fundet"
+    page_not_found_message: "Den side, du leder efter, blev ikke fundet. Kontroller URL'en, eller gå tilbage til hjemmesiden."
   hu:
     latestPosts: "LEGÚJABB BEJEGYZÉSEK"
     adsTitle: "Támogatott hirdetések"
@@ -356,6 +366,8 @@ t:
     searchPageTitle: "Keresési eredmények oldal"
     searchPageLoading: "A keresési eredmények oldala készül..."
     searchPageURL: "/keresesi-eredmeny-oldal/"
+    page_not_found_title: "Az oldal nem található"
+    page_not_found_message: "Az általad keresett oldal nem található. Kérjük, ellenőrizd az URL-t vagy térj vissza a főoldalra."
 
 ad_post_first_temp: "<img alt=\"Ads section\" class=\"mx-auto d-block\" src=\"/assets/images/ad_header2.png\">"
 

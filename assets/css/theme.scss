@@ -885,3 +885,24 @@ span.navigation:before {
 }
 
 // End Modal Search Form
+
+// Start Page not found error
+
+.error-404 {
+    text-align: center !important;
+}
+
+.error-404 h1 {
+    color: #ca2129;
+}
+
+.error-404 img {
+    max-height: 400px;
+    margin: 10px 5px 20px;
+}
+
+.error-404 p {
+    font-weight: bold;
+}
+
+// End Page not found error

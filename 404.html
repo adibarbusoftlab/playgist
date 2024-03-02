@@ -1,33 +1,19 @@
 ---
 layout: default
-message_intro: 404
 permalink: /404.html
 lang: en
 ---
 
-<script>
-var pathParts = window.location.pathname.split('/');
+<div class="error-404">
 
-var message_intro = "";
-var message_content = "";
+    <h1 class="display-4 mt-4 mb-4">
+        {{ site.t[page.lang].page_not_found_title }}
+    </h1>
 
-if(pathParts[1] == "ro")
-{
-message_intro = "Conținut inexistent!";
-message_content = 'Conținutul accesat nu există. Revino la <u><a href="{{site.baseurl}}/ro/">pagina principală</a></u>!';
-}
-else
-{
-message_intro = "Non existing content!";
-message_content = 'The accessed content does not exist. Return to the <u><a href="{{site.baseurl}}/">homepage</a></u>!';
-}
-</script>
+    <img src="{{site.baseurl}}/assets/images/404-not-found-error.png">
 
-<div class="text-center">
+    <p>
+        {{ site.t[page.lang].page_not_found_message }}
+    </p>
 
-<h1 class="display-4 mt-4 mb-4"><script> document.write(message_intro)</script><noscript>Page not found!</noscript></h1>
-<img src="{{site.baseurl}}/assets/images/404-not-found-error.png">
-<p><script> document.write(message_content)</script><noscript> Return to the <a href="{{site.baseurl}}">homepage</a>!</noscript></p>
 </div>
-
-
