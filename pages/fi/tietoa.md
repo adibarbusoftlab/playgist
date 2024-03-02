@@ -7,36 +7,24 @@ lang: fi
 lang-ref: about
 ---
 
-Tämä verkkosivusto on omistettu kolmen pääaiheen tutkimiseen ja tiedon jakamiseen, joihin olemme intohimoisesti omistautuneita:
+Löydä oppaita, opetusohjelmia, arvosteluja ja käytännön vinkkejä Android-kokemuksesi ja sovellustesi käytön optimoimiseksi.
 
-## 1. Opastusta ja hyödyllistä tietoa Androidista
+***Tutustu kokoelmaamme Android-opetusohjelmia***, jotka kattavat kaiken järjestelmäpäivityksistä sovellusten hallintaan.
 
-- Kuinka päivittää Android-käyttöjärjestelmä
-- Kuinka palauttaa laitteesi tehdasasetukset
-- Kuinka asentaa ja hallita sovelluksia laitteellasi
+***Tehosta kokemustasi Google Play -kaupassa***, Android-sovellusten keskuksessa, ja opi navigoimaan ja maksimoimaan sen potentiaali.
 
-## 2. Opastusta ja hyödyllistä tietoa Google Play -kauppasovelluksesta
-
-- Mistä löydät Google Play -kaupan
-- Kuinka ladata ja asentaa Google Play -kauppa
-- Kuinka päivittää Google Play -kauppa
-- Kuinka asentaa sovellus, joka ei ole saatavilla Google Play -kaupassa
-- Vaihtoehtoja Google Play -kaupalle ei-Android-laitteita varten
-
-## 3. Parasta tietoa Android-sovelluksista
-
-- Välttämättömiä sovelluksia laitteellesi
-- Suosituimmat ja trendikkäimmät sovellukset ja pelit
-- Arvosteluja Android-sovelluksista ja peleistä
+***Tutustu valikoimaamme parhaita Android-sovelluksia ja pelejä***, jotka on valittu tehostamaan tuottavuuttasi, mukavuuttasi ja Android-kokemuksesi iloa.
 
 ## Käytännöt ja tekijänoikeus
 
-Sivuston käyttäjät ovat täysin vastuussa sivustolla olevien tietojen käytöstä, ja tämä tarkoittaa niiden käyttämistä omalla vastuullaan.
+1. ***Meillä ei ole kumppanuuksia tai yhteyksiä Googlen, Androidin tai minkään muun tuotteen, alustan tai palvelun kanssa***. Mahdolliset kumppanuudet tai yhteydet ilmoitetaan nimenomaisesti.
 
-Tällä sivustolla käytetään erilaisia resursseja, mukaan lukien kuvia ja videoita, sisällön rikastamiseksi ja tarjotaksemme miellyttävän visuaalisen kokemuksen käyttäjillemme. On tärkeää mainita seuraavat seikat:
-- Osa tämän sivuston käyttämistä kuvista on peräisin [www.pixabay.com](https://pixabay.com/) -alustalta. Pixabay tarjoaa korkealaatuisen kuvakokoelman, joka on vapaasti käytettävissä, mukaan lukien kaupallisiin tarkoituksiin. Näitä kuvia käytetään Pixabayn määrittelemien käyttöehtojen mukaisesti.
-- Tietyt kuvat voivat sisältää grafiikkaa, joka liittyy joihinkin tuotteisiin tai palveluihin. Kaikki tavaramerkit kuuluvat niiden omistajille, eikä ole mitään implisiittistä yhteyttä tai kumppanuutta näiden tuotteiden tai palveluiden tarjoajien kanssa, ellei sitä ole nimenomaisesti mainittu.
+2. Sivuston käyttäjät ovat täysin vastuussa sivustolla olevien tietojen käytöstä, ja tämä tarkoittaa niiden käyttämistä omalla vastuullaan.
 
-Tämä sivusto käyttää evästeitä. Voit lukea evästekäytäntömme [täältä]({{site.baseurl}}{{site.t[page.lang].cookiePolicyPage.url}}).
+3. Tällä sivustolla käytetään erilaisia resursseja, mukaan lukien kuvia ja videoita, sisällön rikastamiseksi ja tarjotaksemme miellyttävän visuaalisen kokemuksen käyttäjillemme. On tärkeää mainita seuraavat seikat:
+    - Osa tämän sivuston käyttämistä kuvista on peräisin [www.pixabay.com](https://pixabay.com/) -alustalta. Pixabay tarjoaa korkealaatuisen kuvakokoelman, joka on vapaasti käytettävissä, mukaan lukien kaupallisiin tarkoituksiin. Näitä kuvia käytetään Pixabayn määrittelemien käyttöehtojen mukaisesti.
+    - Tietyt kuvat voivat sisältää grafiikkaa, joka liittyy joihinkin tuotteisiin tai palveluihin. Kaikki tavaramerkit kuuluvat niiden omistajille, eikä ole mitään implisiittistä yhteyttä tai kumppanuutta näiden tuotteiden tai palveluiden tarjoajien kanssa, ellei sitä ole nimenomaisesti mainittu.
 
-Kaikki kerätyt henkilötiedot noudattavat [tässä]({{site.baseurl}}{{site.t[page.lang].privacyPolicyPage.url}}) määriteltyjä suojasääntöjä.
+4. Tämä sivusto käyttää evästeitä. Voit lukea evästekäytäntömme [täältä]({{site.baseurl}}{{site.t[page.lang].cookiePolicyPage.url}}).
+
+5. Kaikki kerätyt henkilötiedot noudattavat [tässä]({{site.baseurl}}{{site.t[page.lang].privacyPolicyPage.url}}) määriteltyjä suojasääntöjä.

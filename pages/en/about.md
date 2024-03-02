@@ -7,7 +7,7 @@ lang: en
 lang-ref: about
 ---
 
-Discover insights, guides, tutorials, reviews, and practical tips to optimize your Android experience and apps usage.
+Discover guides, tutorials, reviews, and practical tips to optimize your Android experience and apps usage.
 
 ***Explore our collection of Android tutorials***, covering everything from system updates to app management.
 
