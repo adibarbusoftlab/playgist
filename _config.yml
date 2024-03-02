@@ -91,6 +91,9 @@ t:
     mainTopic2:
       name: "Play Store"
       url: "/en/categories/play-store"
+    mainTopic3:
+      name: "Apps & Games"
+      url: "/en/categories/apps"
     newer_posts: "Newer Posts"
     older_posts: "Older Posts"
     searchMenuPlaceholder: "Search.."
