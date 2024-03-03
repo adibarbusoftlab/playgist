@@ -4,7 +4,7 @@ title: "Sklep Play: aktualizacja automatyczna a aktualizacja ręczna"
 description: "Korzystaj z najnowszej wersji Sklepu Play, aby mieć pełny dostęp do istniejącej zawartości. Dowiedz się, jak zaktualizować automatycznie i ręcznie."
 author: adrian
 categories: [Sklep Play]
-image: assets/images/posts/pl/aktualizacja-sklep-play/aktualizacja-sklep-play_featured.png
+image: assets/images/posts/pl/aktualizacja-sklep-play/aktualizacja-sklep-play_featured.webp
 permalink: /pl/aktualizacja-sklepu-play/
 lang: pl
 lang-ref: update-play-store
@@ -32,15 +32,15 @@ Przed szczegółowym opisem procesu aktualizacji ważne jest zrozumienie różni
 Najprostszym sposobem aktualizowania Sklepu Play jest bezpośrednie użycie aplikacji. Oto kroki:
 
 1. Otwórz aplikację Sklepu Play i przejdź do menu z opcjami konta. (Na starszych urządzeniach dostęp odbywa się za pośrednictwem przycisku przedstawionego przez trzy poziome linie umieszczone w lewym górnym rogu ekranu.)
-<img alt="Dostęp do ustawień aktualizacji Sklepu Play" title="Dostęp do ustawień aktualizacji Sklepu Play" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/pl/aktualizacja-sklep-play/ustawienia-aktualizacji-dostepu-do-sklepu-play.jpg">
+<img alt="Dostęp do ustawień aktualizacji Sklepu Play" title="Dostęp do ustawień aktualizacji Sklepu Play" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/pl/aktualizacja-sklep-play/ustawienia-aktualizacji-dostepu-do-sklepu-play.webp">
 
 2. Przewiń w dół do sekcji „Informacje”, gdzie znajdziesz informacje o bieżącej wersji Sklepu Google Play. Dotknij ***„Zaktualizuj Sklep Play”***, aby rozpocząć wyszukiwanie nowych dostępnych wersji.
-<img alt="Aktualizacja za pomocą aplikacji Sklepu Play" title="Aktualizacja za pomocą aplikacji Sklepu Play" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/pl/aktualizacja-sklep-play/aktualizacja-sklepu-play.jpg">
+<img alt="Aktualizacja za pomocą aplikacji Sklepu Play" title="Aktualizacja za pomocą aplikacji Sklepu Play" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/pl/aktualizacja-sklep-play/aktualizacja-sklepu-play.webp">
 
 3. Jeśli jest dostępna nowsza wersja, pojawi się powiadomienie, a Ty musisz nacisnąć „Zainstaluj”, aby rozpocząć aktualizację. Ważne jest, aby mieć stabilne połączenie internetowe, najlepiej poprzez Wi-Fi, aby proces aktualizacji przebiegał płynnie.
 
 4. Jeśli masz już najnowszą wersję, otrzymasz powiadomienie o braku dostępnych aktualizacji.
-<img alt="Aplikacja Sklepu Google Play jest zaktualizowana" title="Aplikacja Sklepu Google Play jest zaktualizowana" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/pl/aktualizacja-sklep-play/aplikacja-sklepu-play-jest-aktualizowana.jpg.jpg">
+<img alt="Aplikacja Sklepu Google Play jest zaktualizowana" title="Aplikacja Sklepu Google Play jest zaktualizowana" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/pl/aktualizacja-sklep-play/aplikacja-sklepu-play-jest-aktualizowana.webp.webp">
 
 ## Metoda 2: Ręczne aktualizowanie Sklepu Play za pomocą pliku APK
 

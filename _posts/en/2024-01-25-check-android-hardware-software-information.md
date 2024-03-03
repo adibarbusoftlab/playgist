@@ -28,11 +28,11 @@ Within this menu, you'll encounter an extensive list of information categorized 
 - ***Software Information***: Baseband version, Android version, kernel number, Service provider software version, security software version, Android security patch level.
 - ***Battery Information***: Battery status (plugged or unplugged), battery level, battery capacity.
 
-<img alt="Device specs in Android OS" title="Device specs in Android OS" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/android-hardware-software-information/android-device-information-through-settings.jpg">
+<img alt="Device specs in Android OS" title="Device specs in Android OS" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/android-hardware-software-information/android-device-information-through-settings.webp">
 
 While certain details like internal memory, storage memory, and CPU specifics may not be visible in this menu, you can find them by navigating to ***Settings > Device care / Battery and device care***. From there, explore the available options to access hardware information about the battery, used and available storage capacity, as well as used and available internal memory capacity and more.
 
-<img alt="Memory device specs in Android OS" title="Memory device specs in Android OS" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/android-hardware-software-information/android-device-care-hardware-information.jpg">
+<img alt="Memory device specs in Android OS" title="Memory device specs in Android OS" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/android-hardware-software-information/android-device-care-hardware-information.webp">
 
 ## 2. Search for the hardware specs on the original box of the device or online
 
@@ -46,7 +46,7 @@ To conduct an effective search, you'll need the exact product name of the device
 
 Keep in mind that there may be variations in certain capabilities of the device, such as RAM and storage capacity, CPU chipset, and other hardware specifications.
 
-<img alt="Android device specs in an online catalog" title="Android device specs in an online catalog" loading="lazy" class="article-image" src="{{site.baseurl}}/assets/images/posts/en/android-hardware-software-information/find-android-device-specs-online.PNG">
+<img alt="Android device specs in an online catalog" title="Android device specs in an online catalog" loading="lazy" class="article-image" src="{{site.baseurl}}/assets/images/posts/en/android-hardware-software-information/find-android-device-specs-online.webp">
 
 ## 3. Install a third-party app for checking device specs
 
@@ -59,7 +59,7 @@ To get started:
 - Search for your desired app.
 - Install and launch the app to gather complete specs of your device.
 
-<img alt="Android device specs in CPU-Z" title="Android device specs in CPU-Z" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/android-hardware-software-information/android-device-information-application.jpg">
+<img alt="Android device specs in CPU-Z" title="Android device specs in CPU-Z" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/android-hardware-software-information/android-device-information-application.webp">
 
 <div class="post-bottom-stars">***</div>
 

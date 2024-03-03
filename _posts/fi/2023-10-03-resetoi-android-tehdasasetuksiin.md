@@ -4,7 +4,7 @@ title: "Puhelimen / tabletin nollaus - kuinka palauttaa Android tehdasasetuksiin
 description: "Tehdasasetuksiin palautus suoritetaan, kun Android toimii virheellisesti tai kun haluat poistaa kaiken datan pysyvästi. Tutustu kahteen palautusmenetelmään."
 author: adrian
 categories: [Android]
-image: assets/images/posts/fi/nollaa-android/nollaa-android-tehdasasetuksiin_featured.png
+image: assets/images/posts/fi/nollaa-android/nollaa-android-tehdasasetuksiin_featured.webp
 permalink: /fi/resetoi-android-tehdasasetuksiin/
 lang: fi
 lang-ref: reset-android-to-factory-settings
@@ -40,7 +40,7 @@ Yksinkertaisin tapa aloittaa laitteen palautus on käyttää nollausvaihtoehtoa 
 
 Tehdasasetusten palautusvalikon sijainti vaihtelee laitteen valmistajan ja Android-version mukaan. Siksi nopein tapa löytää nollausvalikko on suorittaa haku, kuten "nollaus" tai "tyhjennys", asetusvalikossa.
 
-<img alt="Etsi palautus tehdasasetuksiin Androidissa" title="Etsi palautus tehdasasetuksiin Androidissa" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/nollaa-android/etsi-nollausvalikkoa-androidista.jpg">
+<img alt="Etsi palautus tehdasasetuksiin Androidissa" title="Etsi palautus tehdasasetuksiin Androidissa" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/nollaa-android/etsi-nollausvalikkoa-androidista.webp">
 
 Yleisiä tapoja päästä käsiksi nollausvaihtoehtoihin ovat:
 - Asetukset → Yleinen hallinta → Nollaa → Tehdasasetusten palautus
@@ -54,24 +54,24 @@ Yleisiä tapoja päästä käsiksi nollausvaihtoehtoihin ovat:
 
 Ennen kuin suoritat tehdasasetusten palautuksen, voit harkita vaihtoehtoisia nollausvaihtoehtoja, kuten "Nollaa kaikki asetukset", "Nollaa verkkosäädöt" ja "Nollaa saavutettavuusasetukset".
 
-<img alt="Vaihtoehdot Android-laitteen palauttamiseen" title="Vaihtoehdot Android-laitteen palauttamiseen" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/nollaa-android/nollaa-valinnat.jpg">
+<img alt="Vaihtoehdot Android-laitteen palauttamiseen" title="Vaihtoehdot Android-laitteen palauttamiseen" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/nollaa-android/nollaa-valinnat.webp">
 
 Nämä vaihtoehdot mahdollistavat usein laitteesi tiettyjen asetusten nollaamisen ilman, että kaikki tietosi poistetaan. Tutustu näihin vaihtoehtoihin, jos täydellinen tehdasasetusten palautus ei ole tarpeen sinun tilanteessasi.
 
 Nollaa kaikki asetukset:
-<img alt="Asetusten palautus oletusarvoihin" title="Asetusten palautus oletusarvoihin" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/nollaa-android/nollaa-kaikki-asetukset.jpg">
+<img alt="Asetusten palautus oletusarvoihin" title="Asetusten palautus oletusarvoihin" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/nollaa-android/nollaa-kaikki-asetukset.webp">
 
 Nollaa verkkosäädöt:
-<img alt="Verkkosäätöjen palautus oletusarvoihin" title="Verkkosäätöjen palautus oletusarvoihin" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/nollaa-android/nollaa-verkkoasetukset.jpg">
+<img alt="Verkkosäätöjen palautus oletusarvoihin" title="Verkkosäätöjen palautus oletusarvoihin" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/nollaa-android/nollaa-verkkoasetukset.webp">
 
 Nollaa saavutettavuusasetukset:
-<img alt="Saavutettavuusasetusten palautus oletusarvoihin" title="Saavutettavuusasetusten palautus oletusarvoihin" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/nollaa-android/nollaa-saavutettavuusasetukset.jpg">
+<img alt="Saavutettavuusasetusten palautus oletusarvoihin" title="Saavutettavuusasetusten palautus oletusarvoihin" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/nollaa-android/nollaa-saavutettavuusasetukset.webp">
 
 ### 3. Tehdasasetusten palauttaminen
 
 Valitse Tehdasasetusten palautus, tarkista luettelo tiedoista, jotka poistetaan puhelimen sisäisestä muistista (kuten alla näytetään), ja napauta sitten "Palauta".
 
-<img alt="Tiedot poistuvat tehdasasetuksia nollatessa" title="Tiedot poistuvat tehdasasetuksia nollatessa" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/nollaa-android/poistettu-data-tehdasasetusten-nollaus.jpg">
+<img alt="Tiedot poistuvat tehdasasetuksia nollatessa" title="Tiedot poistuvat tehdasasetuksia nollatessa" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/nollaa-android/poistettu-data-tehdasasetusten-nollaus.webp">
 
 Vahvista nollausoperaatio painamalla "Tyhjennä kaikki" -painiketta.
 

@@ -18,10 +18,10 @@ Find out everything you need to know about the Play Store app: how to find the a
 
 You can usually find a shortcut to the Play Store on your device's home screen. To identify it, look for the Google Play logo as shown in the image below.
 
-<img alt="Look for Play Store on the home screen in Android" title="Look for Play Store on the home screen in Android" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-app/play-store-on-the-main-screen.jpg">
+<img alt="Look for Play Store on the home screen in Android" title="Look for Play Store on the home screen in Android" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-app/play-store-on-the-main-screen.webp">
 
 In case the Play Store app does not appear on the main screen, the user has to search for it. From the Apps screen, go to the Search icon and enter Play Store. If the application exists, it will appear in the search results.
-<img alt="Search for Play Store on the home screen in Android" title="Search for Play Store on the home screen in Android" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-app/search-play-store-main-screen.jpg">
+<img alt="Search for Play Store on the home screen in Android" title="Search for Play Store on the home screen in Android" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-app/search-play-store-main-screen.webp">
 
 ***Mentions about Play Store***:
 - The application has several names, depending on the device manufacturer, the system language, and the Android version. If the system language is English, the usual names are "Google Play", "Play Store", and "Google Play Store", but the name may differ depending on the language in which the device is set.
@@ -34,12 +34,12 @@ Haven't you found Google Play? Here's what you can do about it:
 If you do not find the application, the first thing you need to do is to **restart the device**, then check if it's installed and turned on.
 
 Go to ***Settings → Apps*** and search for the Google Play Store app in the list with apps.
-<img alt="Play Store location in the list with apps" title="Play Store location in the list with apps" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-app/play-store-in-apps-list.jpg">
+<img alt="Play Store location in the list with apps" title="Play Store location in the list with apps" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-app/play-store-in-apps-list.webp">
 
 If there's no any application with this name, then you will have to get the Play Store and install it on your phone / tablet - see below.
 
 However, if the application appears in the list, then you have to make sure that it's also enabled. Access the application properties, and if disabled, activate it by pressing the Enable button.
-<img alt="Activate Play Store on the device" title="Activate Play Store on the device" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-app/activate-play-store-app.jpg">
+<img alt="Activate Play Store on the device" title="Activate Play Store on the device" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-app/activate-play-store-app.webp">
 
 Restart the device and see if the application appears in the menu with Android apps.
 
@@ -54,7 +54,7 @@ If the application appears to be installed but you cannot find it anywhere for a
 ## How to use Google Play
 
 ***To use the application, you need a Google account***. Once accessed, this allows you to install apps and games, and also to access and download digital content - see in the image below what the main screen of the application looks like.
-<img alt="The Play Store screen after accessing it" title="The Play Store screen after accessing it" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-app/play-store-main-screen.jpg">
+<img alt="The Play Store screen after accessing it" title="The Play Store screen after accessing it" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-app/play-store-main-screen.webp">
 
 Regarding the apps and games for Android, there is a high level of confidence about content security, which is tested against viruses and malicious actions. This aspect is not valid when downloading them from the Internet, from sources that are not as secure as Google store.
 

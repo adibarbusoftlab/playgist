@@ -4,7 +4,7 @@ title: "Play Kauppa: lataa ja asenna se laitteeseesi ilmaiseksi"
 description: "Sinun on ladattava ja asennettava Play Kauppa, kun sovellus lakkaa toimimasta tai sitä ei ole olemassa Android-laitteellasi. Tässä on mitä sinun on tehtävä saadaksesi sen ilmaiseksi!"
 author: adrian
 categories: [Play Kauppa]
-image: assets/images/posts/fi/lataa-asenna-play-kauppa/lataa-ja-asenna-play-kauppa_featured.png
+image: assets/images/posts/fi/lataa-asenna-play-kauppa/lataa-ja-asenna-play-kauppa_featured.webp
 permalink: /fi/lataa-ja-asenna-play-kauppa/
 lang: fi
 lang-ref: download-play-store
@@ -18,15 +18,15 @@ Tässä opetuksessa opit mistä voit ladata Play Kauppa -sovelluksen ja mitä si
 
 Oletuksena Androidin tietoturva-asetukset estävät sovellusten tai pelien asentamisen tuntemattomista tai luvattomista lähteistä. Saat viestin, kuten alla oleva.
 
-<img alt="Puuttuva lupa asentaa sovelluksia tuntemattomista lähteistä" title="Puuttuva lupa asentaa sovelluksia tuntemattomista lähteistä" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/fi/lataa-asenna-play-kauppa/virhe-asennettaessa-tuntemattomasta-lahdeesta.jpg">
+<img alt="Puuttuva lupa asentaa sovelluksia tuntemattomista lähteistä" title="Puuttuva lupa asentaa sovelluksia tuntemattomista lähteistä" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/fi/lataa-asenna-play-kauppa/virhe-asennettaessa-tuntemattomasta-lahdeesta.webp">
 
 Sinun on muutettava asetusta voidaksesi asentaa kolmannen osapuolen sovelluksia, jotka eivät ole Play Kaupasta.
 
 Mene ***Asetukset → Sovellukset → Erikoiskäyttö***.
-<img alt="Pääsy valikkoon tuntemattomista lähteistä asentamisen aktivoimiseksi" title="Pääsy valikkoon tuntemattomista lähteistä asentamisen aktivoimiseksi" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/lataa-asenna-play-kauppa/asetukset-tuntemattomista-lahdeista-asentamisen-mahdollistamiseksi.jpg">
+<img alt="Pääsy valikkoon tuntemattomista lähteistä asentamisen aktivoimiseksi" title="Pääsy valikkoon tuntemattomista lähteistä asentamisen aktivoimiseksi" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/lataa-asenna-play-kauppa/asetukset-tuntemattomista-lahdeista-asentamisen-mahdollistamiseksi.webp">
 
 Siirry kohtaan ***"Asenna tuntemattomia sovelluksia"*** ja ota valinnaksi ***"Omat tiedostot"***.
-<img alt="Ota käyttöön sovellusten asentaminen tuntemattomista " title="Ota käyttöön sovellusten asentaminen tuntemattomista " loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/lataa-asenna-play-kauppa/mahdollista-apk-asennus-tuntemattomista-lahdeista.jpg">
+<img alt="Ota käyttöön sovellusten asentaminen tuntemattomista " title="Ota käyttöön sovellusten asentaminen tuntemattomista " loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/lataa-asenna-play-kauppa/mahdollista-apk-asennus-tuntemattomista-lahdeista.webp">
 
 ## 2. Lataa Google Play Kauppa APK-tiedostona
 
@@ -34,11 +34,11 @@ Sivustolla apkmirror.com löydät laajan valikoiman Android-sovelluksia, jotka v
 
 Löydät lataussivun Google Play Kaupalle [täältä](https://www.apkmirror.com/apk/google-inc/google-play-store/). Lataa yksinkertaisesti uusin versio, joka on yhteensopiva laitteesi kanssa seuraamalla alla olevia vaiheita.
 
-<img alt="Play Kauppa .apk-tiedoston lataus" title="Play Kauppa .apk-tiedoston lataus" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/lataa-asenna-play-kauppa/lataa-play-kauppa.jpg">
+<img alt="Play Kauppa .apk-tiedoston lataus" title="Play Kauppa .apk-tiedoston lataus" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/lataa-asenna-play-kauppa/lataa-play-kauppa.webp">
 
 Sitten vahvista tiedoston lataus:
 
-<img alt="Play Kauppa latauksen vahvistus" title="Play Kauppa latauksen vahvistus" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/fi/lataa-asenna-play-kauppa/play-kauppa-latauksen-vahvistus.jpg">
+<img alt="Play Kauppa latauksen vahvistus" title="Play Kauppa latauksen vahvistus" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/fi/lataa-asenna-play-kauppa/play-kauppa-latauksen-vahvistus.webp">
 
 
 Jos laitteellesi ei ole yhteensopivaa versiota saatavilla, voit valita asentaa Google Play -palvelut, joka sisältää myös Google Play Kaupan.
@@ -47,7 +47,7 @@ Jos laitteellesi ei ole yhteensopivaa versiota saatavilla, voit valita asentaa G
 
 Asentaaksesi sovelluksen, siirry Android-laitteesi Lataukset-kansioon ja avaa tiedosto, joka sisältää Google Play Kauppa -sovelluksen (.apk-tiedostopääte). Asennusikkuna avautuu — paina Asenna tai Päivitä-painiketta tarpeen mukaan.
 
-<img alt="Asenna Play Kauppa Android-laitteellesi" title="Asenna Play Kauppa Android-laitteellesi" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/fi/lataa-asenna-play-kauppa/asenna-play-kauppa-apk.jpg">
+<img alt="Asenna Play Kauppa Android-laitteellesi" title="Asenna Play Kauppa Android-laitteellesi" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/fi/lataa-asenna-play-kauppa/asenna-play-kauppa-apk.webp">
 
 Odota, että prosessi on valmis, sulje ikkuna painamalla Valmis tai käynnistä Play Kauppa välittömästi valitsemalla Avaa.
 

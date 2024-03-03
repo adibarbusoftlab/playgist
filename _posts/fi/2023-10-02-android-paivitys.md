@@ -4,7 +4,7 @@ title: "Android-päivitys - miten saat uusimman version"
 description: "Pitäkää laitteenne ajan tasalla: Opettele, miten päivittää Android asetuksista, miten päivittää se manuaalisesti tietokoneen avulla ja miten suorittaa täysi järjestelmän päivitys."
 author: adrian
 categories: [Android]
-image: assets/images/posts/fi/paivita-android/paivita-android_featured.jpg
+image: assets/images/posts/fi/paivita-android/paivita-android_featured.webp
 permalink: /fi/android-paivitys/
 lang: fi
 lang-ref: android-update-upgrade
@@ -48,10 +48,10 @@ Erittäin tärkeät huomiot:
 Jos puhelimesi tai tablettisi on käytettävissä, sen päivittäminen on suoraviivainen prosessi, joka voidaan tehdä suoraan järjestelmästä.
 
 Mene 'Asetukset'-valikkoon, valitse 'Tietoja puhelimesta' tai 'Tietoja tabletista' ja napauta sitten 'Ohjelmistopäivitys'.
-<img alt="Android-päivityksen asetusten avaaminen" title="Android-päivityksen asetusten avaaminen" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/paivita-android/android-paivityksen-asetusten-avaaminen.jpg">
+<img alt="Android-päivityksen asetusten avaaminen" title="Android-päivityksen asetusten avaaminen" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/paivita-android/android-paivityksen-asetusten-avaaminen.webp">
 
 Napauta "Lataa ja asenna" aloittaaksesi uuden Android-version tarkistamisen.
-<img alt="Android-päivityksen aloittaminen" title="Android-päivityksen aloittaminen" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/paivita-android/android-ohjelmistopaivitys.jpg">
+<img alt="Android-päivityksen aloittaminen" title="Android-päivityksen aloittaminen" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/paivita-android/android-ohjelmistopaivitys.webp">
 
 Jos uudempi versio on saatavilla, ikkuna ilmestyy, ja sinun annetaan ladata uusin versio. Klikkaa 'Päivitä'-painiketta ja odota latauksen valmistumista.
 

@@ -4,7 +4,7 @@ title: "Play Butik: automatisk opdatering vs. manuel opdatering"
 description: "Brug den nyeste version af Play Butikken for at have fuld adgang til det eksisterende indhold. Lær to måder at opdatere på: automatisk og manuelt."
 author: adrian
 categories: [Play Butik]
-image: assets/images/posts/dk/opdater-play-butik/opdater-play-butik.png
+image: assets/images/posts/dk/opdater-play-butik/play-butik-opdatering.webp
 permalink: /da/play-butik-opdatering/
 lang: da
 lang-ref: update-play-store
@@ -34,15 +34,15 @@ Før vi går i detaljer med opdateringsprocessen, er det vigtigt at forstå fors
 Den nemmeste måde at opdatere Play Butikken på er direkte gennem applikationen. Her er trinene:
 
 1. Åbn Play Butik-appen og få adgang til menu med kontoens indstillinger. På ældre enheder sker adgangen via knappen repræsenteret af tre vandrette linjer placeret i øverste venstre hjørne af skærmen.
-   <img alt="Få adgang til indstillingerne for Play Butik-opdateringer" title="Få adgang til indstillingerne for Play Butik-opdateringer" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/dk/opdater-play-butik/fa-adgang-til-opdateringsindstillinger-i-play-butikken.jpg">
+   <img alt="Få adgang til indstillingerne for Play Butik-opdateringer" title="Få adgang til indstillingerne for Play Butik-opdateringer" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/dk/opdater-play-butik/fa-adgang-til-opdateringsindstillinger-i-play-butikken.webp">
 
 2. Scroll ned til afsnittet **_"Om"_**, hvor du finder information om den nuværende Google Play Butik-version. Tryk på **_"Opdater Play Butik"_** for at starte søgningen efter den nyeste tilgængelige version.
-   <img alt="Opdater ved hjælp af Play Butik-appen" title="Opdater ved hjælp af Play Butik-appen" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/dk/opdater-play-butik/opdater-play-butik.jpg">
+   <img alt="Opdater ved hjælp af Play Butik-appen" title="Opdater ved hjælp af Play Butik-appen" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/dk/opdater-play-butik/opdater-play-butik.webp">
 
 3. Hvis en nyere version er tilgængelig, vises en meddelelse, og du skal trykke på "Installer" for at starte opdateringen. Det er vigtigt at have en stabil internetforbindelse, helst via Wi-Fi, for en glidende opdateringsproces.
 
 4. Hvis du allerede har den seneste version, modtager du en meddelelse, der angiver, at der ikke er nogen tilgængelige opdateringer.
-   <img alt="Google Play Butik-applikationen opdateres" title="Google Play Butik-applikationen opdateres" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/dk/opdater-play-butik/play-butik-app-er-opdateret.jpg">
+   <img alt="Google Play Butik-applikationen opdateres" title="Google Play Butik-applikationen opdateres" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/dk/opdater-play-butik/play-butik-app-er-opdateret.webp">
 
 ## Metode 2: Manuel opdatering af Play Butikken ved hjælp af en APK-fil
 

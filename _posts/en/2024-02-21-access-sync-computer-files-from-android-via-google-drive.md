@@ -28,7 +28,7 @@ To install Google Drive on your computer (PC or laptop), follow these steps:
 
 Google Drive is typically pre-installed on your Android mobile phone or tablet. You can easily find it by searching for it in your list of installed applications.
 
-<img alt="Search for Google Drive app in Android" title="Search for Google Drive app in Android" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/access-sync-computer-data-from-android/locate-google-drive-android.jpg">
+<img alt="Search for Google Drive app in Android" title="Search for Google Drive app in Android" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/access-sync-computer-data-from-android/locate-google-drive-android.webp">
 
 If you're unable to locate it, you can download and install Google Drive from the Google Play Store:
 - [Open the Google Play Store app]({{site.baseurl}}/en/find-play-store-to-install-apps/#where-to-find-the-google-play-store-app) on your device.
@@ -42,19 +42,19 @@ If your device does not have the Google Play Store app due to variations in manu
 
 Follow these steps to configure and share a folder from your PC using Google Drive:
 1. Open Google Drive on your computer and select "Sign in with browser" from the window that appears.
-<img alt="Open Google Drive on the computer after installation" title="Open Google Drive on the computer after installation" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/access-sync-computer-data-from-android/access-google-drive.png">
+<img alt="Open Google Drive on the computer after installation" title="Open Google Drive on the computer after installation" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/access-sync-computer-data-from-android/access-google-drive.webp">
 2. Authenticate with your existing Google account, which you'll also use or already use on your mobile device. Click "Sign in" to proceed.
-<img alt="Login into the Google account" title="Login into the Google account" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/access-sync-computer-data-from-android/login-into-google-drive-account.png">
+<img alt="Login into the Google account" title="Login into the Google account" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/access-sync-computer-data-from-android/login-into-google-drive-account.webp">
 3. Navigate to Preferences within Google Drive.
-<img alt="Access Google Drive preferences settings" title="Access Google Drive preferences settings" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/access-sync-computer-data-from-android/google-drive-settings.png">
+<img alt="Access Google Drive preferences settings" title="Access Google Drive preferences settings" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/access-sync-computer-data-from-android/google-drive-settings.webp">
 4. Choose the sync type you prefer:
 - ***Stream files***: Save files only in the Cloud, not on the computer. Files will be retrieved from the Cloud both on the computer and your device later.
 - ***Mirror files (recommended)***: Keep a copy of the files on the computer while also saving them in the Cloud. If you don't have internet access on your computer, you can still access the files directly from your computer with the latest synchronization.
-<img alt="Data synchronization options in Google Drive" title="Data synchronization options in Google Drive" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/access-sync-computer-data-from-android/sync-options-in-google-drive.png">
+<img alt="Data synchronization options in Google Drive" title="Data synchronization options in Google Drive" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/access-sync-computer-data-from-android/sync-options-in-google-drive.webp">
 5. An empty virtual drive named "Google Drive" is automatically created. Here, you can copy the folders (along with all their files) that you want to make accessible on all your devices through this virtual drive. These folders will be accessible only from the cloud and will not be stored offline.
-<img alt="Copy data to be shared in Google Drive partition" title="Copy data to be shared in Google Drive partition" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/access-sync-computer-data-from-android/google-drive-sharing-partition.png">
+<img alt="Copy data to be shared in Google Drive partition" title="Copy data to be shared in Google Drive partition" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/access-sync-computer-data-from-android/google-drive-sharing-partition.webp">
 6. Include folders from your computer that you want to access from your phone, tablet, or any other device. The original folder will remain offline on the computer and will be synchronized across devices.
-<img alt="Include folders to be shared from the computer" title="Include folders to be shared from the computer" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/access-sync-computer-data-from-android/add-folders-for-share-and-sync-pc-android.png">
+<img alt="Include folders to be shared from the computer" title="Include folders to be shared from the computer" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/access-sync-computer-data-from-android/add-folders-for-share-and-sync-pc-android.webp">
 
 ## Accessing and Editing Shared Documents from Your Mobile Device
 
@@ -62,11 +62,11 @@ To access and modify shared documents from your mobile device, open Google Drive
 
 All folders and documents saved in your Google Drive account from your computer will appear under "My Drive".
 
-<img alt="Access Google drive files from phone or tablet" title="Access Google drive files from phone or tablet" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/access-sync-computer-data-from-android/access-shared-data-from-cloud-partition.jpg">
+<img alt="Access Google drive files from phone or tablet" title="Access Google drive files from phone or tablet" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/access-sync-computer-data-from-android/access-shared-data-from-cloud-partition.webp">
 
 Manually included folders from your computer will appear under the "Computer" tab.
 
-<img alt="Access shared offline folders from the computer" title="Access shared offline folders from the computer" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/access-sync-computer-data-from-android/access-mirrored-files-from-computer.jpg">
+<img alt="Access shared offline folders from the computer" title="Access shared offline folders from the computer" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/access-sync-computer-data-from-android/access-mirrored-files-from-computer.webp">
 
 Any changes you make on your phone or tablet will be automatically saved on the computer, and vice versa. This ensures that your files remain updated and synchronized across all your devices as quickly as possible.
 

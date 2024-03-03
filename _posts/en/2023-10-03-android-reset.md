@@ -41,7 +41,7 @@ The simplest method to initiate a device reset is to access the reset option wit
 
 The location of the factory reset menu varies depending on the device manufacturer and Android version. This is why the quickest method to locate the reset menu is by conducting a search, such as 'reset' or 'erase' within the Settings menu.
 
-<img alt="Search for reset to factory default settings in Android" title="Search for reset to factory default settings in Android" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/reset-android/search-for-reset-menu-in-android.jpg">
+<img alt="Search for reset to factory default settings in Android" title="Search for reset to factory default settings in Android" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/reset-android/search-for-reset-menu-in-android.webp">
 
 General ways of accessing the reset option include these paths:
 - Settings → General Management → Reset → Factory Data Reset
@@ -55,25 +55,25 @@ General ways of accessing the reset option include these paths:
 
 Before performing a factory reset, you may want to consider alternative reset options such as "Reset All Settings," "Reset Network Settings," and "Reset Accessibility Settings."
 
-<img alt="Options to reset the Android device" title="Options to reset the Android device" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/reset-android/reset-options.jpg">
+<img alt="Options to reset the Android device" title="Options to reset the Android device" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/reset-android/reset-options.webp">
 
 These options often allow you to reset specific aspects of your device's configuration without deleting all of your data. Be sure to explore these alternatives if a full factory reset is not necessary for your specific situation.
 
 Reset all settings:
-<img alt="Reset settings to default" title="Reset settings to default" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/reset-android/reset-all-settings.jpg">
+<img alt="Reset settings to default" title="Reset settings to default" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/reset-android/reset-all-settings.webp">
 
 Reset network settings:
-<img alt="Reset network settings to default" title="Reset network settings to default" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/reset-android/reset-network-settings.jpg">
+<img alt="Reset network settings to default" title="Reset network settings to default" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/reset-android/reset-network-settings.webp">
 
 Reset accessibility settings:
-<img alt="Reset accessibility settings to default" title="Reset accessibility settings to default" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/reset-android/reset-accessibility-settings.jpg">
+<img alt="Reset accessibility settings to default" title="Reset accessibility settings to default" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/reset-android/reset-accessibility-settings.webp">
 
 
 ### 3. Performing the Factory Reset
 
 Select the ***Factory data reset*** option, review the list of data types that will be deleted from the phone's internal memory (as shown below), and then tap "Reset".
 
-<img alt="Erased data by factory reset operation" title="Erased data by factory reset operation" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/reset-android/erased-data-factory-reset.jpg">
+<img alt="Erased data by factory reset operation" title="Erased data by factory reset operation" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/reset-android/erased-data-factory-reset.webp">
 
 To confirm the reset operation, press the "Erase Everything" button.
 

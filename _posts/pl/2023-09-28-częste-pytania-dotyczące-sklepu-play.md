@@ -4,7 +4,7 @@ title: "Sklep Play: często zadawane pytania (FAQ)"
 description: "Znajdź odpowiedzi na często zadawane pytania dotyczące aplikacji Sklepu Play w tym informacyjnym artykule."
 author: adrian
 categories: [Sklep Play]
-image: assets/images/posts/pl/czesto-zadawane-pytania-sklep-play/sklep-play.png
+image: assets/images/posts/pl/czesto-zadawane-pytania-sklep-play/sklep-play.webp
 permalink: /pl/czeste-pytania-dotyczace-sklepu-play/
 lang: pl
 lang-ref: play-store-frequent-questions
@@ -43,7 +43,7 @@ Jednak urządzenia z Chin, takie jak Huawei, nie mają GMS, co oznacza, że apli
 Jeśli Twoje urządzenie ma licencję GMS (Google Mobile Services), powinieneś znaleźć zainstalowany Sklep Play oraz Usługi Google Play.
 
 Przejdź do ***Ustawienia → Aplikacje*** i sprawdź, czy Sklep Play Google oraz Usługi Google Play są tam wymienione. Jeśli tak, Twoje urządzenie ma GMS.
-<img alt="Wyszukaj Sklep Play na liście aplikacji" title="Wyszukaj Sklep Play na liście aplikacji" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/czesto-zadawane-pytania-sklep-play/lista-aplikacji-w-sklep-play.jpg">
+<img alt="Wyszukaj Sklep Play na liście aplikacji" title="Wyszukaj Sklep Play na liście aplikacji" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/czesto-zadawane-pytania-sklep-play/lista-aplikacji-w-sklep-play.webp">
 
 Jeśli ich nie ma, Twoje urządzenie prawdopodobnie nie ma GMS, więc będziesz musiał skorzystać z alternatywnego sklepu z aplikacjami. Możesz również spróbować pobrać aplikację Sklepu Play na telefon, korzystając z poradnika dostępnego tutaj: [Pobierz i zainstaluj Sklep Play na swoim telefonie]({{site.baseurl}}/pl/pobierz-i-zainstaluj-sklep-play/).
 
@@ -73,7 +73,7 @@ Sklep Play jest dostępny wyłącznie na systemie operacyjnym Android, który mo
 
 Aby zidentyfikować system operacyjny i jego wersję na swoim urządzeniu, przejdź do ***Ustawienia → O telefonie → Informacje o oprogramowaniu***.
 
-<img alt="Sprawdź wersję Androida i rozpocznij aktualizację" title="Sprawdź wersję Androida i rozpocznij aktualizację" loading="lazy" class="article-image" src="{{site.baseurl}}/assets/images/posts/pl/czesto-zadawane-pytania-sklep-play/sprawdz-wersje-androida.jpg">
+<img alt="Sprawdź wersję Androida i rozpocznij aktualizację" title="Sprawdź wersję Androida i rozpocznij aktualizację" loading="lazy" class="article-image" src="{{site.baseurl}}/assets/images/posts/pl/czesto-zadawane-pytania-sklep-play/sprawdz-wersje-androida.webp">
 
 Możesz użyć informacji o systemie operacyjnym i wersji do wyszukania dodatkowych szczegółów, jeśli będzie to konieczne.
 
@@ -97,21 +97,21 @@ Jednak zdarzają się sytuacje, gdy konieczne jest [pobranie i zainstalowanie Sk
 Aby rozwiązać problemy z aplikacjami i zapewnić stabilność systemu Android, zaleca się aktualizowanie wszystkich aplikacji bezpośrednio ze Sklepu Play.
 
 Przejdź do ***Ustawienia → Zarządzaj aplikacjami i urządzeniem → Zaktualizuj wszystkie***.
-<img alt="Zaktualizuj wszystkie aplikacje w Sklepie Plays" title="Zaktualizuj wszystkie aplikacje w Sklepie Play" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/czesto-zadawane-pytania-sklep-play/aktualizuj-aplikacje-ze-sklep-play.jpg">
+<img alt="Zaktualizuj wszystkie aplikacje w Sklepie Plays" title="Zaktualizuj wszystkie aplikacje w Sklepie Play" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/czesto-zadawane-pytania-sklep-play/aktualizuj-aplikacje-ze-sklep-play.webp">
 
 ## Jak wyłączyć automatyczne aktualizacje aplikacji ze Sklepu Play?
 
 Domyślnie aplikacje są automatycznie aktualizowane, gdy są dostępne nowsze wersje.
 
 Jeśli wolisz ręczną kontrolę nad aktualizacjami lub masz obawy dotyczące zużycia danych, możesz wyłączyć automatyczne aktualizacje, postępując zgodnie z poniższymi krokami: przejdź do ***Ustawienia → Ustawienia sieci → Automatyczne aktualizacje aplikacji → Nie aktualizuj aplikacji automatycznie***.
-<img alt="Wyłącz automatyczne aktualizacje ze Sklepu Play" title="Wyłącz automatyczne aktualizacje ze Sklepu Play" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/czesto-zadawane-pytania-sklep-play/wylacz-aktualizacje-sklep-play.jpg">
+<img alt="Wyłącz automatyczne aktualizacje ze Sklepu Play" title="Wyłącz automatyczne aktualizacje ze Sklepu Play" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/czesto-zadawane-pytania-sklep-play/wylacz-aktualizacje-sklep-play.webp">
 
 ## Jak zaktualizować Sklep Play?
 
 Aplikacja Sklepu Play zazwyczaj aktualizuje się automatycznie, gdy są dostępne nowsze wersje i jest dostępne aktywne połączenie internetowe. 
 
 Aby ręcznie zainicjować aktualizację Sklepu Play, przejdź do ***Ustawienia → O telefonie → Aktualizacja Sklepu Play***.
-<img alt="Zaktualizuj Sklep Play" title="Zaktualizuj Sklep Play" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/pl/czesto-zadawane-pytania-sklep-play/aktualizacja-sklep-play.jpg">
+<img alt="Zaktualizuj Sklep Play" title="Zaktualizuj Sklep Play" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/pl/czesto-zadawane-pytania-sklep-play/aktualizacja-sklep-play.webp">
 
 Jeśli podczas procesu aktualizacji wystąpią problemy, odwołaj się do naszego artykułu [Jak zaktualizować aplikację Sklepu Play]({{site.baseurl}}/pl/aktualizacja-sklepu-play/), aby uzyskać dalsze wskazówki.
 
@@ -149,7 +149,7 @@ Aby dokonywać zakupów ze Sklepu Play, w tym aplikacji, gier, subskrypcji usłu
 
 Oto jak to zrobić:
  - Otwórz Sklep Play, przejdź do ***Ustawień → Płatności i subskrypcje → Metody płatności → Dodaj kartę kredytową lub debetową***.
-<img alt="Dodaj metodę płatności w Sklepie Play" title="Dodaj metodę płatności w Sklepie Play" loading="lazy" class="article-image" src="{{site.baseurl}}/assets/images/posts/pl/czesto-zadawane-pytania-sklep-play/dodaj-sposob-platnosci-w-sklep-play.jpg">
+<img alt="Dodaj metodę płatności w Sklepie Play" title="Dodaj metodę płatności w Sklepie Play" loading="lazy" class="article-image" src="{{site.baseurl}}/assets/images/posts/pl/czesto-zadawane-pytania-sklep-play/dodaj-sposob-platnosci-w-sklep-play.webp">
 - Wprowadź informacje o karcie w dostępnych polach.
 
 ## Jak można filtrować treści ze Sklepu Play według wieku i stosować kontrolę rodzicielską?
@@ -157,7 +157,7 @@ Oto jak to zrobić:
 Jeśli Twoje urządzenie jest używane przez dzieci, rozważ zastosowanie ograniczeń treści w oparciu o poziomy dojrzałości.
 
 Wejdź w ***Ustawienia → Rodzina → Kontrole rodzicielskie***. Będziesz musiał utworzyć kod PIN, a następnie będziesz mógł wybrać żądany poziom dojrzałości (opcje obejmują 3, 7, 12, 16, 18).
-<img alt="Włącz kontrolę rodzicielską w Sklepie Play" title="Włącz kontrolę rodzicielską w Sklepie Play" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/czesto-zadawane-pytania-sklep-play/kontrola-rodzicielska.jpg">
+<img alt="Włącz kontrolę rodzicielską w Sklepie Play" title="Włącz kontrolę rodzicielską w Sklepie Play" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/czesto-zadawane-pytania-sklep-play/kontrola-rodzicielska.webp">
 
 ## Czy mogę korzystać z jednego konta Google na kilku urządzeniach jednocześnie?
 

@@ -4,7 +4,7 @@ title: "Play Butik: hvordan man får, bruger og installerer apps og spil"
 description: "Play Butik vises normalt på hovedskærmen i Android. Lær, hvordan du finder den, hvordan du bruger den, og hvordan du installerer apps og spil."
 author: adrian
 categories: [Play Butik, Android]
-image: assets/images/posts/dk/play-butik-app/play-butik-app.png
+image: assets/images/posts/dk/play-butik-app/play-butik-app.webp
 permalink: /da/find-play-butik-til-installation-af-apps/
 lang: da
 lang-ref: google-play-store
@@ -18,10 +18,10 @@ Find ud af alt, hvad du har brug for at vide om Play Butik-appen: hvordan man fi
 
 Du kan normalt finde en genvej til Play Butik på din enheds startskærm. For at identificere den, kig efter Google Play-logoet, som vist på billedet nedenfor.
 
-<img alt="Find Play Butik på startskærmen i Android" title="Find Play Butik på startskærmen i Android" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/dk/play-butik-app/play-butik-pa-hovedskarmen.jpg">
+<img alt="Find Play Butik på startskærmen i Android" title="Find Play Butik på startskærmen i Android" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/dk/play-butik-app/play-butik-pa-hovedskarmen.webp">
 
 Hvis Play Butik-appen ikke vises på hovedskærmen, skal brugeren søge efter den. Fra appskærmen skal du gå til Søgeikonet og indtaste Play Butik. Hvis applikationen findes, vil den vises i søgeresultaterne.
-<img alt="Søg efter Play Butik på startskærmen i Android" title="Søg efter Play Butik på startskærmen i Android" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/dk/play-butik-app/sog-i-play-butik-hovedskarm.jpg">
+<img alt="Søg efter Play Butik på startskærmen i Android" title="Søg efter Play Butik på startskærmen i Android" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/dk/play-butik-app/sog-i-play-butik-hovedskarm.webp">
 
 **_Navne for Play Butik:_**
 
@@ -35,13 +35,13 @@ Har du ikke fundet Google Butik? Her er hvad du kan gøre ved det:
 Hvis du ikke finder applikationen, er det første, du skal gøre, at ***genstarte enheden*** og derefter kontrollere, om den er installeret og aktiveret.
 
 Gå til **_Indstillinger → Apps_** og søg efter ***Google Play Butik***-appen på listen over apps.
-<img alt="Play Butik-placering i listen med apps" title="Play Butik-placering i listen med apps" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/play-butik-app/play-butik-i-apps-liste.jpg">
+<img alt="Play Butik-placering i listen med apps" title="Play Butik-placering i listen med apps" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/play-butik-app/play-butik-i-apps-liste.webp">
 
 Hvis der ikke er nogen applikation med dette navn, bliver du nødt til at finde Play Butik og installere den på din telefon / tablet - se nedenfor.
 
 Hvis applikationen vises på listen, skal du sørge for, at den også er aktiveret. Åbn applikationens egenskaber, og hvis den er deaktiveret, skal du aktivere den ved at trykke på knappen Aktivér.
 
-<img alt="Aktivér Play Butik på enheden" title="Aktivér Play Butik på enheden" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/dk/play-butik-app/aktiver-play-butik-app.jpg">
+<img alt="Aktivér Play Butik på enheden" title="Aktivér Play Butik på enheden" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/dk/play-butik-app/aktiver-play-butik-app.webp">
 
 Genstart enheden og se, om applikationen vises i menuen med Android-apps.
 
@@ -56,7 +56,7 @@ Hvis applikationen ser ud til at være installeret, men du ikke kan finde den no
 ## Sådan bruger du Google Play
 
 **_For at bruge applikationen skal du have en Google-konto_**. Når du har adgang til den, kan du installere apps og spil og også få adgang til og downloade digitalt indhold - se i billedet nedenfor, hvordan hovedskærmen for applikationen ser ud.
-<img alt="Play Butik-skærmbillede efter adgang til den" title="Play Butik-skærmbillede efter adgang til den" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/dk/play-butik-app/play-butik-hovedskarm.jpg">
+<img alt="Play Butik-skærmbillede efter adgang til den" title="Play Butik-skærmbillede efter adgang til den" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/dk/play-butik-app/play-butik-hovedskarm.webp">
 
 Hvad angår apps og spil til Android, er der en høj grad af tillid til indholdsikkerhed, som er er testet mod viruser og skadelige handlinger. Denne aspekt gælder ikke, når du downloader dem fra internettet fra kilder, der ikke er lige så sikre som Google Butik.
 

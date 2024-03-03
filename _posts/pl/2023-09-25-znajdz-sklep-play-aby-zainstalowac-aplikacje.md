@@ -4,7 +4,7 @@ title: "Sklep Play: jak pobrać, używać i instalować aplikacje i gry"
 description: "Sklep Play zazwyczaj pojawia się na głównym ekranie Androida. Dowiedz się, jak go zlokalizować, jeśli go nie znajdziesz, jak z niego korzystać i jak instalować aplikacje i gry."
 author: adrian
 categories: [Sklep Play, Android]
-image: assets/images/posts/pl/aplikacja-sklepu-play/aplikacja-sklepu-play_featured.png
+image: assets/images/posts/pl/aplikacja-sklepu-play/aplikacja-sklepu-play_featured.webp
 permalink: /pl/znajdz-sklep-play-aby-zainstalowac-aplikacje/
 lang: pl
 lang-ref: google-play-store
@@ -18,10 +18,10 @@ Dowiedz się wszystkiego, co musisz wiedzieć na temat aplikacji Sklepu Play: ja
 
 Zazwyczaj skrót do Sklepu Play znajduje się na ekranie głównym Twojego urządzenia. Aby go zidentyfikować, poszukaj loga Google Play, jak pokazano na poniższym obrazku.
 
-<img alt="Znajdź Sklep Play na ekranie głównym w systemie Android" title="Znajdź Sklep Play na ekranie głównym w systemie Android" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/pl/aplikacja-sklepu-play/ekran-glowny-sklep-play.jpg">
+<img alt="Znajdź Sklep Play na ekranie głównym w systemie Android" title="Znajdź Sklep Play na ekranie głównym w systemie Android" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/pl/aplikacja-sklepu-play/ekran-glowny-sklep-play.webp">
 
 W przypadku, gdy aplikacja Sklepu Play nie pojawia się na głównym ekranie, użytkownik musi ją wyszukać. Z ekranu Aplikacje przejdź do ikony Wyszukaj i wpisz "Sklep Play". Jeśli aplikacja istnieje, pojawi się w wynikach wyszukiwania.
-<img alt="Wyszukaj Sklep Play na ekranie głównym w systemie Android" title="Wyszukaj Sklep Play na ekranie głównym w systemie Android" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/pl/aplikacja-sklepu-play/wyszukaj-sklep-play.jpg">
+<img alt="Wyszukaj Sklep Play na ekranie głównym w systemie Android" title="Wyszukaj Sklep Play na ekranie głównym w systemie Android" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/pl/aplikacja-sklepu-play/wyszukaj-sklep-play.webp">
 
 ***Informacje na temat Sklepu Play:***:
 - Aplikacja ma kilka nazw, w zależności od producenta urządzenia, języka systemowego i wersji Androida. Jeśli językiem systemowym jest polski, zwykłe nazwy to "Google Play", "Sklep Play" i "Sklep Google Play", ale nazwa może się różnić w zależności od języka, w którym ustawione jest urządzenie.
@@ -34,12 +34,12 @@ Nie znalazłeś Sklepu Google Play? Oto co możesz zrobić:
 Jeśli nie znajdziesz aplikacji, pierwszą rzeczą, którą musisz zrobić, jest ponowne uruchomienie urządzenia, a następnie sprawdzenie, czy jest zainstalowana i włączona.
 
 Przejdź do ***Ustawienia → Aplikacje*** i wyszukaj aplikację Sklepu Google Play na liście aplikacji.
-<img alt="Lokalizacja Sklepu Play na liście aplikacji" title="Lokalizacja Sklepu Play na liście aplikacji" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/aplikacja-sklepu-play/sklep-play-na-liscie-aplikacji.jpg">
+<img alt="Lokalizacja Sklepu Play na liście aplikacji" title="Lokalizacja Sklepu Play na liście aplikacji" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/aplikacja-sklepu-play/sklep-play-na-liscie-aplikacji.webp">
 
 Jeśli nie ma żadnej aplikacji o tej nazwie, będziesz musiał pobrać Sklep Play i zainstalować go na swoim telefonie/tablecie - zobacz poniżej.
 
 Jeśli jednak aplikacja pojawi się na liście, upewnij się, że jest również włączona. Wejdź w właściwości aplikacji, a jeśli jest wyłączona, aktywuj ją, naciskając przycisk "Włącz".
-<img alt="Aktywacja Sklepu Play na urządzeniu" title="Aktywacja Sklepu Play na urządzeniu" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/pl/aplikacja-sklepu-play/aktywuj-sklep-play.jpg">
+<img alt="Aktywacja Sklepu Play na urządzeniu" title="Aktywacja Sklepu Play na urządzeniu" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/pl/aplikacja-sklepu-play/aktywuj-sklep-play.webp">
 
 Zrestartuj urządzenie i sprawdź, czy aplikacja pojawia się w menu z aplikacjami systemu Android.
 
@@ -54,7 +54,7 @@ Jeśli wydaje się, że aplikacja jest zainstalowana, ale nie możesz jej znale�
 ## Jak korzystać z Google Play
 
 ***Aby korzystać z aplikacji, potrzebujesz konta Google***. Po zalogowaniu umożliwia to instalowanie aplikacji i gier, a także dostęp i pobieranie treści cyfrowych - zobacz na poniższym obrazku, jak wygląda główny ekran aplikacji.
-<img alt="Ekran Sklepu Play po jego otwarciu" title="Ekran Sklepu Play po jego otwarciu" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/pl/aplikacja-sklepu-play/sklep-play-ekranie-glownym.jpg">
+<img alt="Ekran Sklepu Play po jego otwarciu" title="Ekran Sklepu Play po jego otwarciu" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/pl/aplikacja-sklepu-play/sklep-play-ekranie-glownym.webp">
 
 Jeśli chodzi o aplikacje i gry na Androida, istnieje wysoki poziom pewności co do bezpieczeństwa treści, które są testowane pod kątem wirusów i złośliwych działań. Ten aspekt nie ma zastosowania, gdy pobiera się je z internetu, z źródeł, które nie są tak bezpieczne jak sklep Google.
 

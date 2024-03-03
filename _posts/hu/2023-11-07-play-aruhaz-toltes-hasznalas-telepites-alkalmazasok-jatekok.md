@@ -4,7 +4,7 @@ title: "Play Áruház: hogyan tölts le, használj, és telepíts alkalmazásoka
 description: "A Play Áruház általában megjelenik a fő Android képernyőn. Tudja meg, hogyan találja meg, hogyan használja, és hogyan telepítse az alkalmazásokat és játékokat."
 author: adrian
 categories: [Play Aruhaz, Android]
-image: assets/images/posts/hu/play-aruhaz-alkalmazas/play-aruhaz-alkalmazas_kiemelt.png
+image: assets/images/posts/hu/play-aruhaz-alkalmazas/play-aruhaz-alkalmazas_kiemelt.webp
 permalink: /hu/play-aruhaz-toltes-hasznalas-telepites-alkalmazasok-jatekok/
 lang: hu
 lang-ref: google-play-store
@@ -18,10 +18,10 @@ Tudjon meg mindent, amit tudnia kell a Play Store alkalmazásról: hogyan talál
 
 Általában megtalálhatja a Play Áruház gyorsindítóját az eszköz kezdőképernyőjén. Azonosításhoz keresse a Google Play logót, ami a lenti képen látható.
 
-<img alt="Play Áruház az Android kezdőképernyőjén" title="Play Áruház az Android kezdőképernyőjén" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/hu/play-aruhaz-alkalmazas/play-aruhaz-a-fokpernyon.jpg">
+<img alt="Play Áruház az Android kezdőképernyőjén" title="Play Áruház az Android kezdőképernyőjén" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/hu/play-aruhaz-alkalmazas/play-aruhaz-a-fokpernyon.webp">
 
 Abban az esetben, ha a Play Áruház alkalmazás nem jelenik meg a főképernyőn, a felhasználónak kell megkeresnie. Az Alkalmazások képernyőről menjen a Keresés ikonra, majd írja be a Play Áruházat. Ha az alkalmazás létezik, megjelenik a keresési eredmények között.
-<img alt="Keresse a Play Áruház az Android kezdőképernyőjén" title="Keresse a Play Áruház az Android kezdőképernyőjén" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/hu/play-aruhaz-alkalmazas/kereses-play-aruhaz-fokpernyo.jpg">
+<img alt="Keresse a Play Áruház az Android kezdőképernyőjén" title="Keresse a Play Áruház az Android kezdőképernyőjén" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/hu/play-aruhaz-alkalmazas/kereses-play-aruhaz-fokpernyo.webp">
 
 **_Megjegyzések a Play Áruház_**:
 
@@ -35,12 +35,12 @@ Nem találta meg a Google Play-t? A következőket teheti:
 Ha nem találja az alkalmazást, az első dolog, amit meg kell tennie, hogy **_újraindítja az eszközt_**, majd ellenőrizze, hogy telepítve van-e és be van-e kapcsolva.
 
 Menjen a **_Beállítások → Alkalmazások_** menüpontba, és keressen rá a **_Google Play Áruház_** alkalmazásra az alkalmazások listájában.
-<img alt="A Play Áruház helye az alkalmazások listájában" title="A Play Áruház helye az alkalmazások listájában" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/play-aruhaz-alkalmazas/play-aruhaz-alkalmazasok-listaban.jpg">
+<img alt="A Play Áruház helye az alkalmazások listájában" title="A Play Áruház helye az alkalmazások listájában" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/play-aruhaz-alkalmazas/play-aruhaz-alkalmazasok-listaban.webp">
 
 Ha nincs ilyen nevű alkalmazás, akkor meg le kell töltenie a Play Áruházat, és fel kell telepítenie a telefonján / táblagépén - lásd lentebb.
 
 Ha az alkalmazás megjelenik a listában, akkor meg kell győződnie arról, hogy az is engedélyezve van. Lépjen az alkalmazás tulajdonságaihoz, és ha le van tiltva, aktiválja azt az Bekapcsolás gomb megnyomásával.
-<img alt="Aktiválja a Play Áruház az eszközön" title="Aktiválja a Play Áruház az eszközön" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/hu/play-aruhaz-alkalmazas/aktivalas-play-aruhaz-alkalmazas.jpg">
+<img alt="Aktiválja a Play Áruház az eszközön" title="Aktiválja a Play Áruház az eszközön" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/hu/play-aruhaz-alkalmazas/aktivalas-play-aruhaz-alkalmazas.webp">
 
 Indítsa újra az eszközt, és ellenőrizze, hogy az alkalmazás megjelenik-e az Android alkalmazások menüjében.
 
@@ -55,7 +55,7 @@ Ha úgy tűnik, hogy az alkalmazás telepítve van, de találja és nem tudja el
 ## Hogyan használja a Google Play-t
 
 **_Az alkalmazás használatához szüksége van egy Google-fiókra_**. Miután belépett, lehetősége van alkalmazások és játékok telepítésére, valamint digitális tartalmakhoz való hozzáférésre és letöltésre – a lenti képen látható, hogy milyen az alkalmazás főképernyője.
-<img alt="A Play Áruház képernyője a hozzáférés után" title="A Play Áruház képernyője a hozzáférés után" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/hu/play-aruhaz-alkalmazas/play-aruhaz-fokpernyo.jpg">
+<img alt="A Play Áruház képernyője a hozzáférés után" title="A Play Áruház képernyője a hozzáférés után" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/hu/play-aruhaz-alkalmazas/play-aruhaz-fokpernyo.webp">
 
 Az Android alkalmazásokkal és játékokkal iránt nagy a bizalom a tartalom biztonságával kapcsolatban, mivel ezeket vírusok és rosszindulatú tevékenységek ellen tesztelik. Ezt a biztonságot nem garantált, ha az alkalmazásokat az internetről, a Google áruháznál kevésbé biztonságos forrásokból töltjük le.
 

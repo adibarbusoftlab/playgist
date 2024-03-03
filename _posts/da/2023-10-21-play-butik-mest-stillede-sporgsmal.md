@@ -4,7 +4,7 @@ title: "Play Butik: Mest stillede spørgsmål (OSS)"
 description: "Find svar på de mest hyppigt stillede spørgsmål om Play Butik-appen i denne informative artikel."
 author: adrian
 categories: [Play Butik]
-image: assets/images/posts/dk/play-butik-oss/play-butik-oss.png
+image: assets/images/posts/dk/play-butik-oss/play-butik-oss.webp
 permalink: /da/play-butik-mest-stillede-sporgsmal/
 lang: da
 lang-ref: play-store-frequent-questions
@@ -44,7 +44,7 @@ Hvis din enhed har GMS (Google Mobile Services) licens, finder du Play Butikken 
 
 Gå til **_Indstillinger → Apps_**, og kontroller, om Google Play Butikken og Google Play-tjenester er der. Hvis de er det, har din enhed GMS.
 
-<img alt="Søg efter Play Butikken i listen med apps" title="Søg efter Play Butikken i listen med apps" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/play-butik-app/play-butik-i-apps-liste.jpg">
+<img alt="Søg efter Play Butikken i listen med apps" title="Søg efter Play Butikken i listen med apps" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/play-butik-app/play-butik-i-apps-liste.webp">
 
 Hvis du ikke kan finde dem, har din enhed sandsynligvis ikke GMS, og du skal muligvis bruge en alternativ app-butik. Du kan også prøve at få Play Butik-appen på din telefon ved at følge guiden her: [Download og installer Play Butikken på din telefon]({{site.baseurl}}/da/download-og-installation-play-butik/).
 
@@ -75,7 +75,7 @@ Play Butikken er eksklusiv for Android-operativsystemet, som kan findes på enhe
 
 For at identificere din enheds operativsystem og version skal du gå til **_Indstillinger → Om telefonen → Softwareoplysniger_**.
 
-<img alt="Bekræft Android-version og begynd opdateringen" title="Bekræft Android-version og begynd opdateringen" loading="lazy" class="article-image" src="{{site.baseurl}}/assets/images/posts/dk/play-butik-oss/tjek-android-opdateringer.jpg">
+<img alt="Bekræft Android-version og begynd opdateringen" title="Bekræft Android-version og begynd opdateringen" loading="lazy" class="article-image" src="{{site.baseurl}}/assets/images/posts/dk/play-butik-oss/tjek-android-opdateringer.webp">
 
 Du kan bruge OS- og versionsoplysningerne til at søge efter yderligere detaljer, hvis det er nødvendigt.
 
@@ -99,21 +99,21 @@ Der er dog tilfælde, hvor du måske skal [downloade og installere Play Butikken
 For at løse app-relaterede problemer og sikre stabiliteten i dit Android-system anbefales det at opdatere alle apps direkte fra Play Butikken.
 
 Gå til **_Indstillinger → Administrer app og enheder → Opdater alle_**.
-<img alt="Opdater alle Play Butik-apps" title="Opdater alle Play Butik-apps" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/play-butik-oss/opdater-apps-fra-play-butikken.jpg">
+<img alt="Opdater alle Play Butik-apps" title="Opdater alle Play Butik-apps" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/play-butik-oss/opdater-apps-fra-play-butikken.webp">
 
 ## Hvordan deaktiverer du automatisk app-opdateringer fra Play Butikken?
 
 Som standard opdateres apps automatisk, når nyere versioner er tilgængelige.
 
 Hvis du foretrækker manuel kontrol over opdateringerne, eller hvis du er bekymret for dataforbruget, kan du deaktivere automatisk opdatering ved at følge disse trin: gå til **_Indstillinger → Netværksindstillinger → Opdater apps automatisk → Opdater ikke apps automatisk_**.
-<img alt="Deaktiver automatisk opdateringer fra Play Butikken" title="Deaktiver automatisk opdateringer fra Play Butikken" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/play-butik-oss/deaktiver-play-butik-opdateringer.jpg">
+<img alt="Deaktiver automatisk opdateringer fra Play Butikken" title="Deaktiver automatisk opdateringer fra Play Butikken" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/play-butik-oss/deaktiver-play-butik-opdateringer.webp">
 
 ## Hvordan opdaterer du Play Butikken?
 
 Play Butik-appen opdateres typisk automatisk, når nyere versioner frigives, og der er en aktiv internetforbindelse tilgængelig.
 
 For at manuelt starte Play Butikken opdateringen, gå til **_Indstillinger → Om → Opdater Play Butik_**.
-<img alt="Opdater Play Butikken" title="Opdater Play Butikken" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/dk/opdater-play-butik/opdater-play-butik.jpg">
+<img alt="Opdater Play Butikken" title="Opdater Play Butikken" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/dk/opdater-play-butik/opdater-play-butik.webp">
 
 Hvis du oplever problemer under opdateringsprocessen, henvises du til vores artikel [Sådan opdaterer du Play Butik-appen]({{site.baseurl}}/da/play-butik-opdatering/) for yderligere vejledning.
 
@@ -156,7 +156,7 @@ Her er hvordan du gør det:
 
 - Åbn Play Butikken, gå til **_Indstillinger → Betalinger og abonnementer → Betalingsmetoder → Tilføj betalingskort_**.
 
-<img alt="Tilføj betalingsmetode i Play Butikken" title="Tilføj betalingsmetode i Play Butikken" loading="lazy" class="article-image" src="{{site.baseurl}}/assets/images/posts/dk/play-butik-oss/tilfoj-betalingsmetode-i-play-butikken.jpg">
+<img alt="Tilføj betalingsmetode i Play Butikken" title="Tilføj betalingsmetode i Play Butikken" loading="lazy" class="article-image" src="{{site.baseurl}}/assets/images/posts/dk/play-butik-oss/tilfoj-betalingsmetode-i-play-butikken.webp">
 - Indtast kortoplysningerne i de tilgængelige felter.
 
 ## Hvordan kan jeg filtrere Play Butik-indhold efter alder og anvende forældrekontrol?
@@ -164,7 +164,7 @@ Her er hvordan du gør det:
 Hvis din enhed deles med børn, bør du overveje at anvende indholdsrestriktioner baseret på barnets alder.
 
 Gå til **_Indstillinger → Familie → Børnesikring_**. Du skal oprette en PIN-kode, og så kan du vælge den ønskede alder (muligheder inkluderer 3, 7, 12, 16, 18).
-<img alt="Aktivér forældrekontrol i Play Butikken" title="Aktivér forældrekontrol i Play Butikken" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/play-butik-oss/foraldrekontrol.jpg">
+<img alt="Aktivér forældrekontrol i Play Butikken" title="Aktivér forældrekontrol i Play Butikken" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/play-butik-oss/foraldrekontrol.webp">
 
 ## Kan jeg bruge en Google-konto på flere enheder samtidig?
 

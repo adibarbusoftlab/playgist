@@ -4,7 +4,7 @@ title: "Android opdateringer / opgradering - hvordan du får den nyeste version"
 description: "Hold din enhed opdateret: lær, hvordan du opdaterer Android fra indstillingerne, hvordan du opdaterer det manuelt via en computer, og hvordan du foretager en fuld opgradering af systemet"
 author: adrian
 categories: [Android]
-image: assets/images/posts/dk/opdater-android/opdater-opgrader-android.jpg
+image: assets/images/posts/dk/opdater-android/opdater-opgrader-android.webp
 permalink: /da/android-opdatering-og-opgradering/
 lang: da
 lang-ref: android-update-upgrade
@@ -51,10 +51,10 @@ Forberedelses-trin for din enhed er afgørende for at sikre en problemfri opdate
 Hvis din telefon eller tablet er tilgængelig, er opdatering en enkel proces, der kan udføres direkte fra systemet.
 
 Gå til 'Indstillinger', vælg 'Om telefon' eller 'Om tablet' og tryk derefter på 'Softwareopdatering'.
-<img alt="Få adgang til indstillinger for Android-opdateringer" title="Få adgang til indstillinger for Android-opdateringer" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/opdater-android/fa-adgang-til-opdateringsindstillinger-i-android.jpg">
+<img alt="Få adgang til indstillinger for Android-opdateringer" title="Få adgang til indstillinger for Android-opdateringer" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/opdater-android/fa-adgang-til-opdateringsindstillinger-i-android.webp">
 
 Tryk på "Download og installér" for at starte søgningen efter en ny version af Android.
-<img alt="Start Android-opdateringer" title="Start Android-opdateringer" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/opdater-android/android-software-opdatering.jpg">
+<img alt="Start Android-opdateringer" title="Start Android-opdateringer" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/opdater-android/android-software-opdatering.webp">
 
 Hvis der er en nyere version tilgængelig, vises et vindue, der giver dig mulighed for at downloade den nyeste version. Klik på 'Opdater'-knappen og vent på, at downloaden er færdig.
 

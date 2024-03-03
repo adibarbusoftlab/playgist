@@ -20,11 +20,11 @@ Play Protect jest częścią Sklepu Play i służy jako zabezpieczenie poprzez s
 
 Zazwyczaj znajdziesz Play Protect już zainstalowany i aktywowany w aplikacji Sklepu Play. Aby uzyskać do niego dostęp, po prostu przejdź do ***Ustawienia → Play Protect***. Tutaj możesz zobaczyć najnowszy raport dotyczący bezpieczeństwa aplikacji oraz rozpocząć skanowanie swojego urządzenia.
 
-<img alt="Główny ekran Play Protect w Sklepie Play" title="Główny ekran Play Protect w Sklepie Play" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/bezpieczenstwo-sklepu-play-i-aplikacji/glowny-ekran-play-protect.jpg">
+<img alt="Główny ekran Play Protect w Sklepie Play" title="Główny ekran Play Protect w Sklepie Play" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/bezpieczenstwo-sklepu-play-i-aplikacji/glowny-ekran-play-protect.webp">
 
 W rzadkim przypadku, gdy nie jest on już aktywny na Twoim urządzeniu, łatwo możesz go włączyć, przechodząc do ustawień Play Protect i włączając opcję ***Skanuj aplikacje za pomocą Play Protect***.
 
-<img alt="Włącz Skanowanie aplikacji za pomocą Play Protect" title="Włącz Skanowanie aplikacji za pomocą Play Protect" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/bezpieczenstwo-sklepu-play-i-aplikacji/wlacz-skanowanie-aplikacji-z-play-protect.jpg">
+<img alt="Włącz Skanowanie aplikacji za pomocą Play Protect" title="Włącz Skanowanie aplikacji za pomocą Play Protect" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/bezpieczenstwo-sklepu-play-i-aplikacji/wlacz-skanowanie-aplikacji-z-play-protect.webp">
 
 Dzięki tej funkcji otrzymujesz informacje o potencjalnie szkodliwych aplikacjach przed ich instalacją lub uruchomieniem. Ponadto, jeśli aplikacja pozostaje nieużywana przez dłuższy czas, Play Protect automatycznie podejmuje kroki w celu poprawy bezpieczeństwa i wydajności Twojego urządzenia. Obejmuje to cofanie niepotrzebnych uprawnień w celu ochrony danych, zatrzymywanie powiadomień w celu oszczędzania życia baterii oraz czyszczenie plików tymczasowych w celu zwolnienia cennej przestrzeni przechowywania.
 
@@ -75,13 +75,13 @@ Aby skutecznie zarządzać aktualizacjami, postępuj zgodnie z poniższymi kroka
 - Przejdź do ***"Ustawienia" → "Preferencje sieciowe"***.
 - Wybierz ***"Automatyczne aktualizowanie aplikacji"*** i wybierz opcję, która najlepiej odpowiada Twoim preferencjom dotyczącym aktualizacji.
 
-<img alt="Włącz automatyczne aktualizacje aplikacji w Sklepie Play " title="Włącz automatyczne aktualizacje aplikacji w Sklepie Play " loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/bezpieczenstwo-sklepu-play-i-aplikacji/wlacz-automatyczna-aktualizacje-aplikacji-ze-sklepu-play.jpg">
+<img alt="Włącz automatyczne aktualizacje aplikacji w Sklepie Play " title="Włącz automatyczne aktualizacje aplikacji w Sklepie Play " loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/bezpieczenstwo-sklepu-play-i-aplikacji/wlacz-automatyczna-aktualizacje-aplikacji-ze-sklepu-play.webp">
 
 Rozważnym wyborem jest zezwolenie na pobieranie aktualizacji tylko przez sieci Wi-Fi, co oszczędza użycie danych mobilnych. Jednak optymalnym wyborem, jeśli Twój plan danych mobilnych na to pozwala i masz kilka wolnych gigabajtów, jest pobieranie aktualizacji przez dowolną sieć dla szybszych i bardziej wygodnych aktualizacji.
 
 Po skonfigurowaniu ustawień aktualizacji przejdź do aktualizacji swoich aplikacji ze Sklepu Play. Przejdź do ***"Ustawień" → "Zarządzaj aplikacjami i urządzeniami"*** i wybierz ***"Aktualizuj wszystkie"***, aby utrzymać wszystkie swoje aplikacje w najnowszej wersji i skorzystać z najnowszych funkcji oraz usprawnień związanych z bezpieczeństwem.
 
-<img alt="Zaktualizuj zainstalowane aplikacje ze Sklepu Play" title="Zaktualizuj zainstalowane aplikacje ze Sklepu Play" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/bezpieczenstwo-sklepu-play-i-aplikacji/aktualizuj-wszystkie-aplikacje-i-gry-ze-sklepu-play.jpg">
+<img alt="Zaktualizuj zainstalowane aplikacje ze Sklepu Play" title="Zaktualizuj zainstalowane aplikacje ze Sklepu Play" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/bezpieczenstwo-sklepu-play-i-aplikacji/aktualizuj-wszystkie-aplikacje-i-gry-ze-sklepu-play.webp">
 
 ## Utrzymuj aktualizacje systemu Android na bieżąco
 

@@ -4,7 +4,7 @@ title: "Play Áruház: gyakran feltett kérdések (GYIK)"
 description: "Találjon válaszokat gyakori kérdésekre a Play Áruház alkalmazással kapcsolatban ebben az informatív bejegyzésben."
 author: adrian
 categories: [Play Aruhaz]
-image: assets/images/posts/hu/play-aruhaz-gyik/play-aruhaz.png
+image: assets/images/posts/hu/play-aruhaz-gyik/play-aruhaz.webp
 permalink: /hu/play-aruhaz-gyik/
 lang: hu
 lang-ref: play-store-frequent-questions
@@ -44,7 +44,7 @@ Ha az eszköze GMS (Google Mobil Szolgáltatások) licenceléssel rendelkezik, a
 
 Menjen a **_Beállításokhoz → Alkalmazások_** menüpontba, és ellenőrizze, hogy ott szerepel-e ott a Google Play Áruház és a Google Play Szolgáltatások. Ha igen, akkor az eszköze rendelkezik GMS-sel.
 
-<img alt="Keresse meg a Play Áruházat az alkalmazások listájában" title="Keresse meg a Play Áruházat az alkalmazások listájában" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/play-aruhaz-alkalmazas/play-aruhaz-alkalmazasok-listaban.jpg">
+<img alt="Keresse meg a Play Áruházat az alkalmazások listájában" title="Keresse meg a Play Áruházat az alkalmazások listájában" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/play-aruhaz-alkalmazas/play-aruhaz-alkalmazasok-listaban.webp">
 
 Ha nem találja őket, akkor valószínűleg az eszköze nem rendelkezik GMS-sel, és esetleg alternatív alkalmazás áruházat kell használnia. Megpróbálhatja telepíteni a Play Áruház alkalmazást a telefonjára az itt található útmutató segítségével: [Töltse le és telepítse a Play Áruházat a telefonjára]({{site.baseurl}}/hu/play-aruhaz-letoltese-es-telepitese/).
 
@@ -75,7 +75,7 @@ A Play Áruház kizárólag az Android operációs rendszerhez tartozik, amely G
 
 Az eszköz operációs rendszerének és verziójának azonosításához lépjen a **_Beállításokhoz → A telefon névjegye → Jogi információ_** menüpontra.
 
-<img alt="Ellenőrizze az Android verziót, majd indítsd el a frissítést" title="Ellenőrizze az Android verziót, majd indítsd el a frissítést" loading="lazy" class="article-image" src="{{site.baseurl}}/assets/images/posts/hu/play-aruhaz-gyik/android-verzio-ellenorzes.jpg">
+<img alt="Ellenőrizze az Android verziót, majd indítsd el a frissítést" title="Ellenőrizze az Android verziót, majd indítsd el a frissítést" loading="lazy" class="article-image" src="{{site.baseurl}}/assets/images/posts/hu/play-aruhaz-gyik/android-verzio-ellenorzes.webp">
 
 Az operációs rendszer és verzió információkat használhatja további részletek keresésére, szükség esetén.
 
@@ -99,21 +99,21 @@ Azonban olyan esetek is előfordulhatnak, amikor szüksége lehet a [Play Áruh�
 Az alkalmazásokhoz kapcsolódó problémák megoldása és az Android rendszer stabilitásának biztosítása érdekében javasolt az összes applikáció frissítése közvetlenül a Play Áruházból.
 
 Menjen a **_Beállítások → Alkalmazás és eszköz kezelése → Összes frissítése_**.
-<img alt="Frissítse az összes Play Áruház appot" title="Frissítse az összes Play Áruház appot" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/play-aruhaz-gyik/alkalmazasok-frissitese-play-aruhazbol.png">
+<img alt="Frissítse az összes Play Áruház appot" title="Frissítse az összes Play Áruház appot" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/play-aruhaz-gyik/alkalmazasok-frissitese-play-aruhazbol.webp">
 
 ## Hogyan tilthatja le a Play Áruházból származó automatikus alkalmazásfrissítéseket?
 
 Alapértelmezés szerint az alkalmazások automatikusan frissülnek, amikor újabb verziók érhetők el.
 
 Ha szeretné manuálisan felügyelni a frissítéseket, vagy aggályai vannak az adatfelhasználással kapcsolatban, letilthatja az automatikus frissítéseket a következő lépésekkel: Menjen a **_Beállítások → Hálózati beállítások → Automatikus frissítése → Ne frissítse automatikusan az alkalmazásokat_** menüpontra.
-<img alt="Tiltsa le az automatikus frissítéseket a Play Áruházból" title="Tiltsa le az automatikus frissítéseket a Play Áruházból" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/play-aruhaz-gyik/play-aruhaz-frissites-tiltasa.jpg">
+<img alt="Tiltsa le az automatikus frissítéseket a Play Áruházból" title="Tiltsa le az automatikus frissítéseket a Play Áruházból" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/play-aruhaz-gyik/play-aruhaz-frissites-tiltasa.webp">
 
 ## Hogyan frissítheti a Play Áruházat?
 
 A Play Áruház alkalmazás általában automatikusan frissül, amikor újabb verziók érhetők el, és rendelkezésre áll stabil internetkapcsolat.
 
 A Play Áruház frissítésének manuális indításához menjen a **_Beállítások → Reszletek → Play Áruház frissítése_** menüpontra.
-<img alt="Frissítse a Play Áruházat" title="Frissítse a Play Áruházat" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/hu/frissites-play-aruhaz/frissites-play-aruhaz.jpg">
+<img alt="Frissítse a Play Áruházat" title="Frissítse a Play Áruházat" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/hu/frissites-play-aruhaz/frissites-play-aruhaz.webp">
 
 Ha bármilyen problémába ütközik a frissítési folyamat során, keresse fel bejegyzésünket további útmutatásért: [Hogyan frissítse a Play Áruház alkalmazást]({{site.baseurl}}/hu/play-aruhaz-frissitese/).
 
@@ -153,7 +153,7 @@ Ahhoz, hogy vásároljon a Play Áruházból, beleértve az appokat, játékokat
 Így teheti ezt meg:
 
 - Nyissa meg a Play Áruházat, menjen a **_Beállításokhoz → Fizetések és előfizetések → Fizetési módok → Hitel - vagy bankkártya hozzáadása_** menüpontra.
-  <img alt="Adja hozzá a fizetési módot a Play Áruházban" title="Adja hozzá a fizetési módot a Play Áruházban" loading="lazy" class="article-image" src="{{site.baseurl}}/assets/images/posts/hu/play-aruhaz-gyik/fizetesi-modszer-hozzaadasa-play-aruhazban.jpg">
+  <img alt="Adja hozzá a fizetési módot a Play Áruházban" title="Adja hozzá a fizetési módot a Play Áruházban" loading="lazy" class="article-image" src="{{site.baseurl}}/assets/images/posts/hu/play-aruhaz-gyik/fizetesi-modszer-hozzaadasa-play-aruhazban.webp">
 - Adja meg a kártya adatait a rendelkezésre álló mezőkben.
 
 ## Hogyan szűrheti a Play Áruház tartalmát kor szerint és alkalmazhat szülői felügyeletet?
@@ -161,7 +161,7 @@ Ahhoz, hogy vásároljon a Play Áruházból, beleértve az appokat, játékokat
 Ha az eszközét gyerekekkel osztja meg, fontolja meg a tartalomkorlátozások alkalmazását kor alapján.
 
 Menjen a **_Beállítások → Családi → Szülői felügyelet_** menüpontra. Szüksége lesz egy PIN kódra, majd kiválaszthatja a kívánt korhatárt (a lehetőségek közé tartozik a 3, 7, 12, 16, 18).
-<img alt="Engedélyezze a szülői felügyeletet a Play Áruházban" title="Engedélyezze a szülői felügyeletet a Play Áruházban" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/play-aruhaz-gyik/szuloi-iranyitas.jpg">
+<img alt="Engedélyezze a szülői felügyeletet a Play Áruházban" title="Engedélyezze a szülői felügyeletet a Play Áruházban" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/play-aruhaz-gyik/szuloi-iranyitas.webp">
 
 ## Használhatok egy Google-fiókot több eszközön egyszerre?
 

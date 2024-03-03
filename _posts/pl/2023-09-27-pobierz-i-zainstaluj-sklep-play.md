@@ -4,7 +4,7 @@ title: "Sklep Play: pobierz i zainstaluj go na swoim urządzeniu za darmo"
 description: "Musisz pobrać i zainstalować Sklep Play, gdy aplikacja przestaje działać lub nie istnieje na Twoim urządzeniu z systemem Android. Oto co musisz zrobić, aby mieć go za darmo!"
 author: adrian
 categories: [Sklep Play]
-image: assets/images/posts/pl/pobierz-zainstaluj-sklep-play/pobierz-zainstaluj-sklep-play_featured.png
+image: assets/images/posts/pl/pobierz-zainstaluj-sklep-play/pobierz-zainstaluj-sklep-play_featured.webp
 permalink: /pl/pobierz-i-zainstaluj-sklep-play/
 lang: pl
 lang-ref: download-play-store
@@ -18,15 +18,15 @@ W tym samouczku dowiesz się, skąd pobrać aplikację Sklepu Play i co musisz z
 
 Domyślne ustawienia zabezpieczeń systemu Android uniemożliwiają instalację aplikacji lub gier z nieznanych lub nieautoryzowanych źródeł. Otrzymasz wiadomość podobną do tej poniżej.
 
-<img alt="Brak uprawnień do instalacji aplikacji z nieznanych źródeł" title="Brak uprawnień do instalacji aplikacji z nieznanych źródeł" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/pl/pobierz-zainstaluj-sklep-play/potwierdzenie-pobierania-sklep-play.jpg">
+<img alt="Brak uprawnień do instalacji aplikacji z nieznanych źródeł" title="Brak uprawnień do instalacji aplikacji z nieznanych źródeł" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/pl/pobierz-zainstaluj-sklep-play/potwierdzenie-pobierania-sklep-play.webp">
 
 Aby móc zainstalować aplikacje z innych źródeł niż Sklep Play, musisz zmienić ustawienie.
 
 Przejdź do ***Ustawienia → Aplikacje → Dostęp specjalny***.
-<img alt="Dostęp do menu umożliwiającego aktywację instalacji z nieznanych źródeł" title="Dostęp do menu umożliwiającego aktywację instalacji z nieznanych źródeł" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/pobierz-zainstaluj-sklep-play/ustawienia-do-wlaczenia-instalowania-z-nieznanych-zrodel.jpg">
+<img alt="Dostęp do menu umożliwiającego aktywację instalacji z nieznanych źródeł" title="Dostęp do menu umożliwiającego aktywację instalacji z nieznanych źródeł" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/pobierz-zainstaluj-sklep-play/ustawienia-do-wlaczenia-instalowania-z-nieznanych-zrodel.webp">
 
 Przejdź do opcji ***„Zainstaluj nieznane aplikacje”*** i włącz opcję dla aplikacji ***„Moje pliki”***.
-<img alt="Włączanie instalacji aplikacji z nieznanych źródeł dla plików APK" title="Włączanie instalacji aplikacji z nieznanych źródeł dla plików APK" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/pobierz-zainstaluj-sklep-play/wlacz-instalowanie-aplikacji-apk-z-nieznanych-zrodel.jpg">
+<img alt="Włączanie instalacji aplikacji z nieznanych źródeł dla plików APK" title="Włączanie instalacji aplikacji z nieznanych źródeł dla plików APK" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/pobierz-zainstaluj-sklep-play/wlacz-instalowanie-aplikacji-apk-z-nieznanych-zrodel.webp">
 
 ## 2. Pobierz plik APK Sklepu Google Play
 
@@ -34,11 +34,11 @@ Na stronie apkmirror.com znajdziesz szeroką gamę aplikacji na system Android, 
 
 [Tutaj](https://www.apkmirror.com/apk/google-inc/google-play-store/) znajdziesz stronę do pobrania Sklepu Google Play. Po prostu pobierz najnowszą kompatybilną wersję dla swojego urządzenia, postępując zgodnie z poniższymi krokami.
 
-<img alt="Pobierz plik APK Sklepu Play" title="Pobierz plik APK Sklepu Play" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/pobierz-zainstaluj-sklep-play/pobierz-sklep-play.jpg">
+<img alt="Pobierz plik APK Sklepu Play" title="Pobierz plik APK Sklepu Play" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/pobierz-zainstaluj-sklep-play/pobierz-sklep-play.webp">
 
 Następnie potwierdź pobranie pliku:
 
-<img alt="Potwierdzenie pobrania Sklepu Play" title="Potwierdzenie pobrania Sklepu Play" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/pl/pobierz-zainstaluj-sklep-play/blad-podczas-instalowania-z-nieznego-zrodla.jpg">
+<img alt="Potwierdzenie pobrania Sklepu Play" title="Potwierdzenie pobrania Sklepu Play" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/pl/pobierz-zainstaluj-sklep-play/blad-podczas-instalowania-z-nieznego-zrodla.webp">
 
 Jeśli nie ma dostępnej kompatybilnej wersji dla Twojego urządzenia, możesz zdecydować się na zainstalowanie usług Google Play, które obejmują również Sklep Google Play.
 
@@ -46,7 +46,7 @@ Jeśli nie ma dostępnej kompatybilnej wersji dla Twojego urządzenia, możesz z
 
 Aby zainstalować aplikację, przejdź do folderu Pobrane na swoim urządzeniu z systemem Android i otwórz plik zawierający aplikację Sklepu Google Play (o rozszerzeniu .apk). Pojawi się okno instalacyjne - naciśnij przycisk Zainstaluj lub Aktualizuj, w zależności od sytuacji.
 
-<img alt="Zainstaluj Sklep Play na swoim urządzeniu z systemem Android" title="Zainstaluj Sklep Play na swoim urządzeniu z systemem Android" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/pl/pobierz-zainstaluj-sklep-play/zainstaluj-aplikacje-sklep-play-apk.jpg">
+<img alt="Zainstaluj Sklep Play na swoim urządzeniu z systemem Android" title="Zainstaluj Sklep Play na swoim urządzeniu z systemem Android" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/pl/pobierz-zainstaluj-sklep-play/zainstaluj-aplikacje-sklep-play-apk.webp">
 
 Poczekaj, aż proces się zakończy, a następnie zamknij okno, naciskając przycisk Gotowe, lub natychmiast uruchom Sklep Play, wybierając Otwórz.
 

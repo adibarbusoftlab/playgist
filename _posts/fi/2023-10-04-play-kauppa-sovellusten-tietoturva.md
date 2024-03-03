@@ -20,11 +20,11 @@ Play Protect on osa Play Kauppaa ja toimii suojana tarkistamalla asennetut sovel
 
 Play Protect löytyy yleensä jo asennettuna ja aktivoituna Play Kauppa-sovelluksessa. Voit käyttää sitä siirtymällä yksinkertaisesti kohtaan ***Asetukset → Play Protect***. Täällä voit tarkastella viimeisintä raporttia sovellusten turvallisuudesta ja aloittaa laitteesi skannauksen.
 
-<img alt="Main screen of Play Protect in the Play Store" title="Main screen of Play Protect in the Play Store" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/suojaa-play-kauppaa-ja-sovelluksia/play-suojan-paarutu.jpg">
+<img alt="Main screen of Play Protect in the Play Store" title="Main screen of Play Protect in the Play Store" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/suojaa-play-kauppaa-ja-sovelluksia/play-suojan-paarutu.webp">
 
 Jos se ei ole jo aktiivisena laitteellasi, voit helposti ottaa sen käyttöön menemällä Play Protect asetuksiin ja kytkemällä päälle vaihtoehdon ***Tarkista sovullukset Play Protectilla***.
 
-<img alt="Enable Scan apps with Play Protect" title="Enable Scan apps with Play Protect" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/suojaa-play-kauppaa-ja-sovelluksia/mahdollista-sovellusten-skannaus-play-suojalla.jpg">
+<img alt="Enable Scan apps with Play Protect" title="Enable Scan apps with Play Protect" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/suojaa-play-kauppaa-ja-sovelluksia/mahdollista-sovellusten-skannaus-play-suojalla.webp">
 
 Kun tämä ominaisuus on käytössä, saat ajoissa varoituksia mahdollisesti haitallisista sovelluksista ennen niiden asennusta tai suoritusta. Lisäksi, jos sovellusta ei käytetä pitkään aikaan, Play Protect ottaa automaattisesti käyttöön toimenpiteitä laitteesi turvallisuuden ja suorituskyvyn parantamiseksi. Tähän sisältyy tarpeettomien käyttöoikeuksien peruuttaminen tietojesi suojelemiseksi, ilmoitusten lopettaminen akun säästämiseksi ja väliaikaisten tiedostojen poistaminen vapauttaaksesi arvokasta tallennustilaa.
 
@@ -74,13 +74,13 @@ Päivitysten hallitsemiseksi tehokkaasti noudata näitä vaiheita Play-kaupassa:
 - Mene kohtaan ***Asetukset → Verkkoasetukset***.
 - Valitse Päivitä sovellukset automaattisesti ja valitse sitten vaihtoehto, joka sopii parhaiten mieltymyksiisi päivitysten suhteen.
 
-<img alt="Enable auto-update apps in Play Store" title="Enable auto-update apps in Play Store" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/suojaa-play-kauppaa-ja-sovelluksia/mahdollista-sovellusten-automaattiset-paivitykset-play-kaupasta.jpg">
+<img alt="Enable auto-update apps in Play Store" title="Enable auto-update apps in Play Store" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/suojaa-play-kauppaa-ja-sovelluksia/mahdollista-sovellusten-automaattiset-paivitykset-play-kaupasta.webp">
 
 Viisas valinta on sallia päivitysten latautuminen vain Wi-Fi-verkoissa, mikä säästää mobiilidataa. Mutta jos mobiilidatasi sallii ja sinulla on varaa, paras valinta on ladata päivitykset minkä tahansa verkon yli nopeampia ja kätevämpiä päivityksiä varten.
 
 Kun olet määrittänyt päivitysasetuksesi, päivitä sovelluksesi Play-kaupasta. Mene kohtaan Asetukset → Hallinnoi sovelluksia ja laitteita ja valitse "Päivitä kaikki" pitääksesi kaikki sovelluksesi ajan tasalla ja hyödyntääksesi uusimpia ominaisuuksia ja turvapäivityksiä.
 
-<img alt="Update installed apps from the Play Store" title="Update installed apps from the Play Store" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/suojaa-play-kauppaa-ja-sovelluksia/paivita-kaikki-sovellukset-ja-pelit-play-kaupasta.jpg">
+<img alt="Update installed apps from the Play Store" title="Update installed apps from the Play Store" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/suojaa-play-kauppaa-ja-sovelluksia/paivita-kaikki-sovellukset-ja-pelit-play-kaupasta.webp">
 
 ## Pitäminen Android-järjestelmäsi ajan tasalla
 

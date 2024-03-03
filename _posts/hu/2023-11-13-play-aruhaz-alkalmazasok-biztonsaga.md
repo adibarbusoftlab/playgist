@@ -21,11 +21,11 @@ A Play Protect része a Play Áruháznak, és alaposan ellenőrzi az alkalmazás
 
 Általában a Play Protect már telepítve és aktiválva van a Play Áruház alkalmazásában. Az eléréséhez egyszerűen menjen a ***Beállítások → Play Protect*** menüpontba. Itt megtekintheti a legfrissebb jelentést az alkalmazások biztonságáról, és akár el is indíthat egy eszközellenőrzést.
 
-<img alt="Főképernyő a Play Protect alkalmazásban a Play Áruházban" title="Főképernyő a Play Protect alkalmazásban a Play Áruházban" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/biztonsagos-alkalmazasok-es-play-aruhaz/play-protect-fokpernyo.jpg">
+<img alt="Főképernyő a Play Protect alkalmazásban a Play Áruházban" title="Főképernyő a Play Protect alkalmazásban a Play Áruházban" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/biztonsagos-alkalmazasok-es-play-aruhaz/play-protect-fokpernyo.webp">
 
 Abban a ritka esetben, ha még nincs aktiválva az eszközén, könnyen engedélyezheti a Play Protect beállításokban, és kapcsolja be az ***"Alkalmazások átvizsgálása a Play Protect segítségével"*** lehetőséget.
 
-<img alt="Engedélyezze a Play Protect alkalmazásokkal történő vizsgálatát" title="Engedélyezze a Play Protect alkalmazásokkal történő vizsgálatát" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/biztonsagos-alkalmazasok-es-play-aruhaz/alkalmazasok-ellenorzese-play-protect-tel.jpg">
+<img alt="Engedélyezze a Play Protect alkalmazásokkal történő vizsgálatát" title="Engedélyezze a Play Protect alkalmazásokkal történő vizsgálatát" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/biztonsagos-alkalmazasok-es-play-aruhaz/alkalmazasok-ellenorzese-play-protect-tel.webp">
 
 Ezzel a funkcióval időben kaphat figyelmeztetéseket a potenciálisan káros alkalmazásokról még a telepítésük vagy futtatásuk előtt. Emellett, ha egy alkalmazás hosszabb időn keresztül nem kerül használatra, a Play Protect automatikusan lépéseket tesz az eszköz biztonságának és teljesítményének fokozása érdekében. Ez magában foglalja a szükségtelen engedélyek visszavonását az adatok védelme érdekében, az értesítések leállítását az akkumulátor élettartamának megőrzése céljából, valamint az ideiglenes fájlok törlését az értékes tárhely felszabadítása végett.
 
@@ -75,13 +75,13 @@ TAz frissítések hatékony kezeléséhez kövesse ezeket a lépéseket a Play �
 - Menjen a Beállítások → Hálózati beállítások menüpontba.
 - Válassza az "Automatikus frissítés" opciót, és válassza ki a frissítésekre vonatkozó preferenciái szerint legjobban megfelelő lehetőséget.
 
-<img alt="Engedélyezze az alkalmazások automatikus frissítését a Play Áruházban" title="Engedélyezze az alkalmazások automatikus frissítését a Play Áruházban" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/biztonsagos-alkalmazasok-es-play-aruhaz/automatikus-frissites-engedelyezese-alkalmazasok-play-aruhazbol.jpg">
+<img alt="Engedélyezze az alkalmazások automatikus frissítését a Play Áruházban" title="Engedélyezze az alkalmazások automatikus frissítését a Play Áruházban" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/biztonsagos-alkalmazasok-es-play-aruhaz/automatikus-frissites-engedelyezese-alkalmazasok-play-aruhazbol.webp">
 
 Bölcs döntés lehet, ha csak Wi-Fi hálózaton keresztül engedélyezi a frissítéseket, ezzel megkímélve a mobiladat-keretet. Azonban a legjobb választás, ha a mobiladat-terve engedi és van némi tartalék gigabyte-ja, hogy bármilyen hálózaton engedélyezi a frissítések letöltését a gyorsabb és kényelmesebb frissítések érdekében.
 
 Miután beállította a frissítési beállításokat, folytassa az alkalmazások frissítésével a Play Áruházból. Menjen a ***Beállítások → "Alkalmazások és eszközök kezelése"*** menüpontba, és válassza az ***'Összes frissítése'*** lehetőséget az összes alkalmazása naprakészen tartása érdekében, és élvezze a legújabb funkciókat és biztonsági frissítéseket.
 
-<img alt="Frissítse a telepített alkalmazásokat a Play Áruházból" title="Frissítse a telepített alkalmazásokat a Play Áruházból" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/biztonsagos-alkalmazasok-es-play-aruhaz/Frissites-az-osszes-alkalmazas-es-jatek-a-play-aruhazbol.jpg">
+<img alt="Frissítse a telepített alkalmazásokat a Play Áruházból" title="Frissítse a telepített alkalmazásokat a Play Áruházból" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/biztonsagos-alkalmazasok-es-play-aruhaz/Frissites-az-osszes-alkalmazas-es-jatek-a-play-aruhazbol.webp">
 
 ## Tartsa naprakészen az Android rendszerét
 

@@ -19,7 +19,7 @@ This article will walk you through the various operations you can perform collec
 
 Navigate to Google Play Store > Manage apps & device. If any of your installed apps or games have new versions available, simply tap the "Update all" button to begin updating all apps and games on your Android device.
 
-<img alt="Updating All Apps and Games via Google Play Store" title="Updating All Apps and Games via Google Play Store" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/android-apps-and-games-management/update-all-apps-and-games-from-play-store.jpg">
+<img alt="Updating All Apps and Games via Google Play Store" title="Updating All Apps and Games via Google Play Store" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/android-apps-and-games-management/update-all-apps-and-games-from-play-store.webp">
 
 ## Updating multiple Apps and games via Google Play Store
 
@@ -31,7 +31,7 @@ To update a specific group of apps through the Google Play Store, follow these s
 
 For game updates, ensure to select the "Games" option alongside the "Updates available" checkbox.
 
-<img alt="Updating multiple Apps and games via Google Play Store" title="Updating multiple Apps and games via Google Play Store" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/android-apps-and-games-management/update-multiple-apps-and-games-at-once-from-play-store.jpg">
+<img alt="Updating multiple Apps and games via Google Play Store" title="Updating multiple Apps and games via Google Play Store" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/android-apps-and-games-management/update-multiple-apps-and-games-at-once-from-play-store.webp">
 
 ## Bulk Uninstalling Apps and Games via Google Play Store
 
@@ -43,7 +43,7 @@ To uninstall multiple apps simultaneously using the Google Play Store, follow th
 
 All the chosen apps and games will be removed from your device.
 
-<img alt="Bulk Uninstalling Apps and Games via Google Play Store" title="Bulk Uninstalling Apps and Games via Google Play Store" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/android-apps-and-games-management/uninstall-multiple-apps-and-games-at-once-from-play-store.jpg">
+<img alt="Bulk Uninstalling Apps and Games via Google Play Store" title="Bulk Uninstalling Apps and Games via Google Play Store" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/android-apps-and-games-management/uninstall-multiple-apps-and-games-at-once-from-play-store.webp">
 
 ## Reinstalling Multiple Apps and Games from Google Play Store History
 
@@ -53,7 +53,7 @@ If you've uninstalled apps or games previously, you can effortlessly reinstall t
 - Use the checkboxes next to the apps or games you want to reinstall.
 - Finally, tap the download button to reinstall the selected apps and games to your device.
 
-<img alt="Reinstalling Multiple Apps and Games from Google Play Store History" title="Reinstalling Multiple Apps and Games from Google Play Store History" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/android-apps-and-games-management/reinstall-multiple-apps-and-games-at-once-from-play-store.jpg">
+<img alt="Reinstalling Multiple Apps and Games from Google Play Store History" title="Reinstalling Multiple Apps and Games from Google Play Store History" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/android-apps-and-games-management/reinstall-multiple-apps-and-games-at-once-from-play-store.webp">
 
 ## Managing Subscriptions for Apps and Games via Google Play Store
 
@@ -64,7 +64,7 @@ To manage your subscriptions, follow these steps:
 - Go to Payments & Subscriptions > Subscriptions.
 - For each subscription or group of subscriptions, you can choose to renew, resubscribe, or cancel as needed.
 
-<img alt="Managing Subscriptions for Apps and Games via Google Play Store" title="Managing Subscriptions for Apps and Games via Google Play Store" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/android-apps-and-games-management/apps-and-games-subscriptions-management-from-play-store.jpg">
+<img alt="Managing Subscriptions for Apps and Games via Google Play Store" title="Managing Subscriptions for Apps and Games via Google Play Store" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/android-apps-and-games-management/apps-and-games-subscriptions-management-from-play-store.webp">
 
 ## Clearing Background Apps and Games for Enhanced Performance
 
@@ -75,7 +75,7 @@ Follow these steps to clean up background apps and games:
 - If there is available internal memory to be freed up, you'll see a list of apps that can be safely cleaned up.
 - Simply tap the "Clean now" button to clear all apps simultaneously. If you wish to exclude certain apps, uncheck them from the list before initiating the cleanup process.
 
-<img alt="Clearing Background Apps and Games for Enhanced Performance" title="Clearing Background Apps and Games for Enhanced Performance" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/android-apps-and-games-management/apps-and-games-memory-cleanup.jpg">
+<img alt="Clearing Background Apps and Games for Enhanced Performance" title="Clearing Background Apps and Games for Enhanced Performance" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/android-apps-and-games-management/apps-and-games-memory-cleanup.webp">
 
 ## Scanning all Apps and Games Against Malware
 
@@ -87,10 +87,10 @@ To scan for malware and suspicious activity, follow these steps below.
 
 Open the app, tap the profile icon, select Play Protect and tap "Scan". If any harmful apps or games are detected, you will receive a notification.
 
-<img alt="Scanning all Apps and Games Against Malware from the Play Store app" title="Scanning all Apps and Games Against Malware from the Play Store app" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/android-apps-and-games-management/apps-and-games-virus-scan-from-play-store.jpg">
+<img alt="Scanning all Apps and Games Against Malware from the Play Store app" title="Scanning all Apps and Games Against Malware from the Play Store app" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/android-apps-and-games-management/apps-and-games-virus-scan-from-play-store.webp">
 
 ***2. From Android OS***:
 
 Navigate to Settings > Device Care / Battery and device care / Device maintenance > Device protection and Tap "Scan phone" for a comprehensive search for malware and suspicious activity within installed apps and games.
 
-<img alt="Scanning all Apps and Games Against Malware from Android OS" title="Scanning all Apps and Games Against Malware from Android OS" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/android-apps-and-games-management/apps-and-games-virus-scan-from-android.jpg">
+<img alt="Scanning all Apps and Games Against Malware from Android OS" title="Scanning all Apps and Games Against Malware from Android OS" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/android-apps-and-games-management/apps-and-games-virus-scan-from-android.webp">

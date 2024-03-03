@@ -24,7 +24,7 @@ The app responsible for the notification typically appears at the top of the not
 
 Long-pressing a notification provides access to more details and options. From there, you should find the option to disable all notifications from that app or navigate directly to the Notification Settings, where you can manage notifications for all installed apps.
 
-<img alt="Block notifications for an app from the notifications center" title="Block notifications for an app from the notifications center" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/block-unwanted-ads-notifications-android/block-app-notification-or-access-notification-settings.jpg">
+<img alt="Block notifications for an app from the notifications center" title="Block notifications for an app from the notifications center" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/block-unwanted-ads-notifications-android/block-app-notification-or-access-notification-settings.webp">
 
 If the app responsible for the notification is unfamiliar or unused, consider uninstalling it.
 
@@ -41,7 +41,7 @@ To prevent pop-ups and redirects in Chrome:
 - Choose "Pop-ups and redirects."
 - Toggle off the option to block all sites from displaying pop-ups and redirects, as this is the recommended setting.
 
-<img alt="Block pop-ups and redirections in Chrome" title="Block pop-ups and redirections in Chrome" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/block-unwanted-ads-notifications-android/block-pop-ups-and-redirections-in-chrome.jpg">
+<img alt="Block pop-ups and redirections in Chrome" title="Block pop-ups and redirections in Chrome" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/block-unwanted-ads-notifications-android/block-pop-ups-and-redirections-in-chrome.webp">
 
 To disable pop-ups and redirects in Firefox:
 - Tap the button at the top-right corner (three dots).
@@ -59,7 +59,7 @@ Here's how:
 - Tap Permissions > Notifications.
 - Toggle off the option.
 
-<img alt="Stop notifications for an app from Android settings" title="Stop notifications for an app from Android settings" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/block-unwanted-ads-notifications-android/stop-app-notifications-android-settings.jpg">
+<img alt="Stop notifications for an app from Android settings" title="Stop notifications for an app from Android settings" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/block-unwanted-ads-notifications-android/stop-app-notifications-android-settings.webp">
 
 ## Disable Ads, Recommendations, and Notifications from App Settings (if available)
 
@@ -67,7 +67,7 @@ When using an app or a game, you may encounter ads, recommendations, and notific
 
 For instance, consider YouTube, which allows you to disable notifications related to recommended videos, subscriptions, and general activity such as streams, comments, and news updates.
 
-<img alt="Manage Youtube app notifications" title="Manage Youtube app notifications" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/block-unwanted-ads-notifications-android/manage-youtube-app-notifications.jpg">
+<img alt="Manage Youtube app notifications" title="Manage Youtube app notifications" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/block-unwanted-ads-notifications-android/manage-youtube-app-notifications.webp">
 
 Follow the same approach for each app or game that exhibits intrusive notification behavior. Explore their settings to locate options for disabling ads, recommendations, and notifications.
 
@@ -88,7 +88,7 @@ To fully utilize Android features, you need a Google account, which automaticall
 Here's how to disable or manage personalized Google ads on Android:
 - Visit My Ad Center at [https://myadcenter.google.com/home](https://myadcenter.google.com/home).
 - In the Personalized ads section, tap the drop-down menu and select "Turn off."
-<img alt="Disable personlized ads from Google account" title="Disable personlized ads from Google account" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/block-unwanted-ads-notifications-android/turn-off-personlized-google-ads.png">
+<img alt="Disable personlized ads from Google account" title="Disable personlized ads from Google account" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/block-unwanted-ads-notifications-android/turn-off-personlized-google-ads.webp">
 - Review the necessary information and tap "Got it" to confirm the change.
 By following these steps, you can customize your ad experience and reduce the visibility of awkward or irrelevant ads.
 

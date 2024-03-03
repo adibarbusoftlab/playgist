@@ -33,17 +33,17 @@ The primary email protocols offered by most email client applications include:
     
     If you can't find it in your list of installed apps, use the search function within the app list to locate it.
 
-    <img alt="Locate Gmail on Android main screen" title="Locate Gmail on Android main screen" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/setup-email-on-android-devices/gmail-on-android-main-screen.jpg">
+    <img alt="Locate Gmail on Android main screen" title="Locate Gmail on Android main screen" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/setup-email-on-android-devices/gmail-on-android-main-screen.webp">
     
     If the app isn't installed on your device, you can [install Gmail from the Google Play Store](https://play.google.com/store/apps/details?id=com.google.android.gm&hl=en_US).
 
 2. Within the Gmail app, select the option to set up a new email account.
 
-    <img alt="Setting up a new email account in Gmail" title="Setting up a new email account in Gmail" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/setup-email-on-android-devices/add-email-account-into-gmail.jpg">
+    <img alt="Setting up a new email account in Gmail" title="Setting up a new email account in Gmail" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/setup-email-on-android-devices/add-email-account-into-gmail.webp">
 
 3. Choose your email service provider (Google, Yahoo, Outlook, etc.), then input your email address and password for the account.
 
-    <img alt="Select email account provider" title="Select email account provider" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/setup-email-on-android-devices/select-email-provider.jpg">
+    <img alt="Select email account provider" title="Select email account provider" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/setup-email-on-android-devices/select-email-provider.webp">
 
 4. Grant the Gmail app permission to access your email account.
 
@@ -53,11 +53,11 @@ If your email service provider isn't listed when setting up a new account (such 
 
 1. Open the Gmail app, select to set up a new account, and choose the "Other" option.
 
-    <img alt="Set up a custom email provider" title="Set up a custom email provider" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/setup-email-on-android-devices/set-up-dedicated-email-provider-in-gmail.jpg">
+    <img alt="Set up a custom email provider" title="Set up a custom email provider" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/setup-email-on-android-devices/set-up-dedicated-email-provider-in-gmail.webp">
 
 2. Enter your email address and then tap the manual configuration button.
 
-    <img alt="Opt to setup email using manual configuration" title="Opt to setup email using manual configuration" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/setup-email-on-android-devices/email-manual-setup.jpg">
+    <img alt="Opt to setup email using manual configuration" title="Opt to setup email using manual configuration" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/setup-email-on-android-devices/email-manual-setup.webp">
 
 3. ***Select the Personal (IMAP)*** option as the account type to copy emails from the server to the email client while maintaining them separately on the server. Alternatively, you can choose the Personal (POP3) option, but this will permanently move new emails from the server to the device, storing them solely on the device.
 
@@ -65,7 +65,7 @@ If your email service provider isn't listed when setting up a new account (such 
 
 5. The email server configuration will be automatically filled in. If the actual server differs from the one filled in, update it and tap Next to proceed.
 
-    <img alt="Setting manual email configuration" title="Setting manual email configuration" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/setup-email-on-android-devices/server-settings-setup.jpg">
+    <img alt="Setting manual email configuration" title="Setting manual email configuration" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/en/setup-email-on-android-devices/server-settings-setup.webp">
 
     The internal configuration, including Incoming and Outgoing SMTP ports, will be retrieved from the server. If a connection cannot be established, you'll need to manually input both ports and set the accepted security protocol as provided by the email service provider or network administrator.
 

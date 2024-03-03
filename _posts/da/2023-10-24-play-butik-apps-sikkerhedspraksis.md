@@ -20,11 +20,11 @@ Play Protect er en del af Play Butikken og fungerer som en beskyttelse ved omhyg
 
 Normalt finder du Play Protect allerede installeret og aktiveret i Play Butikken. For at få adgang til det skal du blot navigere til **_Indstillinger → Play Protect_**. Her kan du se den seneste rapport om app-sikkerhed og endda starte en scanning af din enhed.
 
-<img alt="Startskærm for Play Protect i Play Butikken" title="Startskærm for Play Protect i Play Butikken" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/sikre-apps-og-play-butik/play-protect-hovedskarm.jpg">
+<img alt="Startskærm for Play Protect i Play Butikken" title="Startskærm for Play Protect i Play Butikken" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/sikre-apps-og-play-butik/play-protect-hovedskarm.webp">
 
 I det sjældne tilfælde at det ikke allerede er aktiveret på din enhed, kan du nemt aktivere det ved at gå til Play Protect-indstillingerne og aktivere muligheden for at ***Scan apps med Play Protect***.
 
-<img alt="Aktivér Scan apps med Play Protect" title="Aktivér Scan apps med Play Protect" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/sikre-apps-og-play-butik/aktiver-scanning-af-apps-med-play-protect.jpg">
+<img alt="Aktivér Scan apps med Play Protect" title="Aktivér Scan apps med Play Protect" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/sikre-apps-og-play-butik/aktiver-scanning-af-apps-med-play-protect.webp">
 
 Med denne funktion aktiveret får du fordel af rettidige advarsler om potentielt skadelige apps før installation eller kørsel. Derudover, hvis en app forbliver ubrugt i en længere periode, tager Play Protect automatisk skridt til at forbedre din enheds sikkerhed og ydeevne. Dette inkluderer tilbagekaldelse af unødvendige tilladelser for at beskytte dine data, ophør af meddelelser for at spare på batteriets levetid og sletning af midlertidige filer for at frigøre værdifuld lagerplads.
 
@@ -76,13 +76,13 @@ For at administrere opdateringer effektivt skal du følge disse trin i Play Buti
 - Gå til **_Indstillinger → Netværkspræferencer_**.
 - Vælg Indstilling for download af apps og vælg derefter den indstilling, der passer bedst til dine præferencer vedrørende opdateringer.
 
-<img alt="Aktivér automatisk opdatering af apps i Play Butikken" title="Aktivér automatisk opdatering af apps i Play Butikken" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/sikre-apps-og-play-butik/aktiver-auto-opdatering-af-apps-fra-play-butikken.jpg">
+<img alt="Aktivér automatisk opdatering af apps i Play Butikken" title="Aktivér automatisk opdatering af apps i Play Butikken" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/sikre-apps-og-play-butik/aktiver-auto-opdatering-af-apps-fra-play-butikken.webp">
 
 Et fornuftigt valg er at tillade, at opdateringer downloades kun over Wi-Fi-netværk, for at spare mobildataforbrug. Men det optimale valg, hvis din mobildata tillader det, og du har nogle ekstra gigabytes, er at downloade opdateringer over ethvert netværk for hurtigere og mere bekvemme opdateringer.
 
 Når du har konfigureret dine opdaterings indstillinger, skal du gå videre til at opdatere dine apps fra Play Butikken. Gå til **_Indstillinger → Administrer apps og enheder_** og vælg ***'Opdater alle'*** for at holde alle dine apps aktuelle og drage fordel af de nyeste funktioner og sikkerhedsforbedringer.
 
-<img alt="Opdater installerede apps fra Play Butikken" title="Opdater installerede apps fra Play Butikken" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/play-butik-oss/opdater-apps-fra-play-butikken.jpg">
+<img alt="Opdater installerede apps fra Play Butikken" title="Opdater installerede apps fra Play Butikken" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/play-butik-oss/opdater-apps-fra-play-butikken.webp">
 
 ## Hold din Android-system opdateret
 

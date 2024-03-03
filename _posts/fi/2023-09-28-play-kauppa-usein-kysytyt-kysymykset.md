@@ -4,7 +4,7 @@ title: "Play Kauppa: Usein kysytyt kysymykset (UKK)"
 description: "Löydä vastaukset yleisiin kysymyksiin Play Kauppa -sovelluksesta tästä informatiivisesta artikkelista."
 author: adrian
 categories: [Play Kauppa]
-image: assets/images/posts/fi/play-kauppa-ukk/play-kauppa_featured.png
+image: assets/images/posts/fi/play-kauppa-ukk/play-kauppa_featured.webp
 permalink: /fi/play-kauppa-usein-kysytyt-kysymykset/
 lang: fi
 lang-ref: play-store-frequent-questions
@@ -40,7 +40,7 @@ Kuitenkin Kiinasta peräisin olevat laitteet, kuten Huawein laitteet, eivät sis
 Jos laitteellasi on GMS (Google Mobile Services) -lisenssi, löydät Play Kaupan ja Google Play -palvelut asennettuina.
 
 Mene ***Asetukset → Sovellukset*** ja tarkista, ovatko Google Play Kauppa ja Google Play -palvelut luettelossa. Jos ne ovat, laitteellasi on GMS.
-<img alt="Etsi Play Kauppa sovellusluettelosta" title="Etsi Play Kauppa sovellusluettelosta" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/play-kauppa-sovellus/play-kauppa-sovellus-sovellusluettelossa.jpg">
+<img alt="Etsi Play Kauppa sovellusluettelosta" title="Etsi Play Kauppa sovellusluettelosta" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/play-kauppa-sovellus/play-kauppa-sovellus-sovellusluettelossa.webp">
 
 Jos et löydä niitä, laitteessasi todennäköisesti ei ole GMS:ää, ja sinun voi olla tarpeen käyttää vaihtoehtoista sovelluskauppaa. Voit myös yrittää asentaa Play Kauppa -sovelluksen puhelimeesi oppaan avulla, joka löytyy täältä: [Lataa ja asenna Play Kauppa puhelimeesi]({{site.baseurl}}/fi/lataa-ja-asenna-play-kauppa/).
 
@@ -68,7 +68,7 @@ Play Kauppa on yksinoikeus Android-käyttöjärjestelmälle ja sitä voidaan lö
 
 Laitekäyttöjärjestelmäsi ja sen versio on mahdollista tarkistaa siirtymällä ***Asetukset → Tietoa puhelimesta → Ohjelmiston tiedot***.
 
-<img alt="Vahvista Android-version ja aloita päivitys" title="Vahvista Android-version ja aloita päivitys" loading="lazy" class="article-image" src="{{site.baseurl}}/assets/images/posts/fi/play-kauppa-ukk/tarkista-android-versio.jpg">
+<img alt="Vahvista Android-version ja aloita päivitys" title="Vahvista Android-version ja aloita päivitys" loading="lazy" class="article-image" src="{{site.baseurl}}/assets/images/posts/fi/play-kauppa-ukk/tarkista-android-versio.webp">
 
 Voit käyttää käyttöjärjestelmä- ja versiotietoja etsiäksesi lisätietoja tarvittaessa.
 
@@ -92,21 +92,21 @@ Kuitenkin on tilanteita, jolloin saattaa olla tarpeen [ladata ja asentaa Play Ka
 Sovellusongelmien ratkaisemiseksi ja Android-järjestelmän vakauden varmistamiseksi on suositeltavaa päivittää kaikki sovellukset suoraan Play Kaupasta.
 
 Siirry kohtaan ***Asetukset → Hallinnoi sovellusta ja laitetta → Päivitä kaikki***.
-<img alt="Päivitä kaikki Play Kaupan sovellukset" title="Päivitä kaikki Play Kaupan sovellukset" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/play-kauppa-ukk/paivita-sovellukset-play-kaupasta.png">
+<img alt="Päivitä kaikki Play Kaupan sovellukset" title="Päivitä kaikki Play Kaupan sovellukset" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/play-kauppa-ukk/paivita-sovellukset-play-kaupasta.webp">
 
 ## Kuinka estää automaattiset sovelluspäivitykset Play Kaupasta?
 
 Oletuksena sovellukset päivittyvät automaattisesti, kun uudemmat versiot tulevat saataville.
 
 Jos haluat manuaalisesti hallita päivityksiä tai sinulla on huolia tietojen käytöstä, voit poistaa automaattiset päivitykset seuraamalla näitä vaiheita: mene kohtaan ***Asetukset → Verkkomääritykset → Päivitä sovellukset automaattisesti → Älä päivitä sovelluksia automaattisesti***.
-<img alt="Poista automaattiset päivitykset Play Kaupasta" title="Poista automaattiset päivitykset Play Kaupasta" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/play-kauppa-ukk/poista-play-kaupan-paivitykset-kaytosta.jpg">
+<img alt="Poista automaattiset päivitykset Play Kaupasta" title="Poista automaattiset päivitykset Play Kaupasta" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/play-kauppa-ukk/poista-play-kaupan-paivitykset-kaytosta.webp">
 
 ## Kuinka päivittää Play Kauppa?
 
 Play Kauppa -sovellus päivittyy yleensä automaattisesti, kun uudet versiot julkaistaan ja aktiivinen internetyhteys on käytettävissä.
 
 Jos haluat manuaalisesti käynnistää Play Kaupan päivityksen, mene kohtaan ***Asetukset → Tietoa → Päivitä Play Kauppa***.
-<img alt="Päivitä Play Kauppa" title="Päivitä Play Kauppa" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/fi/play-kauppa-ukk/paivita-play-kauppa.jpg">
+<img alt="Päivitä Play Kauppa" title="Päivitä Play Kauppa" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/fi/play-kauppa-ukk/paivita-play-kauppa.webp">
 
 Jos kohtaat ongelmia päivitysprosessin aikana, viittaa artikkeliimme, [Kuinka päivittää Play Kauppa -sovellus]({{site.baseurl}}/fi/play-kaupan-paivitys/) lisäohjeita varten.
 
@@ -144,7 +144,7 @@ Ostosten tekemiseksi Play Kaupasta, mukaan lukien sovellukset, pelit, verkkopalv
 
 Tässä miten se tehdään:
  - Avaa Play Kauppa, mene kohtaan ***Asetukset → Maksut ja tilaukset → Maksutavat → Lisää luotto- tai debit-kortti***.
-<img alt="Lisää maksutapa Play Kaupassa" title="Lisää maksutapa Play Kaupassa" loading="lazy" class="article-image" src="{{site.baseurl}}/assets/images/posts/fi/play-kauppa-ukk/lisaa-maksutapa-play-kaupassa.jpg">
+<img alt="Lisää maksutapa Play Kaupassa" title="Lisää maksutapa Play Kaupassa" loading="lazy" class="article-image" src="{{site.baseurl}}/assets/images/posts/fi/play-kauppa-ukk/lisaa-maksutapa-play-kaupassa.webp">
 - Syötä korttitiedot saatavilla oleviin kenttiin.
 
 ## Kuinka voin suodattaa Play Kaupan sisältöä iän perusteella ja soveltaa vanhempainvalvontaa?
@@ -153,7 +153,7 @@ Jos laitetta käytetään yhdessä lasten kanssa, harkitse sisältörajoitusten 
 
 Siirry kohtaan ***Asetukset → Perhe → Lapsilukko***. Sinun tulee luoda PIN-koodi, jonka jälkeen voit valita haluamasi kypsyystason (vaihtoehtoina ovat 3, 7, 12, 16, 18).
 
-<img alt="Ota käyttöön vanhempainvalvonta Play Kaupassa" title="Ota käyttöön vanhempainvalvonta Play Kaupassa" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/play-kauppa-ukk/vanhempien-hallinta.jpg">
+<img alt="Ota käyttöön vanhempainvalvonta Play Kaupassa" title="Ota käyttöön vanhempainvalvonta Play Kaupassa" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/fi/play-kauppa-ukk/vanhempien-hallinta.webp">
 
 ## Voinko käyttää yhtä Google-tiliä useilla laitteilla samanaikaisesti?
 

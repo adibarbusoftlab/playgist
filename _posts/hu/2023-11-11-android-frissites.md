@@ -4,7 +4,7 @@ title: "Android frissítés - hogyan érhető el a legfrissebb verzió"
 description: "Tartsa eszközét naprakészen: hogyan frissítheti az Android rendszert a beállításokból, hogyan frissítheti manuálisan számítógépen keresztül, és hogyan végezhet teljes rendszerfrissítést."
 author: adrian
 categories: [Android]
-image: assets/images/posts/hu/android-frissites/frissites-felujitas-android_kiemelt.jpg
+image: assets/images/posts/hu/android-frissites/frissites-felujitas-android_kiemelt.webp
 permalink: /hu/android-frissites/
 lang: hu
 lang-ref: android-update-upgrade
@@ -51,10 +51,10 @@ Az eszköz előkészítésének lépesei fontosak ahhoz, hogy sima legyen friss�
 Ha elérhető a telefon vagy a táblagép, a frissítés egy egyszerű folyamat, amelyet közvetlenül a rendszerből lehet elvégezni.
 
 Menjen a **_„Beállításokhoz”_**, válassza ki az **_„A telefon névjegye” vagy „A táblagépről névjegye”_** lehetőséget, majd koppintson a **_„Szoftverfrissítés”_** opcióra.
-<img alt="Hozzáférés a beállításokhoz az Android frissítéséheze" title="Hozzáférés a beállításokhoz az Android frissítéséheze" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/android-frissites/hozzaferes-frissites-beallitasok-android.jpg">
+<img alt="Hozzáférés a beállításokhoz az Android frissítéséheze" title="Hozzáférés a beállításokhoz az Android frissítéséheze" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/android-frissites/hozzaferes-frissites-beallitasok-android.webp">
 
 Koppintson a **_„Letöltés és telepítés”_** lehetőségre a legújabb Android verzió ellenőrzéséhez.
-<img alt="Indítsa el az Android frissítést" title="Indítsa el az Android frissítést" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/android-frissites/android-szoftverfrissites.jpg">
+<img alt="Indítsa el az Android frissítést" title="Indítsa el az Android frissítést" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/android-frissites/android-szoftverfrissites.webp">
 
 Ha elérhető új verzió, megjelenik egy ablak, amely lehetővé teszi a legújabb verzió letöltését. Kattintson a „Frissítés” gombra, és várja meg a letöltés befejezését.
 

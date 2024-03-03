@@ -4,7 +4,7 @@ title: "Reset telefonu / tabletu - jak przywrócić system Android do ustawień 
 description: "Resetowanie do ustawień fabrycznych jest wykonywane, gdy system Android działa niewłaściwie lub gdy chcesz trwale usunąć wszystkie dane. Poznaj dwie metody resetowania."
 author: adrian
 categories: [Android]
-image: assets/images/posts/pl/resetowanie-androida/resetowanie-androida_featured.png
+image: assets/images/posts/pl/resetowanie-androida/resetowanie-androida_featured.webp
 permalink: /pl/resetowanie-android-do-ustawien-fabrycznych/
 lang: pl
 lang-ref: reset-android-to-factory-settings
@@ -41,7 +41,7 @@ Najprostszym sposobem rozpoczęcia resetu urządzenia jest dostęp do opcji rese
 
 Lokalizacja menu resetowania fabrycznego różni się w zależności od producenta urządzenia i wersji systemu Android. Dlatego najszybszym sposobem znalezienia menu resetu jest przeprowadzenie wyszukiwania, takiego jak „reset” lub „usuń” w menu Ustawienia.
 
-<img alt="Wyszukaj resetowanie do ustawień domyślnych w systemie Android" title="Wyszukaj resetowanie do ustawień domyślnych w systemie Android" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/resetowanie-androida/wyszukiwanie-menu-resetowania-w-systemie-android.jpg">
+<img alt="Wyszukaj resetowanie do ustawień domyślnych w systemie Android" title="Wyszukaj resetowanie do ustawień domyślnych w systemie Android" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/resetowanie-androida/wyszukiwanie-menu-resetowania-w-systemie-android.webp">
 
 Ogólne sposoby dostępu do opcji resetu obejmują te ścieżki:
 - Ustawienia → Zarządzanie ogólne → Reset → Resetowanie danych fabrycznych
@@ -55,24 +55,24 @@ Ogólne sposoby dostępu do opcji resetu obejmują te ścieżki:
 
 Przed wykonaniem resetu fabrycznego możesz rozważyć alternatywne opcje resetowania, takie jak "Reset wszystkich ustawień", "Reset ustawień sieciowych" i "Reset ustawień dostępności".
 
-<img alt="Opcje resetowania urządzenia z systemem Android" title="Opcje resetowania urządzenia z systemem Android" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/resetowanie-androida/opcje-resetowania.jpg">
+<img alt="Opcje resetowania urządzenia z systemem Android" title="Opcje resetowania urządzenia z systemem Android" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/resetowanie-androida/opcje-resetowania.webp">
 
 Te opcje często pozwalają na resetowanie konkretnych aspektów konfiguracji urządzenia bez usuwania wszystkich danych. Upewnij się, aby zapoznać się z tymi alternatywami, jeśli pełny reset fabryczny nie jest konieczny dla Twojej konkretnej sytuacji.
 
 Reset wszystkich ustawień:
-<img alt="Resetowanie ustawień domyślnych" title="Resetowanie ustawień domyślnych" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/resetowanie-androida/resetuj-wszystkie-ustawienia.jpg">
+<img alt="Resetowanie ustawień domyślnych" title="Resetowanie ustawień domyślnych" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/resetowanie-androida/resetuj-wszystkie-ustawienia.webp">
 
 Reset ustawień sieciowych:
-<img alt="Resetowanie ustawień sieciowych do domyślnych" title="Resetowanie ustawień sieciowych do domyślnych" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/resetowanie-androida/resetuj-ustawienia-sieci.jpg">
+<img alt="Resetowanie ustawień sieciowych do domyślnych" title="Resetowanie ustawień sieciowych do domyślnych" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/resetowanie-androida/resetuj-ustawienia-sieci.webp">
 
 Reset ustawień dostępności:
-<img alt="Resetowanie ustawień dostępności do domyślnych" title="Resetowanie ustawień dostępności do domyślnych" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/resetowanie-androida/resetuj-ustawienia-dostepnosci.jpg">
+<img alt="Resetowanie ustawień dostępności do domyślnych" title="Resetowanie ustawień dostępności do domyślnych" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/resetowanie-androida/resetuj-ustawienia-dostepnosci.webp">
 
 ### 3. Wykonywanie resetu fabrycznego
 
 Wybierz opcję ***Resetowanie danych fabrycznych***, przejrzyj listę typów danych, które zostaną usunięte z pamięci wewnętrznej telefonu (jak pokazano poniżej), a następnie dotknij „Reset”.
 
-<img alt="Skasowane dane przez operację resetowania do ustawień fabrycznych" title="Skasowane dane przez operację resetowania do ustawień fabrycznych" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/resetowanie-androida/usuniete-dane-zerowanie-do-fabrycznych-ustawien.jpg">
+<img alt="Skasowane dane przez operację resetowania do ustawień fabrycznych" title="Skasowane dane przez operację resetowania do ustawień fabrycznych" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/resetowanie-androida/usuniete-dane-zerowanie-do-fabrycznych-ustawien.webp">
 
 Aby potwierdzić operację resetu, naciśnij przycisk „Wymaż wszystko”.
 

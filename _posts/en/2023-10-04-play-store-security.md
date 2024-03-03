@@ -20,11 +20,11 @@ Play Protect is part of the Play Store, and serves as a safeguard by meticulousl
 
 You'll typically find Play Protect already installed and activated within the Play Store app. To access it, simply navigate to ***Settings → Play Protect***. Here, you can view the latest report on app safety and even start a scan of your device.
 
-<img alt="Main screen of Play Protect in the Play Store" title="Main screen of Play Protect in the Play Store" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/secure-apps-and-play-store/play-protect-main-screen.jpg">
+<img alt="Main screen of Play Protect in the Play Store" title="Main screen of Play Protect in the Play Store" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/secure-apps-and-play-store/play-protect-main-screen.webp">
 
 In the rare event that it's not already active on your device, you can easily enable it by going to the Play Protect settings and turn on the option ***Scan apps with Play Protect***.
 
-<img alt="Enable Scan apps with Play Protect" title="Enable Scan apps with Play Protect" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/secure-apps-and-play-store/enable-scan-apps-with-play-protect.jpg">
+<img alt="Enable Scan apps with Play Protect" title="Enable Scan apps with Play Protect" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/secure-apps-and-play-store/enable-scan-apps-with-play-protect.webp">
 
 With this feature enabled, you gain the advantage of timely warnings about potentially harmful apps before installation or execution. Furthermore, if an app remains unused for an extended period, Play Protect automatically takes steps to enhance your device's security and performance. This includes revoking unnecessary permissions to safeguard your data, ceasing notifications to conserve battery life, and clearing temporary files to free up valuable storage space.
 
@@ -73,13 +73,13 @@ To manage updates effectively, follow these steps in the Play Store:
 - Go to ***Settings → Network preferences***.
 - Select ***Auto-update apps***, and then choose the option that best suits your preferences regarding updates.
 
-<img alt="Enable auto-update apps in Play Store" title="Enable auto-update apps in Play Store" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/secure-apps-and-play-store/enable-auto-update-apps-from-play-store.jpg">
+<img alt="Enable auto-update apps in Play Store" title="Enable auto-update apps in Play Store" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/secure-apps-and-play-store/enable-auto-update-apps-from-play-store.webp">
 
 A prudent choice is to permit updates to download over Wi-Fi networks only, conserving mobile data usage. However, the optimal choice, if your mobile data plan allows and you have some spare gigabytes, is to download updates over any network for faster and more convenient updates.
 
 Once you've configured your update settings, proceed to update your apps from the Play Store. Navigate to ***Settings → Manage apps & devices***, and choose ***'Update all'*** to keep all your apps current and benefit from the latest features and security enhancements.
 
-<img alt="Update installed apps from the Play Store" title="Update installed apps from the Play Store" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/secure-apps-and-play-store/update-all-apps-and-games-from-play-store.jpg">
+<img alt="Update installed apps from the Play Store" title="Update installed apps from the Play Store" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/en/secure-apps-and-play-store/update-all-apps-and-games-from-play-store.webp">
 
 ## Keep your Android system up-to-date
 

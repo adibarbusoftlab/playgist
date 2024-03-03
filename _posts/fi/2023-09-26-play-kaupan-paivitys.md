@@ -4,7 +4,7 @@ title: "Play Kauppa: automaattinen päivitys vs. manuaalinen päivitys"
 description: "Käytä Play Kaupan uusinta versiota saadaksesi täyden pääsyn olemassa olevaan sisältöön. Opettele kaksi tapaa päivittää: automaattinen ja manuaalinen."
 author: adrian
 categories: [Play Kauppa]
-image: assets/images/posts/fi/paivita-play-kauppa/paivita-play-kauppa_featured.png
+image: assets/images/posts/fi/paivita-play-kauppa/paivita-play-kauppa_featured.webp
 permalink: /fi/play-kaupan-paivitys/
 lang: fi
 lang-ref: update-play-store
@@ -32,15 +32,15 @@ Ennen päivitysprosessin yksityiskohtia on tärkeää ymmärtää ero automaatti
 Helpoin tapa päivittää Play Kauppa on suoraan sovelluksen kautta. Tässä ovat vaiheet:
 
 1. Avaa Play Kauppa -sovellus ja siirry tilin asetuksiin. (Vanhemmissa laitteissa pääsy tapahtuu napauttamalla näytön vasemmassa yläkulmassa olevaa kolmea vaakasuoraa viivaa esittävää painiketta.)
-<img alt="Pääsy Play Kaupan päivitysasetuksiin" title="Pääsy Play Kaupan päivitysasetuksiin" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/fi/paivita-play-kauppa/paasy-play-kauppa-paivitysasetuksiin.jpg">
+<img alt="Pääsy Play Kaupan päivitysasetuksiin" title="Pääsy Play Kaupan päivitysasetuksiin" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/fi/paivita-play-kauppa/paasy-play-kauppa-paivitysasetuksiin.webp">
 
 2. Selaa alas kohtaan ***"Tietoa"***, josta löydät tiedot nykyisestä Google Play Kaupan versiosta. Napauta ***"Päivitä Play Kauppa"*** aloittaaksesi uusimpien saatavilla olevien versioiden etsinnän.
-<img alt="Päivitys Play Kauppa -sovelluksen avulla" title="Päivitys Play Kauppa -sovelluksen avulla" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/fi/paivita-play-kauppa/paivita-play-kauppa.jpg">
+<img alt="Päivitys Play Kauppa -sovelluksen avulla" title="Päivitys Play Kauppa -sovelluksen avulla" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/fi/paivita-play-kauppa/paivita-play-kauppa.webp">
 
 3. Jos uudempi versio on saatavilla, saat ilmoituksen, ja sinun on painettava "Asenna" aloittaaksesi päivityksen. On tärkeää, että sinulla on vakaa internetyhteys, mieluiten Wi-Fi, sujuvaa päivitysprosessia varten.
 
 4. Jos sinulla on jo uusin versio, saat ilmoituksen, jossa ilmoitetaan, ettei päivityksiä ole saatavilla.
-<img alt="Google Play Kaupan sovellus päivitetään" title="Google Play Kaupan sovellus päivitetään" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/fi/paivita-play-kauppa/play-kauppa-sovellus-on-paivitetty.jpg">
+<img alt="Google Play Kaupan sovellus päivitetään" title="Google Play Kaupan sovellus päivitetään" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/fi/paivita-play-kauppa/play-kauppa-sovellus-on-paivitetty.webp">
 
 ## Menetelmä 2: Play Kapuan manuaalinen päivitys käyttäen APK-tiedostoa
 

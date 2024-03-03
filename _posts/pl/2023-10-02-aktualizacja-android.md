@@ -4,7 +4,7 @@ title: "Aktualizacja Androida / uaktualnienie - jak uzyskać najnowszą wersję"
 description: "Utrzymuj swoje urządzenie zawsze zaktualizowane: dowiedz się, jak aktualizować system Android z poziomu ustawień, jak ręcznie aktualizować go za pomocą komputera, oraz jak przeprowadzić pełną modernizację systemu."
 author: adrian
 categories: [Android]
-image: assets/images/posts/pl/aktualizacja-androida/aktualizacja-androida_featured.jpg
+image: assets/images/posts/pl/aktualizacja-androida/aktualizacja-androida_featured.webp
 permalink: /pl/aktualizacja-android/
 lang: pl
 lang-ref: android-update-upgrade
@@ -50,10 +50,10 @@ Kroki przygotowawcze dla Twojego urządzenia są niezbędne, aby zapewnić płyn
 Jeśli Twój telefon lub tablet jest dostępny, jego aktualizacja jest prostym procesem, który można wykonać bezpośrednio z systemu.
 
 Przejdź do "Ustawień", wybierz "O telefonie" lub "O tablecie", a następnie dotknij "Aktualizacja oprogramowania".
-<img alt="Dostęp do ustawień aktualizacji Androida" title="Dostęp do ustawień aktualizacji Androida" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/aktualizacja-androida/dostep-aktualizacji-ustawien-android.jpg">
+<img alt="Dostęp do ustawień aktualizacji Androida" title="Dostęp do ustawień aktualizacji Androida" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/aktualizacja-androida/dostep-aktualizacji-ustawien-android.webp">
 
 Dotknij "Pobierz i zainstaluj", aby rozpocząć sprawdzanie dostępności nowej wersji Androida.
-<img alt="Rozpoczęcie aktualizacji Androida" title="Rozpoczęcie aktualizacji Androida" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/aktualizacja-androida/aktualizacja-ulepszenia-android_wyroznione.jpg">
+<img alt="Rozpoczęcie aktualizacji Androida" title="Rozpoczęcie aktualizacji Androida" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/pl/aktualizacja-androida/aktualizacja-ulepszenia-android_wyroznione.webp">
 
 Jeśli jest dostępna nowsza wersja, pojawi się okno umożliwiające pobranie najnowszej wersji. Kliknij przycisk "Aktualizuj" i poczekaj, aż pobieranie zostanie ukończone.
 

@@ -43,7 +43,7 @@ However, devices from China, like Huawei, do not come with GMS, which means the 
 If your device has GMS (Google Mobile Services) licensing, you'll find the Play Store and Google Play Services installed.
 
 Go to ***Settings → Apps***, and check if Google Play Store and Google Play Services are listed there. If they are, your device has GMS.
-<img alt="Search Play Store in the list with apps" title="Search Play Store in the list with apps" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-faqs/play-store-in-apps-list.jpg">
+<img alt="Search Play Store in the list with apps" title="Search Play Store in the list with apps" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-faqs/play-store-in-apps-list.webp">
 
 If you can't find them, your device likely doesn't have GMS, and you may need to use an alternative app store. You can also try to get the Play Store app on your phone using the guide provided here: [Download and install Play Store on your phone]({{site.baseurl}}/en/download-and-install-play-store/).
 
@@ -73,7 +73,7 @@ Play Store is exclusive to the Android operating system, which can be found on d
 
 To identify your device's operating system and version, navigate to ***Settings → About phone → Software information***.
 
-<img alt="Verify Android version and begin the update" title="Verify Android version and begin the update" loading="lazy" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-faqs/check-android-version.jpg">
+<img alt="Verify Android version and begin the update" title="Verify Android version and begin the update" loading="lazy" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-faqs/check-android-version.webp">
 
 You can use the OS and version information to search for additional details, if necessary.
 
@@ -97,21 +97,21 @@ However, there are instances when you might need to [download and install Play S
 For resolving app-related issues and ensuring the stability of your Android system, it's advisable to update all apps directly from the Play Store
 
 Navigate to ***Settings → Manage app & device → Update All***.
-<img alt="Update all Play Store apps" title="Update all Play Store apps" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-faqs/update-apps-from-play-store.png">
+<img alt="Update all Play Store apps" title="Update all Play Store apps" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-faqs/update-apps-from-play-store.webp">
 
 ## How to disable automatic app updates from the Play Store?
 
 By default, apps are automatically updated when newer versions become available.
 
 If you prefer manual control over the updates or have concerns about data usage, you can disable auto-updates by following these steps: go to ***Settings → Network Preferences → Auto-update apps → Don't auto-update apps***.
-<img alt="Disable auto updates from Play Store" title="Disable auto updates from Play Store" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-faqs/disable-play-store-updates.jpg">
+<img alt="Disable auto updates from Play Store" title="Disable auto updates from Play Store" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-faqs/disable-play-store-updates.webp">
 
 ## How to update the Play Store?
 
 Play Store app typically updates automatically when newer versions are released and an active internet connection is available. 
 
 To manually initiate the Play Store update, go to ***Settings → About → Update Play Store***.
-<img alt="Update Play Store" title="Update Play Store" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-faqs/update-play-store.jpg">
+<img alt="Update Play Store" title="Update Play Store" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-faqs/update-play-store.webp">
 
 If you encounter any issues during the update process, refer to our article [How to update Play Store app]({{site.baseurl}}/en/play-store-update/) for further guidance.
 
@@ -151,7 +151,7 @@ To make purchases from the Play Store, including apps, games, online service sub
 
 Here's how to do it:
  - Open Play Store, go to ***Settings → Payments and Subscriptions → Payment Methods → Add a Credit or Debit Card***.
-<img alt="Add payment method in Play Store" title="Add payment method in Play Store" loading="lazy" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-faqs/add-payment-method-in-play-store.jpg">
+<img alt="Add payment method in Play Store" title="Add payment method in Play Store" loading="lazy" class="article-image" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-faqs/add-payment-method-in-play-store.webp">
 - Enter the card information in the available fields.
 
 ## How can I filter Play Store content by age and apply parental control?
@@ -159,7 +159,7 @@ Here's how to do it:
 If your device is shared with children, consider applying content restrictions based on maturity levels.
 
 Access ***Settings → Family → Parental Controls***. You will need to create a PIN, and then you can choose your desired maturity level (options include 3, 7, 12, 16, 18). 
-<img alt="Enable parental controls in Play Store" title="Enable parental controls in Play Store" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-faqs/parent-controls.jpg">
+<img alt="Enable parental controls in Play Store" title="Enable parental controls in Play Store" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/{{page.lang}}/play-store-faqs/parent-controls.webp">
 
 ## Can I use one Google Account on multiple devices simultaneously?
 

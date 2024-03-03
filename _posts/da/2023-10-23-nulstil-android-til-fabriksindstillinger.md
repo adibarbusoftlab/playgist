@@ -4,7 +4,7 @@ title: "Telefon / tablet nulstilling - Sådan returnerer du Android til fabriksi
 description: "Nulstilling til fabriksindstillinger udføres, når Android fungerer dårligt, eller når du ønsker at slette alle data permanent. Find de to nulstillingsmetoder."
 author: adrian
 categories: [Android]
-image: assets/images/posts/dk/nulstil-android/nulstil-android-til-fabriksindstillinger.png
+image: assets/images/posts/dk/nulstil-android/nulstil-android-til-fabriksindstillinger.webp
 permalink: /da/nulstil-android-til-fabriksindstillinger/
 lang: da
 lang-ref: reset-android-to-factory-settings
@@ -41,7 +41,7 @@ Den nemmeste metode til at starte en enhedsnulstilling er at få adgang til nuls
 
 Placeringen af fabriksnulstillingsmenuen varierer afhængigt af enhedsproducenten og Android-versionen. Derfor er den hurtigste metode til at finde nulstillingsmenuen at foretage en søgning, f.eks. ’nulstil’ eller ’slet’, inden for indstillingsmenuen.
 
-<img alt="Søg efter nulstil til fabriks standard indstillinger i Android" title="Søg efter nulstil til fabriks standard indstillinger i Android" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/nulstil-android/sog-efter-nulstil-menu-i-android.jpg">
+<img alt="Søg efter nulstil til fabriks standard indstillinger i Android" title="Søg efter nulstil til fabriks standard indstillinger i Android" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/nulstil-android/sog-efter-nulstil-menu-i-android.webp">
 
 Generelle måder at få adgang til nulstillingsmuligheden inkluderer disse:
 
@@ -56,24 +56,24 @@ Generelle måder at få adgang til nulstillingsmuligheden inkluderer disse:
 
 Før du udfører en fabriksnulstilling, kan du overveje alternative nulstillingsmuligheder som "Nulstil alle indstillinger", "Nulstil netværksindstillinger" og "Nulstil tilgængelighedsindstillinger".
 
-<img alt="Muligheder for at nulstille Android-enhed" title="Muligheder for at nulstille Android-enhed" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/nulstil-android/nulstil-indstillinger.jpg">
+<img alt="Muligheder for at nulstille Android-enhed" title="Muligheder for at nulstille Android-enhed" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/nulstil-android/nulstil-indstillinger.webp">
 
 Disse muligheder tillader dig ofte at nulstille specifikke aspekter af din enheds konfiguration uden at slette alle dine data. Sørg for at udforske disse alternativer, hvis en fuld fabriksnulstilling ikke er nødvendig for din specifikke situation.
 
 Nulstil alle indstillinger:
-<img alt="Nulstil indstillinger til standard" title="Nulstil indstillinger til standard" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/nulstil-android/nulstil-alle-indstillinger.jpg">
+<img alt="Nulstil indstillinger til standard" title="Nulstil indstillinger til standard" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/nulstil-android/nulstil-alle-indstillinger.webp">
 
 Nulstil netværksindstillinger:
-<img alt="Nulstil netværksindstillinger til standard" title="Nulstil netværksindstillinger til standard" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/nulstil-android/nulstil-netvaerksindstillinger.jpg">
+<img alt="Nulstil netværksindstillinger til standard" title="Nulstil netværksindstillinger til standard" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/nulstil-android/nulstil-netvaerksindstillinger.webp">
 
 Nulstil tilgængelighedsindstillinger:
-<img alt="Nulstil tilgængeligheds indstillinger til standard" title="Nulstil tilgængeligheds indstillinger til standard" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/nulstil-android/nulstil-tilgaengelighedsindstillinger.jpg">
+<img alt="Nulstil tilgængeligheds indstillinger til standard" title="Nulstil tilgængeligheds indstillinger til standard" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/nulstil-android/nulstil-tilgaengelighedsindstillinger.webp">
 
 ### 3. Udførelse af Fabriksnulstillingen
 
 Vælg muligheden Fabriksdata nulstil, gennemgå listen over datatyper, der slettes fra telefonens interne hukommelse (som vist nedenfor), og tryk derefter på "Nulstil".
 
-<img alt="Slettede data ved fabriks nulstillings operation" title="Slettede data ved fabriks nulstillings operation" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/nulstil-android/slettet-data-fabriksnulstilling.jpg">
+<img alt="Slettede data ved fabriks nulstillings operation" title="Slettede data ved fabriks nulstillings operation" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/dk/nulstil-android/slettet-data-fabriksnulstilling.webp">
 
 For at bekræfte nulstillingsoperationen skal du trykke på knappen "Slet alt".
 

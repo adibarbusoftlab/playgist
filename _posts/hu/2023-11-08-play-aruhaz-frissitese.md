@@ -4,7 +4,7 @@ title: "Play Áruház: automatikus frissítés vs. manuális frissítés"
 description: "Használja a Play Áruház legújabb verzióját a meglévő tartalmak teljes hozzáféréséhez. Ismerje meg a frissítés két módját: automatikus és manuális."
 author: adrian
 categories: [Play Aruhaz]
-image: assets/images/posts/hu/frissites-play-aruhaz/frissites-play-aruhaz_kiemelt.png
+image: assets/images/posts/hu/frissites-play-aruhaz/frissites-play-aruhaz_kiemelt.webp
 permalink: /hu/play-aruhaz-frissitese/
 lang: hu
 lang-ref: update-play-store
@@ -34,15 +34,15 @@ Mielőtt részletesen kitérnénk a frissítési folyamatra, fontos megérteni a
 A legkönnyebb módja a Play Áruház frissítésének közvetlenül az alkalmazáson keresztül, a következők szerint:
 
 1. Nyissa meg a **_Play Áruház_** alkalmazást, és lépjen be a fiók opciók menüjébe. (Régebbi készülékeken az elérés a három vízszintes vonallal ábrázolt gombon keresztül történik, amely a képernyő bal felső sarkában található.)
-   <img alt="Hozzáférési beállítások a Play Áruház frissítéséhez" title="Hozzáférési beállítások a Play Áruház frissítéséhez" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/hu/frissites-play-aruhaz/hozzaferes-frissites-beallitasok-play-aruhaz.jpg">
+   <img alt="Hozzáférési beállítások a Play Áruház frissítéséhez" title="Hozzáférési beállítások a Play Áruház frissítéséhez" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/hu/frissites-play-aruhaz/hozzaferes-frissites-beallitasok-play-aruhaz.webp">
 
 2. Görgessen le az **_"Részletek"_** részhez, ahol információkat talál a jelenlegi Google Play Áruház verziójáról. Érintse meg az **_"Play Áruház frissítése"_** gombot, hogy megkeresse az új elérhető verziókat.
-   <img alt="Frissítés a Play Áruház alkalmazással" title="Frissítés a Play Áruház alkalmazással" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/hu/frissites-play-aruhaz/frissites-play-aruhaz.jpg">
+   <img alt="Frissítés a Play Áruház alkalmazással" title="Frissítés a Play Áruház alkalmazással" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/hu/frissites-play-aruhaz/frissites-play-aruhaz.webp">
 
 3. Ha újabb verzió érhető el, értesítés jelenik meg, és meg kell nyomnia az "Telepítés" gombot a frissítés indításához. Fontos, hogy stabil internetkapcsolattal rendelkezzen, lehetőleg Wi-Fi-n keresztül, a zökkenőmentes frissítési folyamat érdekében.
 
 4. Ha már a legfrissebb verzióval rendelkezik, akkor értesítést kap arról, hogy nincs elérhető frissítés.
-   <img alt="A Google Play Áruház alkalmazás frissítve lett" title="A Google Play Áruház alkalmazás frissítve lett" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/hu/frissites-play-aruhaz/play-aruhaz-alkalmazas-frissult.jpg">
+   <img alt="A Google Play Áruház alkalmazás frissítve lett" title="A Google Play Áruház alkalmazás frissítve lett" loading="lazy" class="article-image medium-width-img" src="{{site.baseurl}}/assets/images/posts/hu/frissites-play-aruhaz/play-aruhaz-alkalmazas-frissult.webp">
 
 ## Módszer 2: Play Áruház kézi frissítése APK fájl segítségével
 

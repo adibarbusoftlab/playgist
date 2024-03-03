@@ -4,7 +4,7 @@ title: "Telefon / táblkagép alaphelyzetbe állítása - hogyan állítsuk viss
 description: "Gyári visszaállítás szükséges, ha az Android hibás vagy az összes adatot törölné. Ismerje meg a két visszaállítási módszert itt!"
 author: adrian
 categories: [Android]
-image: assets/images/posts/hu/android-visszaallitas/android-visszaallitasa-gyari-beallitasokhoz_kiemelt.png
+image: assets/images/posts/hu/android-visszaallitas/android-visszaallitasa-gyari-beallitasokhoz_kiemelt.webp
 permalink: /hu/android-gyari-beallitasokra-visszaallitas/
 lang: hu
 lang-ref: reset-android-to-factory-settings
@@ -41,7 +41,7 @@ A legegyszerűbb módszer az eszköz visszaállításának elindítására az An
 
 A gyári visszaállítási menü helye változhat az eszköz gyártójától és az Android verziótól függően. Ezért a leggyorsabb módja a visszaállítási menü megtalálásának egy keresés, például a "visszaállítás" vagy "törlés" kifejezések használata a Beállítások menüben.
 
-<img alt="Keresés az alapértelmezett gyári beállításokra való visszaállításhez Androidon" title="Keresés az alapértelmezett gyári beállításokra való visszaállításhez Androidon" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/android-visszaallitas/kereses-a-visszaallitasi-menuban-androidon.jpg">
+<img alt="Keresés az alapértelmezett gyári beállításokra való visszaállításhez Androidon" title="Keresés az alapértelmezett gyári beállításokra való visszaállításhez Androidon" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/android-visszaallitas/kereses-a-visszaallitasi-menuban-androidon.webp">
 
 A visszaállítási opcióhoz való általános hozzáférési módok a következők:
 
@@ -56,24 +56,24 @@ A visszaállítási opcióhoz való általános hozzáférési módok a követke
 
 Mielőtt végrehajtanád a gyári visszaállítást, érdemes alternatív visszaállítási lehetőségeket is megfontolnia, például az "Összes beállítás visszaállítása", "Hálózati beállítások visszaállítása" és "Hozzáférhetőségi beállítások visszaállítása".
 
-<img alt="Lehetőségek az Android eszköz visszaállítására" title="Lehetőségek az Android eszköz visszaállítására" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/android-visszaallitas/visszaallitasi-lehetosegek.jpg">
+<img alt="Lehetőségek az Android eszköz visszaállítására" title="Lehetőségek az Android eszköz visszaállítására" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/android-visszaallitas/visszaallitasi-lehetosegek.webp">
 
 Ezek az opciók gyakran lehetővé teszik a készülék konfigurációjának specifikus részeinek visszaállítását anélkül, hogy az összes adatot törölnénk. Mindenképpen vizsgálja meg ezeket az alternatívákat, ha a teljes gyári visszaállítás nem szükséges a konkrét helyzetében.
 
 Összes beállítás visszaállítása:
-<img alt="Beállítások alaphelyzetbe állítása" title="Beállítások alaphelyzetbe állítása" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/android-visszaallitas/minden-beallitas-visszaallitasa.jpg">
+<img alt="Beállítások alaphelyzetbe állítása" title="Beállítások alaphelyzetbe állítása" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/android-visszaallitas/minden-beallitas-visszaallitasa.webp">
 
 Hálózati beállítások visszaállítása:
-<img alt="Hálózati beállítások alaphelyzetbe állítása" title="Hálózati beállítások alaphelyzetbe állítása" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/android-visszaallitas/halozati-beallitasok-visszaallitasa.jpg">
+<img alt="Hálózati beállítások alaphelyzetbe állítása" title="Hálózati beállítások alaphelyzetbe állítása" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/android-visszaallitas/halozati-beallitasok-visszaallitasa.webp">
 
 Hozzáférhetőségi beállítások visszaállítása:
-<img alt="Hozzáférhetőségi beállítások alaphelyzetbe állítása" title="Hozzáférhetőségi beállítások alaphelyzetbe állítása" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/android-visszaallitas/beallitasok-visszaallitasa-hozzaferhetoseg.jpg">
+<img alt="Hozzáférhetőségi beállítások alaphelyzetbe állítása" title="Hozzáférhetőségi beállítások alaphelyzetbe állítása" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/android-visszaallitas/beallitasok-visszaallitasa-hozzaferhetoseg.webp">
 
 ### 3. A gyári visszaállítás végrehajtása
 
 Válassza ki a **_Gyári adatok visszaállítása_** lehetőséget, tekintse át az adattípusok listáját, amelyeket törlődnek a telefon belső memóriájából (lásd alább), majd kattintson a "Visszaállítás" gombra.
 
-<img alt="Adatok törlése gyári alaphelyzetbe állítási művelettel" title="Adatok törlése gyári alaphelyzetbe állítási művelettel" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/android-visszaallitas/torolt-adatok-gyari-visszaallitas.jpg">
+<img alt="Adatok törlése gyári alaphelyzetbe állítási művelettel" title="Adatok törlése gyári alaphelyzetbe állítási művelettel" loading="lazy" class="article-image large-width-img" src="{{site.baseurl}}/assets/images/posts/hu/android-visszaallitas/torolt-adatok-gyari-visszaallitas.webp">
 
 A visszaállítási művelet megerősítéséhez nyomja meg az "Minden törlése" gombot.
 
