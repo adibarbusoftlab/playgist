@@ -6,14 +6,24 @@
   <link rel="icon" href="{{site.baseurl}}/{{site.favicon}}">
   {% seo %}
 
-  {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
-  {% if posts.size == 0 %}{% assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}{% endif %}
-  {% if posts.size > 1 %}{% for post in posts %}{% if post.lang != page.lang %}
+  {%- assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' -%}
+  {% if posts.size == 0 %}{%- assign posts=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' -%}{%- endif -%}
+  {% if posts.size > 1 %}{%- for post in posts -%}{% if post.lang != page.lang %}
   <link rel="alternate" hreflang="{{ post.lang }}" href="https://{{site.domain}}{{ site.baseurl }}{{post.url}}" />
-  {% endif %}{% endfor %}{% endif %}
+  {%- endif -%}{%- endfor -%}{%- endif -%}
+
+  {% if page.url == "/" %}
+  {%- assign posts=site.posts | where:"lang-ref", "home-index" | sort: 'lang' -%}
+  {% if posts.size == 0 %}{%- assign posts=site.pages | where:"lang-ref", "home-index" | sort: 'lang' -%}{%- endif -%}
+  {% if posts.size > 1 %}{%- for post in posts -%}{% if post.lang != page.lang %}
+  <link rel="alternate" hreflang="{{ post.lang }}" href="https://{{site.domain}}{{ site.baseurl }}{{post.url}}" />
+  {%- endif -%}{%- endfor -%}{%- endif -%}
+  {% endif %}
 
   {% if page.url == "/en/" %}<link rel="canonical" href="/" />{% endif %}
+
   <link href="{{site.baseurl}}/assets/css/theme.css" rel="stylesheet">
+
   {% if jekyll.environment == "production" %}
   <script async src="https://www.googletagmanager.com/gtag/js?id={{site.ganalytics}}"></script>
   <script>
@@ -22,7 +32,8 @@
     gtag('js', new Date());
     gtag('config', '{{site.ganalytics}}');
   </script>
-  {% endif %}
+  {%- endif -%}
+
 </head>
 {% capture layout %}{% if page.layout %}layout-{{ page.layout }}{% endif %}{% endcapture %}
 <body class="{{ layout }}">

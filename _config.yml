@@ -87,13 +87,13 @@ t:
     categoryPageTitle: "Category:"
     mainTopic1:
       name: "Android"
-      url: "/en/categories/android"
+      url: "/en/android"
     mainTopic2:
       name: "Play Store"
-      url: "/en/categories/play-store"
+      url: "/en/play-store"
     mainTopic3:
       name: "Apps & Games"
-      url: "/en/categories/apps"
+      url: "/en/apps"
     newer_posts: "Newer Posts"
     older_posts: "Older Posts"
     searchMenuPlaceholder: "Search.."
@@ -143,10 +143,10 @@ t:
     categoryPageTitle: "Categorie:"
     mainTopic1:
       name: "Android"
-      url: "/ro/categorii/android"
+      url: "/ro/android"
     mainTopic2:
       name: "Magazin Play"
-      url: "/ro/categorii/magazin-play"
+      url: "/ro/magazin-play"
     newer_posts: "Postări mai noi"
     older_posts: "Postări mai vechi"
     searchMenuPlaceholder: "Căutare..."
@@ -196,10 +196,10 @@ t:
     categoryPageTitle: "Kategoria:"
     mainTopic1:
       name: "Android"
-      url: "/fi/postausluokat/android"
+      url: "/fi/android"
     mainTopic2:
       name: "Play Kauppa"
-      url: "/fi/postausluokat/play-kauppa"
+      url: "/fi/play-kauppa"
     newer_posts: "Uudemmat viestit"
     older_posts: "Vanhemmat viestit"
     searchMenuPlaceholder: "Haku..."
@@ -249,10 +249,10 @@ t:
     categoryPageTitle: "Kategoria:"
     mainTopic1:
       name: "Android"
-      url: "/pl/kategorie/android"
+      url: "/pl/android"
     mainTopic2:
       name: "Sklep Play"
-      url: "/pl/kategorie/sklep-play"
+      url: "/pl/sklep-play"
     newer_posts: "Nowsze wpisy"
     older_posts: "Starsze wpisy"
     searchMenuPlaceholder: "Szukaj..."
@@ -302,10 +302,10 @@ t:
     categoryPageTitle: "Kategori:"
     mainTopic1:
       name: "Android"
-      url: "/da/kategorier/android"
+      url: "/da/android"
     mainTopic2:
       name: "Play Butik"
-      url: "/da/kategorier/play-butik"
+      url: "/da/play-butik"
     newer_posts: "Nyere indlæg"
     older_posts: "Ældre indlæg"
     searchMenuPlaceholder: "Søg..."
@@ -355,10 +355,10 @@ t:
     categoryPageTitle: "Kategória:"
     mainTopic1:
       name: "Android"
-      url: "/hu/kategoriak/android"
+      url: "/hu/android"
     mainTopic2:
       name: "Play Aruhaz"
-      url: "/hu/kategoriak/play-aruhaz"
+      url: "/hu/play-aruhaz"
     newer_posts: "Újabb bejegyzések"
     older_posts: "Régebbi bejegyzések"
     searchMenuPlaceholder: "Keresés..."

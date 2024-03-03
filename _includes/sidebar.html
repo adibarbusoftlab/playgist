@@ -19,7 +19,7 @@
       {% if selectedPosts.size > 0 %}
 
       <li>
-        <a href="{{site.baseurl}}/{{page.lang}}/{{site.t[page.lang].postCategoriesNameAndUrl | downcase }}/{{ category[0] | slugify }}">{{category[0] }}</a>
+        <a href="{{site.baseurl}}/{{page.lang}}/{{ category[0] | slugify }}">{{category[0] }}</a>
       </li>
       {% endif %}
       {% endfor %}
