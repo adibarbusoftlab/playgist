@@ -52,7 +52,7 @@ t:
     adsTitle: "Sponsored ads"
     siteCopyright: "All rights reserved."
     siteDescription: "Play Store tutorials and tops of apps"
-    cookieMessage: "By continuing to use this site you consent to the use of cookies on your device as described in the <a href=\"/en/cookie-policy/\" rel=\"nofollow\">cookie policy</a> unless you have disabled them. You can change your cookie settings at any time but parts of this site will not function correctly without them."
+    cookieMessage: "By continuing to use this site you consent to the use of cookies on your device as described in the <a href=\"/en/cookie-policy/\">cookie policy</a> unless you have disabled them. You can change your cookie settings at any time but parts of this site will not function correctly without them."
     cookieBotton: "Agree and proceed"
     homePage:
       name: "Home"
@@ -108,7 +108,7 @@ t:
     adsTitle: "Anunțuri sponsorizate"
     siteCopyright: "Toate drepturile rezervate."
     siteDescription: "Tutoriale Magazin Play și topuri cu aplicații"
-    cookieMessage: "Prin navigarea pe acest site ești de acord cu folosirea cookie-urilor în modul descris în pagina cu <a href=\"/ro/politica-cookie/\" rel=\"nofollow\">politica cookies</a>. Poți schimba oricând setările cookie ale navigatorului web, însă secțiuni din site nu vor funcționa corect."
+    cookieMessage: "Prin navigarea pe acest site ești de acord cu folosirea cookie-urilor în modul descris în pagina cu <a href=\"/ro/politica-cookie/\">politica cookies</a>. Poți schimba oricând setările cookie ale navigatorului web, însă secțiuni din site nu vor funcționa corect."
     cookieBotton: "Accept și continui"
     homePage:
       name: "Acasă"
@@ -161,7 +161,7 @@ t:
     adsTitle: "Sponsoroidut mainokset"
     siteCopyright: "Kaikki oikeudet pidätetään."
     siteDescription: "Play-kaupan opetusohjelmat ja sovellusten parhaimmistot"
-    cookieMessage: "Jatkamalla tämän sivuston käyttöä suostut evästeiden käyttöön laitteellasi, kuten evästepolitiikassa kuvataan, ellei niitä ole poistettu käytöstä. Voit muuttaa evästeasetuksiasi milloin tahansa, mutta tämä sivusto ei toimi oikein ilman niitä."
+    cookieMessage: "Jatkamalla tämän sivuston käyttöä suostut evästeiden käyttöön laitteellasi, kuten <a href=\"/fi/evastepolitiikka\">evästepolitiikassa</a> kuvataan, ellei niitä ole poistettu käytöstä. Voit muuttaa evästeasetuksiasi milloin tahansa, mutta tämä sivusto ei toimi oikein ilman niitä."
     cookieBotton: "Hyväksy ja jatka"
     homePage:
       name: "Etusivu"
@@ -214,7 +214,7 @@ t:
     adsTitle: "Sponsorowane reklamy"
     siteCopyright: "Wszelkie prawa zastrzeżone."
     siteDescription: "Poradniki sklepu Play i najlepsze aplikacje"
-    cookieMessage: "Kontynuując korzystanie z tej strony, wyrażasz zgodę na używanie plików cookie na swoim urządzeniu, zgodnie z opisem w polityce dotyczącej plików cookie, chyba że wyłączyłeś je. Możesz w każdej chwili zmienić ustawienia plików cookie, ale niektóre części tej strony nie będą działać poprawnie bez nich."
+    cookieMessage: "Kontynuując korzystanie z tej strony, wyrażasz zgodę na używanie plików cookie na swoim urządzeniu, zgodnie z opisem w <a href=\"/pl/polityka-dotyczaca-cookies\">polityce dotyczącej plików cookie</a>, chyba że wyłączyłeś je. Możesz w każdej chwili zmienić ustawienia plików cookie, ale niektóre części tej strony nie będą działać poprawnie bez nich."
     cookieBotton: "Zgadzam się i kontynuuję"
     homePage:
       name: "Strona główna"
@@ -267,7 +267,7 @@ t:
     adsTitle: "Sponsorede annoncer"
     siteCopyright: "Alle rettigheder forbeholdes."
     siteDescription: "Play Butik vejledninger og oversigt over apps"
-    cookieMessage: "Ved at fortsætte med at bruge hjemmeside giver du samtykke til brugen af cookies på din enhed, som beskrevet i vores politik angående cookies, medmindre du har deaktiveret dem. Du kan ændre dine cookie indstillinger når som helst, men dele af denne hjemmeside vil ikke fungere korrekt uden dem."
+    cookieMessage: "Ved at fortsætte med at bruge hjemmeside giver du samtykke til brugen af cookies på din enhed, som beskrevet i vores < href=\"/da/cookie-politik\">politik angående cookies</a>, medmindre du har deaktiveret dem. Du kan ændre dine cookie indstillinger når som helst, men dele af denne hjemmeside vil ikke fungere korrekt uden dem."
     cookieBotton: "Accepter og fortsæt"
     homePage:
       name: "Hjem"
@@ -320,7 +320,7 @@ t:
     adsTitle: "Támogatott hirdetések"
     siteCopyright: "Minden jog fenntartva."
     siteDescription: "Útmutatók és cikkek az Androidról, az alkalmazásokról és a Play Áruházról."
-    cookieMessage: "A weboldal használatával hozzájárul készülékén tárolt sütik használatához, ahogyan a korábban leírt sütikre vonatkozó irányelveknek megfelelően, kivéve ha azokat letiltotta. Bármikor módosíthatja a sütibeállításait, de ezek nélkül a weboldal egyes részei nem fognak megfelelően működni."
+    cookieMessage: "A weboldal használatával hozzájárul készülékén tárolt sütik használatához, ahogyan a leírt <a href=\"/hu/sutikre-vonatkozo-iranyelvek\">sütikre vonatkozó irányelveknek</a>, kivéve ha azokat letiltotta. Bármikor módosíthatja a sütibeállításait, de ezek nélkül a weboldal egyes részei nem fognak megfelelően működni."
     cookieBotton: "Elfogadom és továbblépek"
     homePage:
       name: "Főoldal"

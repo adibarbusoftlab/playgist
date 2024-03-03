@@ -750,7 +750,7 @@ span.navigation:before {
 
 .post-meta {
     margin: 10px 0;
-    color: #999;
+    color: #444;
     padding-bottom: 15px;
     border-bottom: 1px dashed #e1e1e1;
     padding-top: 15px;
@@ -906,3 +906,9 @@ span.navigation:before {
 }
 
 // End Page not found error
+
+@media only screen and (max-width: 767px) {
+    #eucookies p {
+        font-size: 13pt;
+    }
+}
