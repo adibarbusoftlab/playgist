@@ -14,7 +14,8 @@ lang-ref: apps_games_categories
     </div>
 
     <div class="row">
-    {% assign category_posts = site.posts | where:"lang", page.lang | where_exp: "post", "post.categories contains 'Apps' or post.categories contains 'Games'" %}
+      {% assign category_posts = site.posts | where:"lang", page.lang | where_exp: "post", "post.categories contains
+      'Apps' or post.categories contains 'Games'" %}
       {% for post in category_posts %}
       {% unless post.featured == true %}
       <section class="col-md-12 mb-2">
