@@ -93,7 +93,7 @@ t:
       url: "/en/play-store"
     mainTopic3:
       name: "Apps & Games"
-      url: "/en/apps"
+      url: "/en/android-apps-and-games"
     newer_posts: "Newer Posts"
     older_posts: "Older Posts"
     searchMenuPlaceholder: "Search.."
