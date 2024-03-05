@@ -14,7 +14,11 @@ lang-ref: apps_games_categories
     </div>
 
     <div class="row">
-      {% assign category_posts = site.posts | where:"lang", page.lang | where_exp: "post", "post.categories contains 'Games'" %}
+      {% assign category_posts_apps = site.posts | where: "lang", page.lang | where: "categories", "Apps" %}
+      {% assign category_posts_games = site.posts | where: "lang", page.lang | where: "categories", "Games" %}
+      
+      {% assign category_posts = category_posts_apps | concat: category_posts_games | uniq | sort: "date" | reverse %}
+
       {% for post in category_posts %}
       {% unless post.featured == true %}
       <section class="col-md-12 mb-2">
