@@ -118,6 +118,17 @@
     </nav>
   </div>
 
+{% assign lista_identificatori = "contact, privacy-policy" | split: "," %}
+
+{% assign lang_ref_in_lista = false %}
+
+{% for identificator in lista_identificatori %}
+{% if page.lang-ref == identificator %}
+{% assign lang_ref_in_lista = true %}
+{% endif %}
+{% endfor %}
+
+{% unless lang_ref_in_lista %}
 <!-- Header Ad -->
 <div class="container header-ad">
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1920137300513655"
@@ -128,6 +139,8 @@
     (adsbygoogle = window.adsbygoogle || []).push({});
   </script>
 </div>
+{% endunless %}
+
   <!-- Container
   ================================================== -->
   <main class="container">
