@@ -118,18 +118,15 @@
     </nav>
   </div>
 
-{% assign lista_identificatori = "contact, privacy-policy, search-page, cookie-policy, about" | split: "," %}
-
-{% assign lang_ref_in_lista = false %}
-
-{% for identificator in lista_identificatori %}
-{% if page.lang-ref == identificator %}
-{% assign lang_ref_in_lista = true %}
+{%- assign no_ad_pages_list = "contact,privacy-policy,search-page,cookie-policy,about" | split: "," -%}
+{%- assign lang_ref_in_list = false -%}
+{%- for page_id in no_ad_pages_list -%}
+{% if page.lang-ref == page_id %}
+{%- assign lang_ref_in_list = true -%}
 {% endif %}
-{% endfor %}
+{%- endfor -%}
 
-{% unless lang_ref_in_lista %}
-<!-- Header Ad -->
+{%- unless lang_ref_in_list -%}
 <div class="container header-ad">
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1920137300513655"
     crossorigin="anonymous"></script>
@@ -139,7 +136,7 @@
     (adsbygoogle = window.adsbygoogle || []).push({});
   </script>
 </div>
-{% endunless %}
+{%- endunless -%}
 
   <!-- Container
   ================================================== -->
